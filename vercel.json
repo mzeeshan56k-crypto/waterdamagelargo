@@ -32,6 +32,16 @@
   ],
   "redirects": [
     {
+      "source": "/fl/largo",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service/water-damage-restoration",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/services",
       "destination": "/service/",
       "permanent": true

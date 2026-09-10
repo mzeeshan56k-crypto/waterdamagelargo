@@ -1,84 +1,5 @@
 [
  {
-  "slug": "largo",
-  "name": "Largo",
-  "title": "Water Damage Restoration Largo FL | Local Dry-Out Crews",
-  "meta": "Water damage restoration in Largo, FL: extraction, drying and repairs for slab homes, villas and rentals from Rosery to East Bay.",
-  "img": "water-damage-hallway-air-movers-largo-home.jpg",
-  "alt": "Drying equipment running in a Largo, FL home after water damage restoration",
-  "intro": [
-   "Water damage restoration in Largo, FL is our home base. Crews cover the whole city, from the Rosery and Largo Central Park area east to Belcher Road, south through Southwest Largo, and out to the East Bay Drive corridor. Call and you get a confirmed arrival window plus instructions for what to shut off before we get there.",
-   "Largo has a particular set of water problems. Nearly every home sits on a slab. Most were built during the 1950s through 1970s boom, and a large share have been repiped once already. Add summer dew points in the seventies and you get losses that spread sideways and dry slowly unless the equipment is right."
-  ],
-  "sections": [
-   {
-    "h": "Who Supplies Water and Sewer in Largo",
-    "p": [
-     "The City of Largo provides water service to addresses inside city limits, with supply purchased through the regional system that Tampa Bay Water operates for Pinellas County. Homes in the unincorporated pockets that surround Largo, including parts of Ridgecrest and areas near Seminole, are typically served by Pinellas County Utilities instead. The two systems have different shutoff hardware and different reporting procedures.",
-     "That matters at the start of a loss. If your meter box sits at the front property line with a city meter, the city handles a leak on the utility side of the meter and you own everything past it. Largo also operates its own wastewater reclamation facility, so a sewer backup that came from the main line gets reported to the city rather than the county. We help you identify which system you are on while the crew is en route."
-    ]
-   },
-   {
-    "h": "Construction Eras and Pipe Material in Largo Homes",
-    "p": [
-     "Largo's housing stock tells you what is likely to fail. Homes from the 1950s and early 1960s were commonly plumbed in galvanized steel with cast iron drain lines under the slab. Those cast iron lines are now well past fifty years old, and they scale, channel and crack, which is why some neighborhoods see repeat backups in the same bathroom.",
-     "The 1970s brought copper, which fails as pinholes, especially where a line was run in contact with concrete. Between the late 1970s and the mid 1990s, polybutylene supply piping was installed widely across Florida, and plenty of Largo houses and villas still have those gray lines with plastic fittings. When we find polybutylene during a cleanup we point it out, because a single fitting failure often means more are coming. Newer construction and repipes use CPVC or PEX, which fail less often but still crack at fittings."
-    ]
-   },
-   {
-    "h": "Local Geography, Drainage and Permits",
-    "p": [
-     "Largo sits inland of the beaches on a low ridge, with land draining toward Cross Bayou to the south, McKay Creek to the west and Allen's Creek to the north. Properties near those corridors, and low-lying areas in the western half of the city, carry mapped flood risk on FEMA maps for Pinellas County. Elevation differences of a foot or two decide whether a heavy August downpour reaches the finished floor or stops at the driveway.",
-     "Permits for structural, electrical, mechanical and roofing repairs are issued by the City of Largo Building Division for city addresses, and by Pinellas County Building Services for unincorporated ones. Water removal and drying do not wait on a permit, but the rebuild scope is written so your licensed trades can pull what they need. In flood hazard areas, the local floodplain administrator also makes the substantial damage determination, which can affect how a major repair has to be done."
-    ]
-   }
-  ],
-  "good": [
-   {
-    "h": "Find Your Shutoff Before You Need It",
-    "b": "In most Largo homes the main shutoff is in a meter box near the front property line and takes a meter key or a large wrench. Toilets, sinks and water heaters have their own angle stops. Locating them today saves hundreds of gallons on the day something fails."
-   },
-   {
-    "h": "Photograph Everything First",
-    "b": "Before you move furniture or start mopping, take wide photos and close-ups of the water, the source and the affected contents. Insurers want to see the original condition, and the photos also help us scope the loss accurately when we arrive."
-   },
-   {
-    "h": "Do Not Rely on Open Windows",
-    "b": "Largo air in summer holds so much moisture that opening windows raises the moisture load inside your house. Closed-system dehumidification is what actually dries a slab home here, which is why fans alone leave wet framing behind a dry-looking wall."
-   }
-  ],
-  "hoods": [
-   "Rosery",
-   "Largo Central Park",
-   "Southwest Largo",
-   "East Bay",
-   "Harbor Bluffs",
-   "Belcher",
-   "Ridgecrest",
-   "Bardmoor"
-  ],
-  "faqs": [
-   {
-    "q": "How quickly can you reach a Largo address?",
-    "a": "Availability is confirmed when you call, and we give you a specific arrival window for your address rather than a vague promise. Largo is our primary service area, so travel time is short across the city."
-   },
-   {
-    "q": "Do you work in Largo villas and condo associations?",
-    "a": "Yes. In attached housing we meter the shared wall on both sides and notify the owner or association when a common wall reads wet, which prevents a second claim in the neighboring unit weeks later."
-   },
-   {
-    "q": "My Largo home has polybutylene pipes. Should I be concerned?",
-    "a": "It is worth a conversation with a licensed plumber. Polybutylene systems installed in Florida from the late 1970s through the mid 1990s have a known record of fitting failures, and many insurers ask about them at renewal."
-   }
-  ],
-  "nearby": [
-   "clearwater",
-   "seminole",
-   "pinellas-park",
-   "belleair"
-  ]
- },
- {
   "slug": "clearwater",
   "name": "Clearwater",
   "title": "Water Damage Restoration Clearwater FL | Extraction & Drying",
@@ -151,7 +72,6 @@
    }
   ],
   "nearby": [
-   "largo",
    "belleair",
    "dunedin",
    "safety-harbor"
@@ -230,7 +150,6 @@
    }
   ],
   "nearby": [
-   "largo",
    "pinellas-park",
    "st-petersburg",
    "madeira-beach"
@@ -309,7 +228,6 @@
    }
   ],
   "nearby": [
-   "largo",
    "st-petersburg",
    "seminole",
    "clearwater"
@@ -390,7 +308,6 @@
   "nearby": [
    "pinellas-park",
    "seminole",
-   "largo",
    "madeira-beach"
   ]
  },
@@ -469,8 +386,7 @@
   "nearby": [
    "clearwater",
    "palm-harbor",
-   "safety-harbor",
-   "largo"
+   "safety-harbor"
   ]
  },
  {
@@ -704,7 +620,6 @@
    }
   ],
   "nearby": [
-   "largo",
    "clearwater",
    "indian-rocks-beach",
    "seminole"
@@ -784,7 +699,6 @@
   ],
   "nearby": [
    "belleair",
-   "largo",
    "madeira-beach",
    "clearwater"
   ]
@@ -864,7 +778,6 @@
   "nearby": [
    "indian-rocks-beach",
    "seminole",
-   "largo",
    "st-petersburg"
   ]
  },

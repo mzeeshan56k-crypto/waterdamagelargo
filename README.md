@@ -5,16 +5,16 @@ Plain static HTML: no build step, no framework, no dependencies. One CSS file, o
 
 - **Domain:** https://waterdamagerestorationlargo.com
 - **Phone:** +1 833-289-9993 (inbound calls only — no forms, email, SMS or social channels)
-- **Pages:** 40 HTML pages + sitemap.xml + robots.txt + vercel.json
+- **Pages:** 38 HTML pages + sitemap.xml + robots.txt + vercel.json
 
 ## Structure
 
 ```
 index.html                     Home
 service/index.html             Services index
-service/<slug>/index.html      16 service pages
+service/<slug>/index.html      15 service pages
 fl/index.html                  Service areas index
-fl/<area>/index.html           12 city / location pages
+fl/<area>/index.html           11 city / location pages
 blog/index.html                Blog index
 blog/<slug>/index.html         3 articles
 about-us/ contact-us/ faq/ privacy-policy/ terms-of-service/
@@ -35,8 +35,8 @@ Page copy lives in `_data/`:
 
 | File | Contents |
 | --- | --- |
-| `services-a.json`, `services-b.json` | 16 services: intro, scope, process, local sections, signs, FAQs, related services, 300+ char card description |
-| `areas.json` | 12 locations: utility, permitting authority, geography, housing/pipe eras, neighborhoods, "Good to know", FAQs |
+| `services-a.json`, `services-b.json` | 15 services: intro, scope, process, local sections, signs, FAQs, related services, 300+ char card description |
+| `areas.json` | 11 locations: utility, permitting authority, geography, housing/pipe eras, neighborhoods, "Good to know", FAQs |
 | `blog.json` | 3 articles with body blocks and contextual link phrases |
 | `pages.json` | Home sections, About, Contact, FAQ, Privacy, Terms |
 
@@ -55,9 +55,19 @@ vercel deploy --prod
 basic security headers, and legacy redirects (`/services`, `/contact`, `/about`).
 Any static host works: upload the repo root as-is.
 
+## Consolidated pages
+
+`/service/water-damage-restoration/` and `/fl/largo/` were removed and 301 redirect
+to `/` in `vercel.json`. The core "water damage restoration Largo FL" term and its
+secondary variants (company, experts, contractors, repair, cleanup, mitigation,
+emergency water removal, flood damage restoration) are targeted on the home page,
+which carries the absorbed scope content and a `Service` schema block. Largo is
+still a served city everywhere in copy and in `areaServed` schema - it simply has
+no separate location page.
+
 ## SEO implementation
 
-- Unique title + meta description + canonical (real domain) on all 40 pages
+- Unique title + meta description + canonical (real domain) on all 38 pages
 - `LocalBusiness` / `HomeAndConstructionBusiness` schema on every page
 - `FAQPage` schema on every page with an accordion (home, services, locations, FAQ)
 - `BlogPosting` schema on articles, `Service` schema on service pages, `BreadcrumbList` on all inner pages
@@ -78,7 +88,7 @@ Any static host works: upload the repo root as-is.
 
 ## QA results (last run)
 
-- 40 pages checked; **0** broken internal links, **0** missing images
+- 38 pages checked; **0** broken internal links, **0** missing images
 - Word counts: min above 1,000 — average ≈ 1,930 words per page
 - Exactly one `<h1>` per page; no duplicate titles
 - No banned availability or estimate claims
