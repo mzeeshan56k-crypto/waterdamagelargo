@@ -1,350 +1,950 @@
 [
-{
-  "slug":"largo",
-  "name":"Largo",
-  "title":"Water Damage Restoration Largo FL | Local Dry-Out Crews",
-  "meta":"Water damage restoration in Largo, FL. Extraction, drying and repairs for slab homes, villas and rentals from Rosery to East Bay. Call to confirm an arrival window.",
-  "img":"water-damage-hallway-air-movers-largo-home.jpg",
-  "alt":"Drying equipment running in a Largo, FL home after water damage restoration",
-  "intro":[
-    "Water damage restoration in Largo, FL is our home base. Crews cover the whole city, from the Rosery and Largo Central Park area east to Belcher Road, south through Southwest Largo, and out to the East Bay Drive corridor. Call and you get a confirmed arrival window plus instructions for what to shut off before we get there.",
-    "Largo has a particular set of water problems. Nearly every home sits on a slab. Most were built during the 1950s through 1970s boom, and a large share have been repiped once already. Add summer dew points in the seventies and you get losses that spread sideways and dry slowly unless the equipment is right."
+ {
+  "slug": "largo",
+  "name": "Largo",
+  "title": "Water Damage Restoration Largo FL | Local Dry-Out Crews",
+  "meta": "Water damage restoration in Largo, FL: extraction, drying and repairs for slab homes, villas and rentals from Rosery to East Bay.",
+  "img": "water-damage-hallway-air-movers-largo-home.jpg",
+  "alt": "Drying equipment running in a Largo, FL home after water damage restoration",
+  "intro": [
+   "Water damage restoration in Largo, FL is our home base. Crews cover the whole city, from the Rosery and Largo Central Park area east to Belcher Road, south through Southwest Largo, and out to the East Bay Drive corridor. Call and you get a confirmed arrival window plus instructions for what to shut off before we get there.",
+   "Largo has a particular set of water problems. Nearly every home sits on a slab. Most were built during the 1950s through 1970s boom, and a large share have been repiped once already. Add summer dew points in the seventies and you get losses that spread sideways and dry slowly unless the equipment is right."
   ],
-  "sections":[
-    {"h":"Who Supplies Water and Sewer in Largo","p":["The City of Largo provides water service to addresses inside city limits, with supply purchased through the regional system that Tampa Bay Water operates for Pinellas County. Homes in the unincorporated pockets that surround Largo, including parts of Ridgecrest and areas near Seminole, are typically served by Pinellas County Utilities instead. The two systems have different shutoff hardware and different reporting procedures.","That matters at the start of a loss. If your meter box sits at the front property line with a city meter, the city handles a leak on the utility side of the meter and you own everything past it. Largo also operates its own wastewater reclamation facility, so a sewer backup that came from the main line gets reported to the city rather than the county. We help you identify which system you are on while the crew is en route."]},
-    {"h":"Construction Eras and Pipe Material in Largo Homes","p":["Largo's housing stock tells you what is likely to fail. Homes from the 1950s and early 1960s were commonly plumbed in galvanized steel with cast iron drain lines under the slab. Those cast iron lines are now well past fifty years old, and they scale, channel and crack, which is why some neighborhoods see repeat backups in the same bathroom.","The 1970s brought copper, which fails as pinholes, especially where a line was run in contact with concrete. Between the late 1970s and the mid 1990s, polybutylene supply piping was installed widely across Florida, and plenty of Largo houses and villas still have those gray lines with plastic fittings. When we find polybutylene during a cleanup we point it out, because a single fitting failure often means more are coming. Newer construction and repipes use CPVC or PEX, which fail less often but still crack at fittings."]},
-    {"h":"Local Geography, Drainage and Permits","p":["Largo sits inland of the beaches on a low ridge, with land draining toward Cross Bayou to the south, McKay Creek to the west and Allen's Creek to the north. Properties near those corridors, and low-lying areas in the western half of the city, carry mapped flood risk on FEMA maps for Pinellas County. Elevation differences of a foot or two decide whether a heavy August downpour reaches the finished floor or stops at the driveway.","Permits for structural, electrical, mechanical and roofing repairs are issued by the City of Largo Building Division for city addresses, and by Pinellas County Building Services for unincorporated ones. Water removal and drying do not wait on a permit, but the rebuild scope is written so your licensed trades can pull what they need. In flood hazard areas, the local floodplain administrator also makes the substantial damage determination, which can affect how a major repair has to be done."]}
+  "sections": [
+   {
+    "h": "Who Supplies Water and Sewer in Largo",
+    "p": [
+     "The City of Largo provides water service to addresses inside city limits, with supply purchased through the regional system that Tampa Bay Water operates for Pinellas County. Homes in the unincorporated pockets that surround Largo, including parts of Ridgecrest and areas near Seminole, are typically served by Pinellas County Utilities instead. The two systems have different shutoff hardware and different reporting procedures.",
+     "That matters at the start of a loss. If your meter box sits at the front property line with a city meter, the city handles a leak on the utility side of the meter and you own everything past it. Largo also operates its own wastewater reclamation facility, so a sewer backup that came from the main line gets reported to the city rather than the county. We help you identify which system you are on while the crew is en route."
+    ]
+   },
+   {
+    "h": "Construction Eras and Pipe Material in Largo Homes",
+    "p": [
+     "Largo's housing stock tells you what is likely to fail. Homes from the 1950s and early 1960s were commonly plumbed in galvanized steel with cast iron drain lines under the slab. Those cast iron lines are now well past fifty years old, and they scale, channel and crack, which is why some neighborhoods see repeat backups in the same bathroom.",
+     "The 1970s brought copper, which fails as pinholes, especially where a line was run in contact with concrete. Between the late 1970s and the mid 1990s, polybutylene supply piping was installed widely across Florida, and plenty of Largo houses and villas still have those gray lines with plastic fittings. When we find polybutylene during a cleanup we point it out, because a single fitting failure often means more are coming. Newer construction and repipes use CPVC or PEX, which fail less often but still crack at fittings."
+    ]
+   },
+   {
+    "h": "Local Geography, Drainage and Permits",
+    "p": [
+     "Largo sits inland of the beaches on a low ridge, with land draining toward Cross Bayou to the south, McKay Creek to the west and Allen's Creek to the north. Properties near those corridors, and low-lying areas in the western half of the city, carry mapped flood risk on FEMA maps for Pinellas County. Elevation differences of a foot or two decide whether a heavy August downpour reaches the finished floor or stops at the driveway.",
+     "Permits for structural, electrical, mechanical and roofing repairs are issued by the City of Largo Building Division for city addresses, and by Pinellas County Building Services for unincorporated ones. Water removal and drying do not wait on a permit, but the rebuild scope is written so your licensed trades can pull what they need. In flood hazard areas, the local floodplain administrator also makes the substantial damage determination, which can affect how a major repair has to be done."
+    ]
+   }
   ],
-  "good":[
-    {"h":"Find Your Shutoff Before You Need It","b":"In most Largo homes the main shutoff is in a meter box near the front property line and takes a meter key or a large wrench. Toilets, sinks and water heaters have their own angle stops. Locating them today saves hundreds of gallons on the day something fails."},
-    {"h":"Photograph Everything First","b":"Before you move furniture or start mopping, take wide photos and close-ups of the water, the source and the affected contents. Insurers want to see the original condition, and the photos also help us scope the loss accurately when we arrive."},
-    {"h":"Do Not Rely on Open Windows","b":"Largo air in summer holds so much moisture that opening windows raises the moisture load inside your house. Closed-system dehumidification is what actually dries a slab home here, which is why fans alone leave wet framing behind a dry-looking wall."}
+  "good": [
+   {
+    "h": "Find Your Shutoff Before You Need It",
+    "b": "In most Largo homes the main shutoff is in a meter box near the front property line and takes a meter key or a large wrench. Toilets, sinks and water heaters have their own angle stops. Locating them today saves hundreds of gallons on the day something fails."
+   },
+   {
+    "h": "Photograph Everything First",
+    "b": "Before you move furniture or start mopping, take wide photos and close-ups of the water, the source and the affected contents. Insurers want to see the original condition, and the photos also help us scope the loss accurately when we arrive."
+   },
+   {
+    "h": "Do Not Rely on Open Windows",
+    "b": "Largo air in summer holds so much moisture that opening windows raises the moisture load inside your house. Closed-system dehumidification is what actually dries a slab home here, which is why fans alone leave wet framing behind a dry-looking wall."
+   }
   ],
-  "hoods":["Rosery","Largo Central Park","Southwest Largo","East Bay","Harbor Bluffs","Belcher","Ridgecrest","Bardmoor"],
-  "faqs":[
-    {"q":"How quickly can you reach a Largo address?","a":"Availability is confirmed when you call, and we give you a specific arrival window for your address rather than a vague promise. Largo is our primary service area, so travel time is short across the city."},
-    {"q":"Do you work in Largo villas and condo associations?","a":"Yes. In attached housing we meter the shared wall on both sides and notify the owner or association when a common wall reads wet, which prevents a second claim in the neighboring unit weeks later."},
-    {"q":"My Largo home has polybutylene pipes. Should I be concerned?","a":"It is worth a conversation with a licensed plumber. Polybutylene systems installed in Florida from the late 1970s through the mid 1990s have a known record of fitting failures, and many insurers ask about them at renewal."}
+  "hoods": [
+   "Rosery",
+   "Largo Central Park",
+   "Southwest Largo",
+   "East Bay",
+   "Harbor Bluffs",
+   "Belcher",
+   "Ridgecrest",
+   "Bardmoor"
   ],
-  "nearby":["clearwater","seminole","pinellas-park","belleair"]
-},
-{
-  "slug":"clearwater",
-  "name":"Clearwater",
-  "title":"Water Damage Restoration Clearwater FL | Extraction & Drying",
-  "meta":"Water damage restoration in Clearwater, FL. Dry-out for beach condos, Countryside homes and downtown properties. Availability confirmed when you call.",
-  "img":"dehumidifier-kitchen-water-damage-largo.jpg",
-  "alt":"Dehumidifier drying a Clearwater FL kitchen floor after a water leak",
-  "intro":[
-    "Water damage restoration in Clearwater, FL covers a city with three very different building worlds: barrier island condo towers on Clearwater Beach and Sand Key, mainland midcentury neighborhoods like Skycrest and Morningside, and 1980s subdivisions up in Countryside. Each one fails differently and dries differently.",
-    "Our crews carry gear for all three, including long hose runs and portable extractors for interior condo units where a truck cannot reach the door. Call with your address and the water source and we confirm an arrival window on that call."
+  "faqs": [
+   {
+    "q": "How quickly can you reach a Largo address?",
+    "a": "Availability is confirmed when you call, and we give you a specific arrival window for your address rather than a vague promise. Largo is our primary service area, so travel time is short across the city."
+   },
+   {
+    "q": "Do you work in Largo villas and condo associations?",
+    "a": "Yes. In attached housing we meter the shared wall on both sides and notify the owner or association when a common wall reads wet, which prevents a second claim in the neighboring unit weeks later."
+   },
+   {
+    "q": "My Largo home has polybutylene pipes. Should I be concerned?",
+    "a": "It is worth a conversation with a licensed plumber. Polybutylene systems installed in Florida from the late 1970s through the mid 1990s have a known record of fitting failures, and many insurers ask about them at renewal."
+   }
   ],
-  "sections":[
-    {"h":"Clearwater Water Service and Shutoffs","p":["The City of Clearwater runs its own public utilities department, drawing from local wells and supplementing with water purchased through the regional Tampa Bay Water system. Parts of the greater Clearwater area outside city limits are served by Pinellas County Utilities. Because the systems differ, so do the meter boxes and the process for reporting a utility-side leak.","In a condominium, the shutoff picture changes again. Individual units often have no accessible main, and the riser valve is in a shared closet or must be closed by the association's maintenance staff. If you live in a tower on Clearwater Beach or Sand Key, find out today who can close your riser and how to reach them after hours. That single phone number saves a floor of drywall."]},
-    {"h":"Barrier Island Buildings and Salt Air","p":["Clearwater Beach, Sand Key and Island Estates sit at low elevation with mapped surge exposure, and Pinellas County places them in the first-evacuated hurricane zones. Buildings there deal with wind-driven rain against sliders and window walls, plus corrosion. Salt air attacks fasteners, hose clamps, valve bodies and air handler pans, so plumbing and mechanical components fail sooner than they would inland.","Condensate failures are a leading cause of interior water damage in these buildings. Air handlers in closets run nearly year round, and a clogged condensate line or a rusted pan sends water into the wall behind the unit and down to the floor below. We check the closet, the wall cavity and the ceiling of the unit underneath, because in stacked construction one failure is usually two claims."]},
-    {"h":"Mainland Housing Eras and Permitting","p":["Skycrest, Morningside and the neighborhoods around Druid Road and Belleair Road are largely 1950s and 1960s block homes on slab, with cast iron drains and galvanized or copper supply. Countryside and Coachman Ridge came later, in the late 1970s through the 1990s, which puts them squarely in the polybutylene era. Newer infill uses CPVC or PEX. Knowing the era tells us where to look first.","Permits for structural, electrical, mechanical and roofing work in the city go through Clearwater's building and development services, while unincorporated addresses use Pinellas County Building Services. Condominium work usually needs association approval on top of the permit, including approval for equipment placement in common corridors, so we handle that coordination as part of scheduling."]}
+  "nearby": [
+   "clearwater",
+   "seminole",
+   "pinellas-park",
+   "belleair"
+  ]
+ },
+ {
+  "slug": "clearwater",
+  "name": "Clearwater",
+  "title": "Water Damage Restoration Clearwater FL | Extraction & Drying",
+  "meta": "Water damage restoration in Clearwater, FL: dry-out for beach condos, Countryside homes and downtown properties across the city.",
+  "img": "dehumidifier-kitchen-water-damage-largo.jpg",
+  "alt": "Dehumidifier drying a Clearwater FL kitchen floor after a water leak",
+  "intro": [
+   "Water damage restoration in Clearwater, FL covers a city with three very different building worlds: barrier island condo towers on Clearwater Beach and Sand Key, mainland midcentury neighborhoods like Skycrest and Morningside, and 1980s subdivisions up in Countryside. Each one fails differently and dries differently.",
+   "Our crews carry gear for all three, including long hose runs and portable extractors for interior condo units where a truck cannot reach the door. Call with your address and the water source and we confirm an arrival window on that call."
   ],
-  "good":[
-    {"h":"Know Who Closes Your Riser","b":"In a Clearwater condo, the valve that stops your water may not be inside your unit. Get the association maintenance contact and the after-hours number now, and keep them on your phone. Minutes matter when a supply line lets go on the eighth floor."},
-    {"h":"Check the Air Handler Closet Monthly","b":"Look for rust stains in the pan, standing water, or a damp wall at the base. Flush the condensate line at the cleanout. Most interior water damage in coastal Clearwater buildings starts here rather than at a plumbing fixture."},
-    {"h":"Report Water Immediately in Stacked Units","b":"Water travels down. Telling the association and the unit below within the first hour lets everyone check their ceilings and start drying, which almost always reduces the total damage and the number of claims."}
+  "sections": [
+   {
+    "h": "Clearwater Water Service and Shutoffs",
+    "p": [
+     "The City of Clearwater runs its own public utilities department, drawing from local wells and supplementing with water purchased through the regional Tampa Bay Water system. Parts of the greater Clearwater area outside city limits are served by Pinellas County Utilities. Because the systems differ, so do the meter boxes and the process for reporting a utility-side leak.",
+     "In a condominium, the shutoff picture changes again. Individual units often have no accessible main, and the riser valve is in a shared closet or must be closed by the association's maintenance staff. If you live in a tower on Clearwater Beach or Sand Key, find out today who can close your riser and how to reach them after hours. That single phone number saves a floor of drywall."
+    ]
+   },
+   {
+    "h": "Barrier Island Buildings and Salt Air",
+    "p": [
+     "Clearwater Beach, Sand Key and Island Estates sit at low elevation with mapped surge exposure, and Pinellas County places them in the first-evacuated hurricane zones. Buildings there deal with wind-driven rain against sliders and window walls, plus corrosion. Salt air attacks fasteners, hose clamps, valve bodies and air handler pans, so plumbing and mechanical components fail sooner than they would inland.",
+     "Condensate failures are a leading cause of interior water damage in these buildings. Air handlers in closets run nearly year round, and a clogged condensate line or a rusted pan sends water into the wall behind the unit and down to the floor below. We check the closet, the wall cavity and the ceiling of the unit underneath, because in stacked construction one failure is usually two claims."
+    ]
+   },
+   {
+    "h": "Mainland Housing Eras and Permitting",
+    "p": [
+     "Skycrest, Morningside and the neighborhoods around Druid Road and Belleair Road are largely 1950s and 1960s block homes on slab, with cast iron drains and galvanized or copper supply. Countryside and Coachman Ridge came later, in the late 1970s through the 1990s, which puts them squarely in the polybutylene era. Newer infill uses CPVC or PEX. Knowing the era tells us where to look first.",
+     "Permits for structural, electrical, mechanical and roofing work in the city go through Clearwater's building and development services, while unincorporated addresses use Pinellas County Building Services. Condominium work usually needs association approval on top of the permit, including approval for equipment placement in common corridors, so we handle that coordination as part of scheduling."
+    ]
+   }
   ],
-  "hoods":["Clearwater Beach","Sand Key","Island Estates","Countryside","Skycrest","Morningside","Coachman Ridge","Del Oro"],
-  "faqs":[
-    {"q":"Can you get drying equipment into a high-rise condo?","a":"Yes. We use portable extractors and compact dehumidifiers that fit service elevators, and we coordinate placement and power with building maintenance so corridors and egress stay clear."},
-    {"q":"Who pays for damage that spreads to the unit below?","a":"That depends on the association documents and each owner's policy. We meter both units, document the readings separately, and give each owner and the manager the same record so the carriers can sort it out on facts."},
-    {"q":"Is beach property water damage covered by regular insurance?","a":"Plumbing failures generally are. Surge and rising water usually require a separate flood policy. Because coastal losses often involve both, we document the water's entry point and height carefully."}
+  "good": [
+   {
+    "h": "Know Who Closes Your Riser",
+    "b": "In a Clearwater condo, the valve that stops your water may not be inside your unit. Get the association maintenance contact and the after-hours number now, and keep them on your phone. Minutes matter when a supply line lets go on the eighth floor."
+   },
+   {
+    "h": "Check the Air Handler Closet Monthly",
+    "b": "Look for rust stains in the pan, standing water, or a damp wall at the base. Flush the condensate line at the cleanout. Most interior water damage in coastal Clearwater buildings starts here rather than at a plumbing fixture."
+   },
+   {
+    "h": "Report Water Immediately in Stacked Units",
+    "b": "Water travels down. Telling the association and the unit below within the first hour lets everyone check their ceilings and start drying, which almost always reduces the total damage and the number of claims."
+   }
   ],
-  "nearby":["largo","belleair","dunedin","safety-harbor"]
-},
-{
-  "slug":"seminole",
-  "name":"Seminole",
-  "title":"Water Damage Restoration Seminole FL | Slab Home Dry-Out",
-  "meta":"Water damage restoration in Seminole, FL. Extraction, structural drying and repairs near Lake Seminole, Bay Pines and Oakhurst. Call for an arrival window.",
-  "img":"tile-floor-injection-drying-largo-home.jpg",
-  "alt":"Injection drying system on a tile floor in a Seminole, FL home after water damage",
-  "intro":[
-    "Water damage restoration in Seminole, FL deals with quiet, established neighborhoods where the plumbing is the same age as the houses. From Oakhurst and Seminole Gardens to the villas near Bay Pines and the streets around Lake Seminole, most homes are single-story block on slab with original drain lines below the floor.",
-    "That construction sends water sideways under tile and into wall bases fast. Our crews extract, meter the full footprint, and dry with equipment sized to the room. Availability is confirmed when you call and you get a specific arrival window."
+  "hoods": [
+   "Clearwater Beach",
+   "Sand Key",
+   "Island Estates",
+   "Countryside",
+   "Skycrest",
+   "Morningside",
+   "Coachman Ridge",
+   "Del Oro"
   ],
-  "sections":[
-    {"h":"Utilities and Jurisdiction in Seminole","p":["Most addresses in and around the City of Seminole receive potable water and wastewater service from Pinellas County Utilities, with regional supply coming through Tampa Bay Water. Because the county operates the system here, utility-side leaks, main breaks and sewer main backups are reported to the county rather than to a city department.","Jurisdiction also splits for permits. Work inside Seminole city limits is permitted by the city, while the surrounding unincorporated neighborhoods, which include a large share of the area people call Seminole, are permitted by Pinellas County Building Services. We confirm which one applies to your parcel when scoping repairs, because the inspection process and the paperwork are not identical."]},
-    {"h":"Lake Seminole, Long Bayou and Local Drainage","p":["Seminole sits between Boca Ciega Bay on the west and Lake Seminole to the north, with Long Bayou and a network of drainage ditches carrying stormwater toward the intracoastal. Neighborhoods along those low corridors take on water during heavy summer rainfall, especially when a downpour coincides with a high tide that slows outfall.","Sandy soils here drain quickly, but the water table sits shallow. After a multi-inch rain event, yards stay saturated, irrigation boxes fill, and water pushes against slab edges and under thresholds. When we scope a loss in these neighborhoods we look at exterior grade and downspout discharge, because a repeat interior water problem is often an outside drainage problem."]},
-    {"h":"Housing Stock and What Fails First","p":["The bulk of Seminole housing was built between the late 1950s and the 1970s, with additional villa and condo development in the 1980s. That means cast iron drain lines under the slab in the oldest homes, copper supply in the middle group, and polybutylene in the late 1970s through mid 1990s construction. Water heaters commonly sit in garages or utility closets with no pan or a pan with no drain line.","Florida rooms and screened enclosures added over an existing patio slab are another local pattern. Those additions often have low-slope roofs tied poorly into the main roof, and the transition leaks during wind-driven rain. Interior staining along the wall where the addition meets the original house is one of the most common calls we take in this area."]}
+  "faqs": [
+   {
+    "q": "Can you get drying equipment into a high-rise condo?",
+    "a": "Yes. We use portable extractors and compact dehumidifiers that fit service elevators, and we coordinate placement and power with building maintenance so corridors and egress stay clear."
+   },
+   {
+    "q": "Who pays for damage that spreads to the unit below?",
+    "a": "That depends on the association documents and each owner's policy. We meter both units, document the readings separately, and give each owner and the manager the same record so the carriers can sort it out on facts."
+   },
+   {
+    "q": "Is beach property water damage covered by regular insurance?",
+    "a": "Plumbing failures generally are. Surge and rising water usually require a separate flood policy. Because coastal losses often involve both, we document the water's entry point and height carefully."
+   }
   ],
-  "good":[
-    {"h":"Add a Pan and Drain to the Water Heater","b":"Many Seminole garages have a tank sitting straight on the slab. A pan with a routed drain line turns a tank failure from a flooded hallway into a wet garage floor. It is inexpensive work for a licensed plumber."},
-    {"h":"Watch the Slab Edge After Heavy Rain","b":"Check thresholds, sliders and the garage door line during a downpour. Water pooling at the slab edge means grade or downspouts are directing water at the house, which is fixable before it becomes an interior loss."},
-    {"h":"Camera the Drain Line After a Second Backup","b":"Repeat clogs in the same fixture in a 1960s Seminole home usually mean the cast iron line below the slab has failed, not that someone used too much paper. A camera inspection tells you which section needs replacement."}
+  "nearby": [
+   "largo",
+   "belleair",
+   "dunedin",
+   "safety-harbor"
+  ]
+ },
+ {
+  "slug": "seminole",
+  "name": "Seminole",
+  "title": "Water Damage Restoration Seminole FL | Slab Home Dry-Out",
+  "meta": "Water damage restoration in Seminole, FL: extraction, structural drying and repairs near Lake Seminole, Bay Pines and Oakhurst.",
+  "img": "tile-floor-injection-drying-largo-home.jpg",
+  "alt": "Injection drying system on a tile floor in a Seminole, FL home after water damage",
+  "intro": [
+   "Water damage restoration in Seminole, FL deals with quiet, established neighborhoods where the plumbing is the same age as the houses. From Oakhurst and Seminole Gardens to the villas near Bay Pines and the streets around Lake Seminole, most homes are single-story block on slab with original drain lines below the floor.",
+   "That construction sends water sideways under tile and into wall bases fast. Our crews extract, meter the full footprint, and dry with equipment sized to the room. Availability is confirmed when you call and you get a specific arrival window."
   ],
-  "hoods":["Oakhurst","Seminole Gardens","Bay Pines","Ridgewood","Boca Ciega","Bardmoor","Lake Seminole area","Seminole Mall district"],
-  "faqs":[
-    {"q":"Do you serve unincorporated addresses near Seminole?","a":"Yes. Much of the Seminole area is unincorporated Pinellas County, and we work throughout it. The only practical difference is which building department handles permits for the rebuild phase."},
-    {"q":"Water is coming up through my tile after rain. What is that?","a":"Usually water entering at the slab edge or a failed threshold, or a groundwater path under the slab after saturation. We meter the slab and perimeter to separate that from a plumbing leak, because the fix and the coverage are different."},
-    {"q":"Can you dry tile without removing it?","a":"Sometimes. Tile bonded to a wet slab traps moisture, so we read under and around it. If moisture will not release, targeted removal beats sealing water under a floor you just paid to keep."}
+  "sections": [
+   {
+    "h": "Utilities and Jurisdiction in Seminole",
+    "p": [
+     "Most addresses in and around the City of Seminole receive potable water and wastewater service from Pinellas County Utilities, with regional supply coming through Tampa Bay Water. Because the county operates the system here, utility-side leaks, main breaks and sewer main backups are reported to the county rather than to a city department.",
+     "Jurisdiction also splits for permits. Work inside Seminole city limits is permitted by the city, while the surrounding unincorporated neighborhoods, which include a large share of the area people call Seminole, are permitted by Pinellas County Building Services. We confirm which one applies to your parcel when scoping repairs, because the inspection process and the paperwork are not identical."
+    ]
+   },
+   {
+    "h": "Lake Seminole, Long Bayou and Local Drainage",
+    "p": [
+     "Seminole sits between Boca Ciega Bay on the west and Lake Seminole to the north, with Long Bayou and a network of drainage ditches carrying stormwater toward the intracoastal. Neighborhoods along those low corridors take on water during heavy summer rainfall, especially when a downpour coincides with a high tide that slows outfall.",
+     "Sandy soils here drain quickly, but the water table sits shallow. After a multi-inch rain event, yards stay saturated, irrigation boxes fill, and water pushes against slab edges and under thresholds. When we scope a loss in these neighborhoods we look at exterior grade and downspout discharge, because a repeat interior water problem is often an outside drainage problem."
+    ]
+   },
+   {
+    "h": "Housing Stock and What Fails First",
+    "p": [
+     "The bulk of Seminole housing was built between the late 1950s and the 1970s, with additional villa and condo development in the 1980s. That means cast iron drain lines under the slab in the oldest homes, copper supply in the middle group, and polybutylene in the late 1970s through mid 1990s construction. Water heaters commonly sit in garages or utility closets with no pan or a pan with no drain line.",
+     "Florida rooms and screened enclosures added over an existing patio slab are another local pattern. Those additions often have low-slope roofs tied poorly into the main roof, and the transition leaks during wind-driven rain. Interior staining along the wall where the addition meets the original house is one of the most common calls we take in this area."
+    ]
+   }
   ],
-  "nearby":["largo","pinellas-park","st-petersburg","madeira-beach"]
-},
-{
-  "slug":"pinellas-park",
-  "name":"Pinellas Park",
-  "title":"Water Damage Restoration Pinellas Park FL | Flood & Leak Dry-Out",
-  "meta":"Water damage restoration in Pinellas Park, FL. Extraction, drying and mold control for slab homes, Mainlands villas and Gateway businesses.",
-  "img":"flooded-storage-room-standing-water-largo.jpg",
-  "alt":"Standing water in a Pinellas Park FL room before emergency water extraction",
-  "intro":[
-    "Water damage restoration in Pinellas Park, FL means working in one of the flattest, lowest parts of the county. The city is laced with drainage canals for a reason. When a summer storm drops three inches in an hour, water has nowhere to run quickly, and it backs up into garages, villas and shop floors.",
-    "We handle both sides of that: storm and groundwater intrusion, and the ordinary plumbing failures in homes built during the 1960s through 1980s. Extraction, drying with logged readings, and repairs, with an arrival window confirmed on your call."
+  "good": [
+   {
+    "h": "Add a Pan and Drain to the Water Heater",
+    "b": "Many Seminole garages have a tank sitting straight on the slab. A pan with a routed drain line turns a tank failure from a flooded hallway into a wet garage floor. It is inexpensive work for a licensed plumber."
+   },
+   {
+    "h": "Watch the Slab Edge After Heavy Rain",
+    "b": "Check thresholds, sliders and the garage door line during a downpour. Water pooling at the slab edge means grade or downspouts are directing water at the house, which is fixable before it becomes an interior loss."
+   },
+   {
+    "h": "Camera the Drain Line After a Second Backup",
+    "b": "Repeat clogs in the same fixture in a 1960s Seminole home usually mean the cast iron line below the slab has failed, not that someone used too much paper. A camera inspection tells you which section needs replacement."
+   }
   ],
-  "sections":[
-    {"h":"City Utilities and Stormwater Canals","p":["The City of Pinellas Park provides water and wastewater service to most addresses in the city, with regional supply delivered through the Tampa Bay Water system. The city also maintains an extensive stormwater network, including the canal and ditch system that drains toward Joe's Creek and eventually into Tampa Bay. Those channels are the reason a flat city drains at all.","When a canal or ditch is choked with vegetation or debris, the neighborhoods behind it back up first. If your street holds water longer than it used to, that is worth reporting to the city's public works department. From a restoration standpoint, storm water that entered from outside is treated as contaminated, so porous material it soaked gets removed rather than dried in place."]},
-    {"h":"Low Elevation, High Water Table and Flood Zones","p":["Pinellas Park sits at low elevation with a shallow water table, and FEMA maps place substantial portions of the city in special flood hazard areas. Repeat losses here are often groundwater and rainfall driven rather than plumbing driven. Garages, enclosed patios and slab-level storage take water first because they sit closest to grade.","Because so much of the city carries mapped flood risk, substantial damage rules can come into play on a large repair. That determination is made by the local floodplain administrator based on repair cost versus building value. We document the water line and the extent of damage carefully for that reason, and permits for the rebuild go through the city's building division."]},
-    {"h":"Mainlands Villas, Mobile Home Parks and Gateway Business Space","p":["Pinellas Park has a heavy concentration of 55-plus villa communities such as the Mainlands, plus large manufactured home parks along Park Boulevard and 49th Street. In villas, a single supply line failure crosses the shared wall into the neighbor's unit within hours, so we meter both sides and notify the association. In manufactured homes, water collects in the belly wrap under the floor where it cannot drain, rotting decking from below while the interior looks fine.","On the commercial side, the Gateway area near Roosevelt and the industrial corridors carry warehouses, light manufacturing and service businesses in 1970s and 1980s buildings with flat roofs and rooftop package units. Condensate line failures and roof ponding after a downpour are the losses we see most, and those jobs get phased so the business keeps operating."]}
+  "hoods": [
+   "Oakhurst",
+   "Seminole Gardens",
+   "Bay Pines",
+   "Ridgewood",
+   "Boca Ciega",
+   "Bardmoor",
+   "Lake Seminole area",
+   "Seminole Mall district"
   ],
-  "good":[
-    {"h":"Elevate What You Store in the Garage","b":"In a flat, low-lying city, garage and patio storage is the first thing to get wet. Shelving that lifts boxes six inches off the slab prevents most of the loss, and it costs almost nothing compared to replacing what was on the floor."},
-    {"h":"Know Your Flood Zone and Your Coverage","b":"A standard homeowners policy generally excludes rising water. If your parcel is in a mapped flood hazard area, a separate flood policy is what responds. Check your zone before hurricane season rather than during a claim."},
-    {"h":"Check Under a Manufactured Home Yearly","b":"Look for sagging or heavy belly wrap, damp insulation and water stains on the underside. Catching a slow supply leak inside the wrap protects the floor decking, which is expensive to replace once it softens."}
+  "faqs": [
+   {
+    "q": "Do you serve unincorporated addresses near Seminole?",
+    "a": "Yes. Much of the Seminole area is unincorporated Pinellas County, and we work throughout it. The only practical difference is which building department handles permits for the rebuild phase."
+   },
+   {
+    "q": "Water is coming up through my tile after rain. What is that?",
+    "a": "Usually water entering at the slab edge or a failed threshold, or a groundwater path under the slab after saturation. We meter the slab and perimeter to separate that from a plumbing leak, because the fix and the coverage are different."
+   },
+   {
+    "q": "Can you dry tile without removing it?",
+    "a": "Sometimes. Tile bonded to a wet slab traps moisture, so we read under and around it. If moisture will not release, targeted removal beats sealing water under a floor you just paid to keep."
+   }
   ],
-  "hoods":["Mainlands","Pinellas Park Historic District","Gateway","Park Boulevard corridor","Bonnie Bay","Skyview","49th Street corridor","Cross Bayou"],
-  "faqs":[
-    {"q":"Is storm water treated differently from a pipe leak?","a":"Yes. Water from outside carries sediment and bacteria and is handled as contaminated, so soaked carpet pad, drywall base and insulation come out instead of being dried. A clean supply leak allows us to save far more material."},
-    {"q":"Do you work in the Mainlands and other villa communities?","a":"Regularly. We meter shared walls on both sides, coordinate equipment placement with the association, and give each owner the same documentation so the two claims do not conflict."},
-    {"q":"My garage floods every big rain. Can that be fixed?","a":"Often it can be improved with grade correction, a door threshold seal, downspout extension or a drain. We document the water path so a drainage contractor can address the cause instead of you drying it out every summer."}
+  "nearby": [
+   "largo",
+   "pinellas-park",
+   "st-petersburg",
+   "madeira-beach"
+  ]
+ },
+ {
+  "slug": "pinellas-park",
+  "name": "Pinellas Park",
+  "title": "Water Damage Restoration Pinellas Park FL | Dry-Out & Repair",
+  "meta": "Water damage restoration in Pinellas Park, FL: extraction, drying and mold control for slab homes, Mainlands villas and Gateway businesses.",
+  "img": "flooded-storage-room-standing-water-largo.jpg",
+  "alt": "Standing water in a Pinellas Park FL room before emergency water extraction",
+  "intro": [
+   "Water damage restoration in Pinellas Park, FL means working in one of the flattest, lowest parts of the county. The city is laced with drainage canals for a reason. When a summer storm drops three inches in an hour, water has nowhere to run quickly, and it backs up into garages, villas and shop floors.",
+   "We handle both sides of that: storm and groundwater intrusion, and the ordinary plumbing failures in homes built during the 1960s through 1980s. Extraction, drying with logged readings, and repairs, with an arrival window confirmed on your call."
   ],
-  "nearby":["largo","st-petersburg","seminole","clearwater"]
-},
-{
-  "slug":"st-petersburg",
-  "name":"St. Petersburg",
-  "title":"Water Damage Restoration St. Petersburg FL | Dry-Out & Repairs",
-  "meta":"Water damage restoration in St. Petersburg, FL. Extraction, structural drying and rebuild for bungalows, Shore Acres homes and downtown buildings.",
-  "img":"water-damage-before-after-restoration-largo.jpg",
-  "alt":"Before and after interior restoration following water damage in a St. Petersburg, FL home",
-  "intro":[
-    "Water damage restoration in St. Petersburg, FL spans a century of construction. Old Northeast and Kenwood bungalows from the 1920s sit on raised piers with plaster walls. Shore Acres and Snell Isle homes sit at the water's edge. Mid-city neighborhoods are 1950s block on slab, and downtown has new towers with stacked plumbing risers.",
-    "Each of those needs a different drying approach. Plaster and raised floors take longer than drywall. Slab homes spread water sideways. Towers move water down. We scope by building type, confirm an arrival window on your call, and log readings every day until the material is dry."
+  "sections": [
+   {
+    "h": "City Utilities and Stormwater Canals",
+    "p": [
+     "The City of Pinellas Park provides water and wastewater service to most addresses in the city, with regional supply delivered through the Tampa Bay Water system. The city also maintains an extensive stormwater network, including the canal and ditch system that drains toward Joe's Creek and eventually into Tampa Bay. Those channels are the reason a flat city drains at all.",
+     "When a canal or ditch is choked with vegetation or debris, the neighborhoods behind it back up first. If your street holds water longer than it used to, that is worth reporting to the city's public works department. From a restoration standpoint, storm water that entered from outside is treated as contaminated, so porous material it soaked gets removed rather than dried in place."
+    ]
+   },
+   {
+    "h": "Low Elevation, High Water Table and Flood Zones",
+    "p": [
+     "Pinellas Park sits at low elevation with a shallow water table, and FEMA maps place substantial portions of the city in special flood hazard areas. Repeat losses here are often groundwater and rainfall driven rather than plumbing driven. Garages, enclosed patios and slab-level storage take water first because they sit closest to grade.",
+     "Because so much of the city carries mapped flood risk, substantial damage rules can come into play on a large repair. That determination is made by the local floodplain administrator based on repair cost versus building value. We document the water line and the extent of damage carefully for that reason, and permits for the rebuild go through the city's building division."
+    ]
+   },
+   {
+    "h": "Mainlands Villas, Mobile Home Parks and Gateway Business Space",
+    "p": [
+     "Pinellas Park has a heavy concentration of 55-plus villa communities such as the Mainlands, plus large manufactured home parks along Park Boulevard and 49th Street. In villas, a single supply line failure crosses the shared wall into the neighbor's unit within hours, so we meter both sides and notify the association. In manufactured homes, water collects in the belly wrap under the floor where it cannot drain, rotting decking from below while the interior looks fine.",
+     "On the commercial side, the Gateway area near Roosevelt and the industrial corridors carry warehouses, light manufacturing and service businesses in 1970s and 1980s buildings with flat roofs and rooftop package units. Condensate line failures and roof ponding after a downpour are the losses we see most, and those jobs get phased so the business keeps operating."
+    ]
+   }
   ],
-  "sections":[
-    {"h":"City Water Resources and Reclaimed Lines","p":["The City of St. Petersburg operates its own water resources department, distributing regionally treated supply from the Tampa Bay Water system and running one of the larger reclaimed water networks in Florida for irrigation. Both systems mean a homeowner may have two separate services entering the property, and a break in an irrigation or reclaimed line can soak a yard and a slab edge without touching your potable meter.","When a leak appears with no change in water use, we check which line is involved. Utility-side breaks are reported to the city, and the city handles the main while you handle everything past the meter. For sewer backups, knowing whether the blockage sits before or after your cleanout determines who is responsible and how a claim proceeds."]},
-    {"h":"Shore Acres, Snell Isle and Chronic Tidal Flooding","p":["Waterfront neighborhoods on the northeast side of St. Petersburg, Shore Acres especially, have a long documented history of street and yard flooding during king tides and heavy rain, well before any hurricane arrives. Homes there sit at very low elevation on filled land, and FEMA maps place much of the area in special flood hazard zones. Repeat water intrusion is a known condition, not a surprise.","That history has consequences for repair. Buildings in flood hazard areas are subject to substantial damage and substantial improvement rules, and the city's floodplain administrator makes that determination when repair costs approach a set share of the structure's value. We document the water height and the damage extent precisely, because that record is what the determination rests on."]},
-    {"h":"Bungalows, Plaster and Raised Floors","p":["The 1920s housing in Old Northeast, Kenwood, Crescent Lake and Roser Park is built differently from anything else in Pinellas County: wood frame on piers with a crawl space, plaster over wood lath, original hardwood floors and cast iron drains. Water in those homes runs into the crawl space and stays, and plaster holds moisture far longer than drywall while looking dry on the surface.","Drying them means reading the plaster and the framing directly, drying the crawl space from below, and being patient with hardwood salvage. Plaster also crumbles instead of cutting cleanly, so demolition decisions are made carefully to preserve original material. Permits for repairs go through the city's development services, and historic district guidelines may apply to exterior work."]}
+  "good": [
+   {
+    "h": "Elevate What You Store in the Garage",
+    "b": "In a flat, low-lying city, garage and patio storage is the first thing to get wet. Shelving that lifts boxes six inches off the slab prevents most of the loss, and it costs almost nothing compared to replacing what was on the floor."
+   },
+   {
+    "h": "Know Your Flood Zone and Your Coverage",
+    "b": "A standard homeowners policy generally excludes rising water. If your parcel is in a mapped flood hazard area, a separate flood policy is what responds. Check your zone before hurricane season rather than during a claim."
+   },
+   {
+    "h": "Check Under a Manufactured Home Yearly",
+    "b": "Look for sagging or heavy belly wrap, damp insulation and water stains on the underside. Catching a slow supply leak inside the wrap protects the floor decking, which is expensive to replace once it softens."
+   }
   ],
-  "good":[
-    {"h":"Learn Your Elevation, Not Just Your Zone","b":"In low-lying St. Petersburg neighborhoods, an elevation certificate tells you how your finished floor compares to the base flood elevation. That number drives your flood insurance rate and what happens if you ever need a major repair."},
-    {"h":"Check the Crawl Space After Every Big Rain","b":"In a 1920s bungalow, water under the floor raises humidity through the whole house. Look at the access, feel the insulation, and get standing water pumped rather than letting it evaporate up into your living space."},
-    {"h":"In a Tower, Find the Riser Contact","b":"Downtown high-rise units usually cannot be isolated by the resident. Get the building engineer's after-hours number now. A supply failure on an upper floor becomes a multi-unit loss in the time it takes to find a phone number."}
+  "hoods": [
+   "Mainlands",
+   "Pinellas Park Historic District",
+   "Gateway",
+   "Park Boulevard corridor",
+   "Bonnie Bay",
+   "Skyview",
+   "49th Street corridor",
+   "Cross Bayou"
   ],
-  "hoods":["Old Northeast","Historic Kenwood","Shore Acres","Snell Isle","Crescent Lake","Jungle Terrace","Downtown","Roser Park"],
-  "faqs":[
-    {"q":"Do you handle plaster walls in older St. Petersburg homes?","a":"Yes. Plaster over lath holds moisture longer than drywall and needs direct meter readings and extended drying. We also handle it carefully during demolition, since it does not cut back cleanly and original material is worth preserving."},
-    {"q":"My street floods during king tides. Is that a claim?","a":"Tidal and rising water is generally a flood policy matter, not a homeowners one. We document the height and pattern of water so the correct carrier can evaluate it, and so any substantial damage review has real data."},
-    {"q":"Can you dry a crawl space under a bungalow?","a":"Yes. We pump the water, remove soaked insulation and failed vapor barrier, dry the joists and subfloor with readings from below, then re-barrier the ground once it is on target."}
+  "faqs": [
+   {
+    "q": "Is storm water treated differently from a pipe leak?",
+    "a": "Yes. Water from outside carries sediment and bacteria and is handled as contaminated, so soaked carpet pad, drywall base and insulation come out instead of being dried. A clean supply leak allows us to save far more material."
+   },
+   {
+    "q": "Do you work in the Mainlands and other villa communities?",
+    "a": "Regularly. We meter shared walls on both sides, coordinate equipment placement with the association, and give each owner the same documentation so the two claims do not conflict."
+   },
+   {
+    "q": "My garage floods every big rain. Can that be fixed?",
+    "a": "Often it can be improved with grade correction, a door threshold seal, downspout extension or a drain. We document the water path so a drainage contractor can address the cause instead of you drying it out every summer."
+   }
   ],
-  "nearby":["pinellas-park","seminole","largo","madeira-beach"]
-},
-{
-  "slug":"dunedin",
-  "name":"Dunedin",
-  "title":"Water Damage Restoration Dunedin FL | Leak & Storm Dry-Out",
-  "meta":"Water damage restoration in Dunedin, FL. Extraction and structural drying for historic bungalows, waterfront homes and condos near the Causeway.",
-  "img":"air-movers-drying-covered-patio-largo.jpg",
-  "alt":"Air movers drying a covered patio slab at a Dunedin, FL property after water intrusion",
-  "intro":[
-    "Water damage restoration in Dunedin, FL runs from the historic downtown bungalows near Main Street to waterfront homes along Edgewater Drive and the condominium buildings by the Causeway. It is an older, dense, coastal city, and water problems here are usually a mix of aging plumbing and exposure to the Gulf.",
-    "Our crews extract, map the moisture, and dry with equipment sized to the building. Call with your address and the source and we confirm an arrival window right then."
+  "nearby": [
+   "largo",
+   "st-petersburg",
+   "seminole",
+   "clearwater"
+  ]
+ },
+ {
+  "slug": "st-petersburg",
+  "name": "St. Petersburg",
+  "title": "Water Damage Restoration St. Petersburg FL | Dry-Out Crews",
+  "meta": "Water damage restoration in St. Petersburg, FL: extraction, structural drying and rebuild for bungalows, Shore Acres homes and downtown buildings.",
+  "img": "water-damage-before-after-restoration-largo.jpg",
+  "alt": "Before and after interior restoration following water damage in a St. Petersburg, FL home",
+  "intro": [
+   "Water damage restoration in St. Petersburg, FL spans a century of construction. Old Northeast and Kenwood bungalows from the 1920s sit on raised piers with plaster walls. Shore Acres and Snell Isle homes sit at the water's edge. Mid-city neighborhoods are 1950s block on slab, and downtown has new towers with stacked plumbing risers.",
+   "Each of those needs a different drying approach. Plaster and raised floors take longer than drywall. Slab homes spread water sideways. Towers move water down. We scope by building type, confirm an arrival window on your call, and log readings every day until the material is dry."
   ],
-  "sections":[
-    {"h":"Dunedin Runs Its Own Water System","p":["Dunedin operates its own water utility and treats local groundwater at a city reverse osmosis facility, supplementing with regional supply as needed. That independence means service issues, main breaks and utility-side leaks are reported directly to the city rather than to the county. Meter boxes and shutoff hardware are city standard, and the city can assist with an emergency shutoff on the utility side.","Dunedin also runs its own wastewater collection and treatment. If a backup appears to originate beyond your cleanout, report it to the city right away, because responsibility for the blockage and any resulting claim depends on where it sat. We document the backup location and the water category as part of the cleanup record."]},
-    {"h":"Coastal Exposure Along Edgewater and the Causeway","p":["Dunedin's western edge faces St. Joseph Sound with low elevation along Edgewater Drive, the marina district and the approach to the Dunedin Causeway toward Honeymoon Island. Those areas carry mapped flood and surge exposure, and Pinellas County places them in early evacuation zones. Wind-driven rain off the water also tests window walls, sliders and low-slope roofs on the condominium buildings there.","Salt air corrodes hardware faster here than inland. Air handler pans rust through, condensate lines clog, valve stems seize and hose clamps fail. A large share of interior water losses in coastal Dunedin buildings start at a mechanical component rather than a plumbing fixture, which is why we always open the air handler closet during the assessment."]},
-    {"h":"Historic Housing, Additions and Permits","p":["Downtown Dunedin has bungalows and cottages from the 1920s through the 1940s, some on piers with crawl spaces, some on slab, frequently with plaster walls and original wood floors. Surrounding neighborhoods filled in during the 1950s through 1970s with block homes, and later subdivisions to the north and east date from the 1980s and 1990s, which is the polybutylene supply piping era.","Older homes also carry decades of additions: enclosed porches, Florida rooms and carport conversions built over existing slabs. Those transitions leak in wind-driven rain, and the interior stain shows up along the wall where old meets new. Permits for repairs go through Dunedin's building division, and work in the downtown historic area may face additional review for exterior changes."]}
+  "sections": [
+   {
+    "h": "City Water Resources and Reclaimed Lines",
+    "p": [
+     "The City of St. Petersburg operates its own water resources department, distributing regionally treated supply from the Tampa Bay Water system and running one of the larger reclaimed water networks in Florida for irrigation. Both systems mean a homeowner may have two separate services entering the property, and a break in an irrigation or reclaimed line can soak a yard and a slab edge without touching your potable meter.",
+     "When a leak appears with no change in water use, we check which line is involved. Utility-side breaks are reported to the city, and the city handles the main while you handle everything past the meter. For sewer backups, knowing whether the blockage sits before or after your cleanout determines who is responsible and how a claim proceeds."
+    ]
+   },
+   {
+    "h": "Shore Acres, Snell Isle and Chronic Tidal Flooding",
+    "p": [
+     "Waterfront neighborhoods on the northeast side of St. Petersburg, Shore Acres especially, have a long documented history of street and yard flooding during king tides and heavy rain, well before any hurricane arrives. Homes there sit at very low elevation on filled land, and FEMA maps place much of the area in special flood hazard zones. Repeat water intrusion is a known condition, not a surprise.",
+     "That history has consequences for repair. Buildings in flood hazard areas are subject to substantial damage and substantial improvement rules, and the city's floodplain administrator makes that determination when repair costs approach a set share of the structure's value. We document the water height and the damage extent precisely, because that record is what the determination rests on."
+    ]
+   },
+   {
+    "h": "Bungalows, Plaster and Raised Floors",
+    "p": [
+     "The 1920s housing in Old Northeast, Kenwood, Crescent Lake and Roser Park is built differently from anything else in Pinellas County: wood frame on piers with a crawl space, plaster over wood lath, original hardwood floors and cast iron drains. Water in those homes runs into the crawl space and stays, and plaster holds moisture far longer than drywall while looking dry on the surface.",
+     "Drying them means reading the plaster and the framing directly, drying the crawl space from below, and being patient with hardwood salvage. Plaster also crumbles instead of cutting cleanly, so demolition decisions are made carefully to preserve original material. Permits for repairs go through the city's development services, and historic district guidelines may apply to exterior work."
+    ]
+   }
   ],
-  "good":[
-    {"h":"Flush the Condensate Line Each Spring","b":"On the coast, air handler pans and drain lines fail more often than pipes. Clearing the line at the cleanout before summer prevents the overflow that soaks a closet wall and the floor beyond it."},
-    {"h":"Protect Original Wood Floors Fast","b":"Dunedin's older homes often have original hardwood worth saving. Mat drying started within a day or two frequently saves those boards. Waiting a week almost always turns it into a replacement."},
-    {"h":"Ask About Elevation Before a Big Remodel","b":"If you are near the water or the Causeway, find out whether your parcel is in a mapped flood hazard area. That answer affects insurance and what the city can require if a major repair is ever needed."}
+  "good": [
+   {
+    "h": "Learn Your Elevation, Not Just Your Zone",
+    "b": "In low-lying St. Petersburg neighborhoods, an elevation certificate tells you how your finished floor compares to the base flood elevation. That number drives your flood insurance rate and what happens if you ever need a major repair."
+   },
+   {
+    "h": "Check the Crawl Space After Every Big Rain",
+    "b": "In a 1920s bungalow, water under the floor raises humidity through the whole house. Look at the access, feel the insulation, and get standing water pumped rather than letting it evaporate up into your living space."
+   },
+   {
+    "h": "In a Tower, Find the Riser Contact",
+    "b": "Downtown high-rise units usually cannot be isolated by the resident. Get the building engineer's after-hours number now. A supply failure on an upper floor becomes a multi-unit loss in the time it takes to find a phone number."
+   }
   ],
-  "hoods":["Downtown Dunedin","Edgewater","Dunedin Causeway","Jerry Lake","Cedar Creek","Highland Woods","Fairway Estates","Patricia Avenue corridor"],
-  "faqs":[
-    {"q":"Who do I call for a utility-side leak in Dunedin?","a":"Dunedin runs its own water and wastewater utility, so the city handles main breaks and leaks on the utility side of your meter. Anything past the meter is the property owner's responsibility, and that is where we work."},
-    {"q":"Do you dry plaster walls in historic Dunedin homes?","a":"Yes, with pin meters directly in the plaster and extended equipment time. Plaster reads dry at the surface long before the base coat and framing are dry, so the log matters more than the feel."},
-    {"q":"Can drying save a wood floor in a 1930s cottage?","a":"Often, if we start quickly. Solid wood on a raised floor responds well to mat systems, and we dry the crawl space below at the same time so moisture is not pushed back up into the boards."}
+  "hoods": [
+   "Old Northeast",
+   "Historic Kenwood",
+   "Shore Acres",
+   "Snell Isle",
+   "Crescent Lake",
+   "Jungle Terrace",
+   "Downtown",
+   "Roser Park"
   ],
-  "nearby":["clearwater","palm-harbor","safety-harbor","largo"]
-},
-{
-  "slug":"safety-harbor",
-  "name":"Safety Harbor",
-  "title":"Water Damage Restoration Safety Harbor FL | Dry-Out Crews",
-  "meta":"Water damage restoration in Safety Harbor, FL. Extraction, drying and repairs for bayfront cottages, Philippe Park area homes and newer subdivisions.",
-  "img":"drying-equipment-staged-largo-garage.jpg",
-  "alt":"Drying equipment staged in a Safety Harbor, FL garage after a water loss",
-  "intro":[
-    "Water damage restoration in Safety Harbor, FL covers a small bayfront city with a wide range of housing. Downtown has 1920s through 1940s cottages near the waterfront. The neighborhoods off Bayshore and Enterprise are 1960s and 1970s block homes. North and east toward Countryside, subdivisions date from the 1980s and 1990s.",
-    "Water problems here follow that timeline: cast iron drains and plaster in the old core, polybutylene supply lines in the newer subdivisions, and Old Tampa Bay exposure along the shoreline. Call and we confirm your arrival window and the shutoff steps to take first."
+  "faqs": [
+   {
+    "q": "Do you handle plaster walls in older St. Petersburg homes?",
+    "a": "Yes. Plaster over lath holds moisture longer than drywall and needs direct meter readings and extended drying. We also handle it carefully during demolition, since it does not cut back cleanly and original material is worth preserving."
+   },
+   {
+    "q": "My street floods during king tides. Is that a claim?",
+    "a": "Tidal and rising water is generally a flood policy matter, not a homeowners one. We document the height and pattern of water so the correct carrier can evaluate it, and so any substantial damage review has real data."
+   },
+   {
+    "q": "Can you dry a crawl space under a bungalow?",
+    "a": "Yes. We pump the water, remove soaked insulation and failed vapor barrier, dry the joists and subfloor with readings from below, then re-barrier the ground once it is on target."
+   }
   ],
-  "sections":[
-    {"h":"City Water, Sewer and Reporting","p":["Safety Harbor operates its own water and wastewater utility for addresses inside the city, with regional supply delivered through the Tampa Bay Water system. A few surrounding parcels fall under Pinellas County Utilities. Because the city runs the system, utility-side leaks and sewer main issues are reported directly to city public works.","Knowing which side of the meter a leak sits on decides who fixes it and who pays. If your meter dial is spinning with every fixture closed, the leak is on your side and you own it. We help identify that on the phone, and we document the source and the water category for your file once we are on site."]},
-    {"h":"Old Tampa Bay Shoreline and Alligator Creek","p":["Safety Harbor sits on the western shore of Old Tampa Bay, with Philippe Park and the marina area at very low elevation and Alligator Creek and Bishop Creek draining through the city. Bayfront and creekside parcels carry mapped flood and surge risk, and easterly winds during a tropical system push water up against this side of the bay rather than away from it.","Rainfall matters as much as surge. A slow-moving summer storm over the creek basins raises water quickly, and yards and low driveways hold it. When we scope a loss in these areas we record the water height on the exterior and interior, since that measurement separates rainfall intrusion from surge and drives both the drying plan and the claim handling."]},
-    {"h":"Housing Eras, Additions and Permits","p":["Downtown Safety Harbor's older cottages often combine plaster walls, wood floors, raised floors or slabs poured decades ago, and drain lines that predate modern materials. They dry slowly and need direct readings rather than assumptions. The 1960s and 1970s block homes nearby are the classic Pinellas pattern: slab, cast iron below, copper or galvanized above, water heater in the garage.","Subdivisions built from the late 1970s into the 1990s bring polybutylene supply piping, which fails at fittings and is a common cause of the sudden interior floods we respond to. Permits for structural, mechanical, electrical and roofing repairs are issued by the City of Safety Harbor building department, and downtown properties may have additional review for exterior work."]}
+  "nearby": [
+   "pinellas-park",
+   "seminole",
+   "largo",
+   "madeira-beach"
+  ]
+ },
+ {
+  "slug": "dunedin",
+  "name": "Dunedin",
+  "title": "Water Damage Restoration Dunedin FL | Leak & Storm Dry-Out",
+  "meta": "Water damage restoration in Dunedin, FL: extraction and structural drying for historic bungalows, waterfront homes and condos near the Causeway.",
+  "img": "air-movers-drying-covered-patio-largo.jpg",
+  "alt": "Air movers drying a covered patio slab at a Dunedin, FL property after water intrusion",
+  "intro": [
+   "Water damage restoration in Dunedin, FL runs from the historic downtown bungalows near Main Street to waterfront homes along Edgewater Drive and the condominium buildings by the Causeway. It is an older, dense, coastal city, and water problems here are usually a mix of aging plumbing and exposure to the Gulf.",
+   "Our crews extract, map the moisture, and dry with equipment sized to the building. Call with your address and the source and we confirm an arrival window right then."
   ],
-  "good":[
-    {"h":"Watch for the Warm Spot on the Floor","b":"A warm or damp patch on tile in a slab home often means a hot water line is leaking under the concrete. A licensed plumber with leak detection equipment can pinpoint it before it soaks the wall bases in three rooms."},
-    {"h":"Clear the Creek-Side Yard Drains","b":"If your property drains toward Alligator or Bishop Creek, keep swales, yard drains and downspout outlets clear. Blocked drainage is what turns a normal summer downpour into water at the threshold."},
-    {"h":"Replace Rubber Washer Hoses","b":"Braided stainless hoses cost little and remove one of the most common causes of sudden indoor flooding. Close the laundry valves when you travel, especially in a home with the laundry inside rather than in the garage."}
+  "sections": [
+   {
+    "h": "Dunedin Runs Its Own Water System",
+    "p": [
+     "Dunedin operates its own water utility and treats local groundwater at a city reverse osmosis facility, supplementing with regional supply as needed. That independence means service issues, main breaks and utility-side leaks are reported directly to the city rather than to the county. Meter boxes and shutoff hardware are city standard, and the city can assist with an emergency shutoff on the utility side.",
+     "Dunedin also runs its own wastewater collection and treatment. If a backup appears to originate beyond your cleanout, report it to the city right away, because responsibility for the blockage and any resulting claim depends on where it sat. We document the backup location and the water category as part of the cleanup record."
+    ]
+   },
+   {
+    "h": "Coastal Exposure Along Edgewater and the Causeway",
+    "p": [
+     "Dunedin's western edge faces St. Joseph Sound with low elevation along Edgewater Drive, the marina district and the approach to the Dunedin Causeway toward Honeymoon Island. Those areas carry mapped flood and surge exposure, and Pinellas County places them in early evacuation zones. Wind-driven rain off the water also tests window walls, sliders and low-slope roofs on the condominium buildings there.",
+     "Salt air corrodes hardware faster here than inland. Air handler pans rust through, condensate lines clog, valve stems seize and hose clamps fail. A large share of interior water losses in coastal Dunedin buildings start at a mechanical component rather than a plumbing fixture, which is why we always open the air handler closet during the assessment."
+    ]
+   },
+   {
+    "h": "Historic Housing, Additions and Permits",
+    "p": [
+     "Downtown Dunedin has bungalows and cottages from the 1920s through the 1940s, some on piers with crawl spaces, some on slab, frequently with plaster walls and original wood floors. Surrounding neighborhoods filled in during the 1950s through 1970s with block homes, and later subdivisions to the north and east date from the 1980s and 1990s, which is the polybutylene supply piping era.",
+     "Older homes also carry decades of additions: enclosed porches, Florida rooms and carport conversions built over existing slabs. Those transitions leak in wind-driven rain, and the interior stain shows up along the wall where old meets new. Permits for repairs go through Dunedin's building division, and work in the downtown historic area may face additional review for exterior changes."
+    ]
+   }
   ],
-  "hoods":["Downtown Safety Harbor","Philippe Park area","Bayshore Boulevard","Harbor Oaks","Briar Creek","Huntington Woods","Enterprise Road corridor","Mease Hospital area"],
-  "faqs":[
-    {"q":"Do you cover Safety Harbor for smaller losses?","a":"Yes. A single bathroom or laundry leak is a common call. Even small losses get moisture mapping, because water under a wall base spreads farther than the visible puddle suggests."},
-    {"q":"How do you handle water damage in a 1930s cottage?","a":"With direct meter readings in plaster and framing, longer equipment time, and careful demolition decisions to preserve original material. Raised floors also get dried from below where access exists."},
-    {"q":"Is bayfront water damage a flood claim?","a":"If water rose from the bay or a creek, that is generally flood coverage. A plumbing failure inside the home is generally homeowners coverage. Documenting the water's origin and height is what keeps the claim on the right track."}
+  "good": [
+   {
+    "h": "Flush the Condensate Line Each Spring",
+    "b": "On the coast, air handler pans and drain lines fail more often than pipes. Clearing the line at the cleanout before summer prevents the overflow that soaks a closet wall and the floor beyond it."
+   },
+   {
+    "h": "Protect Original Wood Floors Fast",
+    "b": "Dunedin's older homes often have original hardwood worth saving. Mat drying started within a day or two frequently saves those boards. Waiting a week almost always turns it into a replacement."
+   },
+   {
+    "h": "Ask About Elevation Before a Big Remodel",
+    "b": "If you are near the water or the Causeway, find out whether your parcel is in a mapped flood hazard area. That answer affects insurance and what the city can require if a major repair is ever needed."
+   }
   ],
-  "nearby":["clearwater","oldsmar","dunedin","palm-harbor"]
-},
-{
-  "slug":"oldsmar",
-  "name":"Oldsmar",
-  "title":"Water Damage Restoration Oldsmar FL | Extraction & Drying",
-  "meta":"Water damage restoration in Oldsmar, FL. Dry-out and repairs for East Lake area homes, Mobbly Bayou neighborhoods and local businesses.",
-  "img":"dehumidifier-kitchen-water-damage-largo.jpg",
-  "alt":"Dehumidifier running in an Oldsmar, FL kitchen after an appliance water leak",
-  "intro":[
-    "Water damage restoration in Oldsmar, FL mostly means newer housing than the rest of Pinellas County. Much of the city was built from the 1980s through the 2000s, with subdivisions off Tampa Road, Curlew Road and the East Lake corridor. That changes what fails and how fast we can dry it.",
-    "Newer does not mean immune. This is the heart of the polybutylene and early CPVC era, and two-story homes here send water down through ceilings instead of sideways across a slab. Call and we confirm an arrival window plus the shutoff to close first."
+  "hoods": [
+   "Downtown Dunedin",
+   "Edgewater",
+   "Dunedin Causeway",
+   "Jerry Lake",
+   "Cedar Creek",
+   "Highland Woods",
+   "Fairway Estates",
+   "Patricia Avenue corridor"
   ],
-  "sections":[
-    {"h":"Oldsmar Utilities and Shutoffs","p":["The City of Oldsmar operates its own water and wastewater utility for addresses inside city limits, with regional supply delivered through the Tampa Bay Water system, while some surrounding parcels are served by Pinellas County Utilities. Utility-side leaks and sewer main problems inside the city are reported to Oldsmar public works.","In two-story homes, which are common here, the shutoff question is more urgent than in a single-story slab house. Water from a second-floor bathroom or laundry runs down the wall cavity and drops through the first-floor ceiling within minutes. Knowing the main valve location and having a key at hand is the single best preparation you can make."]},
-    {"h":"Mobbly Bayou, Brooker Creek and Old Tampa Bay","p":["Oldsmar sits at the north end of Old Tampa Bay, with Mobbly Bayou and Brooker Creek draining through the area and low, marshy ground along the shoreline. Waterfront and bayou-adjacent parcels carry mapped flood exposure, while inland subdivisions on higher ground deal mainly with rainfall and drainage rather than surge.","Northeast Pinellas gets heavy convective rainfall in summer, and the retention ponds that serve these subdivisions are designed for a certain volume. When a storm exceeds it, water backs up into the lowest yards and against garage doors. We check grade, garage thresholds and downspout discharge when a home takes on water repeatedly during rain."]},
-    {"h":"Construction Era and Two-Story Losses","p":["Housing built in Oldsmar from roughly 1978 through 1995 may have polybutylene supply piping, the gray plastic line with plastic or copper crimped fittings that has a documented failure record across Florida. Homes from the late 1990s onward generally use CPVC or PEX. Drain lines are PVC rather than cast iron, so the chronic under-slab backup problem common in older Pinellas neighborhoods is much less frequent here.","The dominant loss pattern instead is second-floor water. A washer hose, a toilet supply, an angle stop or a tub overflow releases upstairs, and the damage appears in the ceiling below, the wall cavity between floors, and the stair stringer. We dry from both sides simultaneously and read the floor structure between levels, because that assembly holds moisture the longest."]}
+  "faqs": [
+   {
+    "q": "Who do I call for a utility-side leak in Dunedin?",
+    "a": "Dunedin runs its own water and wastewater utility, so the city handles main breaks and leaks on the utility side of your meter. Anything past the meter is the property owner's responsibility, and that is where we work."
+   },
+   {
+    "q": "Do you dry plaster walls in historic Dunedin homes?",
+    "a": "Yes, with pin meters directly in the plaster and extended equipment time. Plaster reads dry at the surface long before the base coat and framing are dry, so the log matters more than the feel."
+   },
+   {
+    "q": "Can drying save a wood floor in a 1930s cottage?",
+    "a": "Often, if we start quickly. Solid wood on a raised floor responds well to mat systems, and we dry the crawl space below at the same time so moisture is not pushed back up into the boards."
+   }
   ],
-  "good":[
-    {"h":"Put a Pan Under the Upstairs Washer","b":"A drain pan with a routed line under a second-floor washer turns a hose failure into a contained mess instead of a first-floor ceiling repair. Same logic applies to a second-floor water heater."},
-    {"h":"Check Angle Stops on a Schedule","b":"Plastic angle stops and supply risers under toilets and sinks age quietly. Look for crusting, corrosion or stiffness twice a year and have a plumber replace the tired ones. They cost little and cause big losses."},
-    {"h":"Know if You Have Polybutylene","b":"Look under a sink for gray flexible pipe with plastic fittings. If your Oldsmar home is from the 1980s or early 1990s and still has it, talk to a licensed plumber about a repipe, and ask your insurer how it affects your policy."}
+  "nearby": [
+   "clearwater",
+   "palm-harbor",
+   "safety-harbor",
+   "largo"
+  ]
+ },
+ {
+  "slug": "safety-harbor",
+  "name": "Safety Harbor",
+  "title": "Water Damage Restoration Safety Harbor FL | Dry-Out Crews",
+  "meta": "Water damage restoration in Safety Harbor, FL: extraction, drying and repairs for bayfront cottages, Philippe Park homes and newer subdivisions.",
+  "img": "drying-equipment-staged-largo-garage.jpg",
+  "alt": "Drying equipment staged in a Safety Harbor, FL garage after a water loss",
+  "intro": [
+   "Water damage restoration in Safety Harbor, FL covers a small bayfront city with a wide range of housing. Downtown has 1920s through 1940s cottages near the waterfront. The neighborhoods off Bayshore and Enterprise are 1960s and 1970s block homes. North and east toward Countryside, subdivisions date from the 1980s and 1990s.",
+   "Water problems here follow that timeline: cast iron drains and plaster in the old core, polybutylene supply lines in the newer subdivisions, and Old Tampa Bay exposure along the shoreline. Call and we confirm your arrival window and the shutoff steps to take first."
   ],
-  "hoods":["East Lake corridor","Mobbly Bayou","Cypress Lakes","Bayside Meadows","Gull-Aire Village","Forest Lakes","Sheffield Park","Tampa Road corridor"],
-  "faqs":[
-    {"q":"Water came through my downstairs ceiling. What happens first?","a":"We relieve any trapped water safely, open the ceiling where it is holding, then read the floor assembly between levels. Drying happens from above and below at once, since that sandwich holds moisture longest."},
-    {"q":"Are newer Oldsmar homes easier to dry?","a":"Generally yes. PVC drains, wood-framed second floors and modern insulation dry faster than block walls and terrazzo slabs. The tradeoff is that water travels between floors and affects more finished surfaces."},
-    {"q":"Do you serve East Lake addresses outside city limits?","a":"Yes. Much of the East Lake area is unincorporated Pinellas County. The work is the same, and permits for the rebuild phase go through Pinellas County Building Services instead of the city."}
+  "sections": [
+   {
+    "h": "City Water, Sewer and Reporting",
+    "p": [
+     "Safety Harbor operates its own water and wastewater utility for addresses inside the city, with regional supply delivered through the Tampa Bay Water system. A few surrounding parcels fall under Pinellas County Utilities. Because the city runs the system, utility-side leaks and sewer main issues are reported directly to city public works.",
+     "Knowing which side of the meter a leak sits on decides who fixes it and who pays. If your meter dial is spinning with every fixture closed, the leak is on your side and you own it. We help identify that on the phone, and we document the source and the water category for your file once we are on site."
+    ]
+   },
+   {
+    "h": "Old Tampa Bay Shoreline and Alligator Creek",
+    "p": [
+     "Safety Harbor sits on the western shore of Old Tampa Bay, with Philippe Park and the marina area at very low elevation and Alligator Creek and Bishop Creek draining through the city. Bayfront and creekside parcels carry mapped flood and surge risk, and easterly winds during a tropical system push water up against this side of the bay rather than away from it.",
+     "Rainfall matters as much as surge. A slow-moving summer storm over the creek basins raises water quickly, and yards and low driveways hold it. When we scope a loss in these areas we record the water height on the exterior and interior, since that measurement separates rainfall intrusion from surge and drives both the drying plan and the claim handling."
+    ]
+   },
+   {
+    "h": "Housing Eras, Additions and Permits",
+    "p": [
+     "Downtown Safety Harbor's older cottages often combine plaster walls, wood floors, raised floors or slabs poured decades ago, and drain lines that predate modern materials. They dry slowly and need direct readings rather than assumptions. The 1960s and 1970s block homes nearby are the classic Pinellas pattern: slab, cast iron below, copper or galvanized above, water heater in the garage.",
+     "Subdivisions built from the late 1970s into the 1990s bring polybutylene supply piping, which fails at fittings and is a common cause of the sudden interior floods we respond to. Permits for structural, mechanical, electrical and roofing repairs are issued by the City of Safety Harbor building department, and downtown properties may have additional review for exterior work."
+    ]
+   }
   ],
-  "nearby":["safety-harbor","palm-harbor","clearwater","dunedin"]
-},
-{
-  "slug":"belleair",
-  "name":"Belleair",
-  "title":"Water Damage Restoration Belleair FL | Careful Dry-Out & Repair",
-  "meta":"Water damage restoration in Belleair, FL. Detail-focused extraction, drying and repairs for historic estates, bluff homes and Belleair condominiums.",
-  "img":"water-damage-before-after-restoration-largo.jpg",
-  "alt":"Before and after water damage repair in a Belleair, FL home interior",
-  "intro":[
-    "Water damage restoration in Belleair, FL is finish-sensitive work. The town's housing includes 1920s estate homes from the Belleview era, mature midcentury properties along the bluff, and condominium buildings overlooking Clearwater Harbor. Original millwork, plaster, hardwood and custom tile are common, and they are not things you rip out casually.",
-    "Our approach here leans on drying rather than demolition: mat systems for wood floors, cavity injection for plaster and drywall, and careful containment to protect adjacent rooms. Call and we confirm an arrival window for your address."
+  "good": [
+   {
+    "h": "Watch for the Warm Spot on the Floor",
+    "b": "A warm or damp patch on tile in a slab home often means a hot water line is leaking under the concrete. A licensed plumber with leak detection equipment can pinpoint it before it soaks the wall bases in three rooms."
+   },
+   {
+    "h": "Clear the Creek-Side Yard Drains",
+    "b": "If your property drains toward Alligator or Bishop Creek, keep swales, yard drains and downspout outlets clear. Blocked drainage is what turns a normal summer downpour into water at the threshold."
+   },
+   {
+    "h": "Replace Rubber Washer Hoses",
+    "b": "Braided stainless hoses cost little and remove one of the most common causes of sudden indoor flooding. Close the laundry valves when you travel, especially in a home with the laundry inside rather than in the garage."
+   }
   ],
-  "sections":[
-    {"h":"The Town Runs Its Own Utility","p":["The Town of Belleair operates its own water utility for residents, with regional supply delivered through the Tampa Bay Water system, and the town has invested in water main replacement across its older streets. Sewer service is provided through the town's system. That means main breaks and utility-side leaks are reported to town public works rather than to the county.","Belleair's older neighborhoods have had decades of utility and irrigation work under the same lawns. When a leak appears without a change in usage, it is worth determining whether it is a potable service line, an irrigation line, or an old branch that was never fully abandoned. We document the source so the right repair, and the right claim, follows."]},
-    {"h":"Bluff Elevation, Harbor Exposure and Mature Trees","p":["Belleair sits on a bluff above Clearwater Harbor, which gives much of the town higher elevation than its neighbors and less direct surge risk. That advantage is not uniform. Properties down the slope, along the harbor and near the causeways sit low, and the town's condominium buildings on the water carry mapped flood and surge exposure like any coastal structure in Pinellas County.","The bluff creates its own drainage pattern. Runoff from higher streets concentrates on the way down, and heavy summer rain finds low driveways, sunken entries and garden-level rooms. Mature live oaks add roots that intrude into old drain lines and lift walkways, changing how water runs across a property. Both factors show up in the repeat losses we see here."]},
-    {"h":"Historic Finishes and Careful Repair","p":["Belleair homes from the 1920s and 1930s often have plaster over lath, plaster crown detail, quarter-sawn oak or heart pine floors, and original casework. Those materials hold moisture longer than modern equivalents and reward patience: direct pin readings, extended dehumidification, and cavity drying rather than opening a wall. Where demolition is unavoidable, cuts are placed at natural breaks so the repair can be finished invisibly.","Midcentury and later homes here are block on slab with the usual Pinellas plumbing history, and many have had custom renovations that complicate a loss. Bonded stone, glued-down wood and built-in cabinetry all trap water. Permits for repairs are issued by the Town of Belleair building department, and the town's review process for exterior work is more involved than in surrounding cities."]}
+  "hoods": [
+   "Downtown Safety Harbor",
+   "Philippe Park area",
+   "Bayshore Boulevard",
+   "Harbor Oaks",
+   "Briar Creek",
+   "Huntington Woods",
+   "Enterprise Road corridor",
+   "Mease Hospital area"
   ],
-  "good":[
-    {"h":"Ask for Drying Before Demolition","b":"Original plaster, hardwood and millwork can often be saved with cavity and mat drying if the response is quick. Always ask what the moisture readings say before agreeing to open a wall or pull a floor."},
-    {"h":"Watch Old Cast Iron Drains","b":"In a home approaching or past one hundred years, drain lines have usually been repaired in sections. Repeat slow drains or a gurgle in an unused fixture is worth a camera inspection before a backup ruins a finished room."},
-    {"h":"Protect Contents Early","b":"Antiques, rugs and art absorb humidity long before they show water stains. Getting them out of the affected area during the first hour prevents most of the loss, and we can block or relocate them on arrival."}
+  "faqs": [
+   {
+    "q": "Do you cover Safety Harbor for smaller losses?",
+    "a": "Yes. A single bathroom or laundry leak is a common call. Even small losses get moisture mapping, because water under a wall base spreads farther than the visible puddle suggests."
+   },
+   {
+    "q": "How do you handle water damage in a 1930s cottage?",
+    "a": "With direct meter readings in plaster and framing, longer equipment time, and careful demolition decisions to preserve original material. Raised floors also get dried from below where access exists."
+   },
+   {
+    "q": "Is bayfront water damage a flood claim?",
+    "a": "If water rose from the bay or a creek, that is generally flood coverage. A plumbing failure inside the home is generally homeowners coverage. Documenting the water's origin and height is what keeps the claim on the right track."
+   }
   ],
-  "hoods":["Belleair bluff","Belleair Country Club area","Pelican Golf Club area","Indian Rocks Road corridor","Belleair Shore vicinity","Harbor View","Ponce de Leon Boulevard","Mehlenbacher Road area"],
-  "faqs":[
-    {"q":"Can original hardwood in a Belleair home be saved?","a":"Frequently, yes. Solid wood responds well to mat drying when the process starts quickly, and sanding and refinishing afterward usually restores the floor at a fraction of replacement cost."},
-    {"q":"How do you protect the rest of the house during work?","a":"Containment, zipper doors, floor protection and negative air where needed. Equipment is placed to keep dry rooms out of the drying system so we are not pulling moisture through your finished spaces."},
-    {"q":"Do you coordinate with the town for permits?","a":"The rebuild scope is written so your licensed trades can pull permits through the Town of Belleair. Water removal and drying begin immediately and do not wait on permitting."}
+  "nearby": [
+   "clearwater",
+   "oldsmar",
+   "dunedin",
+   "palm-harbor"
+  ]
+ },
+ {
+  "slug": "oldsmar",
+  "name": "Oldsmar",
+  "title": "Water Damage Restoration Oldsmar FL | Extraction & Drying",
+  "meta": "Water damage restoration in Oldsmar, FL: dry-out and repairs for East Lake area homes, Mobbly Bayou neighborhoods and local businesses.",
+  "img": "dehumidifier-kitchen-water-damage-largo.jpg",
+  "alt": "Dehumidifier running in an Oldsmar, FL kitchen after an appliance water leak",
+  "intro": [
+   "Water damage restoration in Oldsmar, FL mostly means newer housing than the rest of Pinellas County. Much of the city was built from the 1980s through the 2000s, with subdivisions off Tampa Road, Curlew Road and the East Lake corridor. That changes what fails and how fast we can dry it.",
+   "Newer does not mean immune. This is the heart of the polybutylene and early CPVC era, and two-story homes here send water down through ceilings instead of sideways across a slab. Call and we confirm an arrival window plus the shutoff to close first."
   ],
-  "nearby":["largo","clearwater","indian-rocks-beach","seminole"]
-},
-{
-  "slug":"indian-rocks-beach",
-  "name":"Indian Rocks Beach",
-  "title":"Water Damage Restoration Indian Rocks Beach FL | Coastal Dry-Out",
-  "meta":"Water damage restoration in Indian Rocks Beach, FL. Surge, rain intrusion and plumbing leak dry-out for beach cottages, condos and rentals.",
-  "img":"air-movers-drying-covered-patio-largo.jpg",
-  "alt":"Air movers drying a ground level slab at an Indian Rocks Beach, FL property",
-  "intro":[
-    "Water damage restoration in Indian Rocks Beach, FL is barrier island work. The city occupies a narrow strip between the Gulf and the Intracoastal Waterway, and everything about a water loss here is shaped by that: low elevation, salt air, vacation rental turnover, and buildings that mix 1950s block cottages with new elevated construction.",
-    "We handle both the storm side and the plumbing side, and we treat outside water as contaminated. Call with the address and the water source and we confirm an arrival window for the island."
+  "sections": [
+   {
+    "h": "Oldsmar Utilities and Shutoffs",
+    "p": [
+     "The City of Oldsmar operates its own water and wastewater utility for addresses inside city limits, with regional supply delivered through the Tampa Bay Water system, while some surrounding parcels are served by Pinellas County Utilities. Utility-side leaks and sewer main problems inside the city are reported to Oldsmar public works.",
+     "In two-story homes, which are common here, the shutoff question is more urgent than in a single-story slab house. Water from a second-floor bathroom or laundry runs down the wall cavity and drops through the first-floor ceiling within minutes. Knowing the main valve location and having a key at hand is the single best preparation you can make."
+    ]
+   },
+   {
+    "h": "Mobbly Bayou, Brooker Creek and Old Tampa Bay",
+    "p": [
+     "Oldsmar sits at the north end of Old Tampa Bay, with Mobbly Bayou and Brooker Creek draining through the area and low, marshy ground along the shoreline. Waterfront and bayou-adjacent parcels carry mapped flood exposure, while inland subdivisions on higher ground deal mainly with rainfall and drainage rather than surge.",
+     "Northeast Pinellas gets heavy convective rainfall in summer, and the retention ponds that serve these subdivisions are designed for a certain volume. When a storm exceeds it, water backs up into the lowest yards and against garage doors. We check grade, garage thresholds and downspout discharge when a home takes on water repeatedly during rain."
+    ]
+   },
+   {
+    "h": "Construction Era and Two-Story Losses",
+    "p": [
+     "Housing built in Oldsmar from roughly 1978 through 1995 may have polybutylene supply piping, the gray plastic line with plastic or copper crimped fittings that has a documented failure record across Florida. Homes from the late 1990s onward generally use CPVC or PEX. Drain lines are PVC rather than cast iron, so the chronic under-slab backup problem common in older Pinellas neighborhoods is much less frequent here.",
+     "The dominant loss pattern instead is second-floor water. A washer hose, a toilet supply, an angle stop or a tub overflow releases upstairs, and the damage appears in the ceiling below, the wall cavity between floors, and the stair stringer. We dry from both sides simultaneously and read the floor structure between levels, because that assembly holds moisture the longest."
+    ]
+   }
   ],
-  "sections":[
-    {"h":"Water Service and Island Infrastructure","p":["Indian Rocks Beach receives potable water through Pinellas County Utilities, with regional supply from the Tampa Bay Water system delivered across the intracoastal on transmission lines. The city maintains local infrastructure and coordinates with the county on service issues. Because the island depends on those crossings, a main break or a storm-related outage affects the whole strip at once.","Wastewater service also runs through county and municipal infrastructure with lift stations along the island. In heavy rain, groundwater infiltration raises flow and marginal lines can back up into the lowest fixtures of ground-level units. That water is Category 3 and gets handled with removal, disposal and sanitizing rather than drying in place."]},
-    {"h":"Surge, Evacuation Zones and Elevation","p":["Pinellas County places the barrier islands in Evacuation Zone A, the first zone ordered to leave, and FEMA maps place most of Indian Rocks Beach in special flood hazard areas. The 2024 storm season demonstrated what that means, with surge pushing water into ground-level living space along the barrier islands and leaving many older, non-elevated structures flooded.","Elevation is the deciding factor. Newer homes built to current standards have living space above the base flood elevation with breakaway or non-habitable space below, and they often escape with garage-level damage. Older slab-on-grade cottages take water directly into finished rooms. We record water height inside and outside, because that measurement drives both insurance handling and the substantial damage determination."]},
-    {"h":"The Fifty Percent Rule and Repair Limits","p":["In special flood hazard areas, when the cost to repair a structure reaches fifty percent of its market value, floodplain rules generally require the building to be brought into compliance, which can mean elevating it. The local floodplain administrator makes that determination, and it applies to cumulative work in some jurisdictions. This is the single most consequential thing an island owner learns after a flood.","Our role is documentation and mitigation: photographing and measuring the water line, recording what was removed, and drying the structure to a verified standard. Accurate records help you and your adjuster understand the scope before decisions are locked in. Permits for the rebuild are issued through the City of Indian Rocks Beach building department."]}
+  "good": [
+   {
+    "h": "Put a Pan Under the Upstairs Washer",
+    "b": "A drain pan with a routed line under a second-floor washer turns a hose failure into a contained mess instead of a first-floor ceiling repair. Same logic applies to a second-floor water heater."
+   },
+   {
+    "h": "Check Angle Stops on a Schedule",
+    "b": "Plastic angle stops and supply risers under toilets and sinks age quietly. Look for crusting, corrosion or stiffness twice a year and have a plumber replace the tired ones. They cost little and cause big losses."
+   },
+   {
+    "h": "Know if You Have Polybutylene",
+    "b": "Look under a sink for gray flexible pipe with plastic fittings. If your Oldsmar home is from the 1980s or early 1990s and still has it, talk to a licensed plumber about a repipe, and ask your insurer how it affects your policy."
+   }
   ],
-  "good":[
-    {"h":"Store Nothing of Value at Ground Level","b":"On the island, the lowest level takes water first. Keep documents, electronics and irreplaceable items above the flood elevation, and photograph what you do keep downstairs for your inventory."},
-    {"h":"Know Your Flood Policy Limits","b":"Homeowners coverage generally excludes surge and rising water. Building and contents flood coverage are separate limits, and ground-level enclosures below the flood elevation have restricted coverage. Read those pages before hurricane season."},
-    {"h":"Rinse and Dry After Salt Water","b":"Salt water leaves conductive residue that keeps corroding metal after the water is gone. Affected hardware, fasteners and mechanical components need cleaning, and contaminated porous material needs removal rather than drying."}
+  "hoods": [
+   "East Lake corridor",
+   "Mobbly Bayou",
+   "Cypress Lakes",
+   "Bayside Meadows",
+   "Gull-Aire Village",
+   "Forest Lakes",
+   "Sheffield Park",
+   "Tampa Road corridor"
   ],
-  "hoods":["North Beach","Central Indian Rocks Beach","Gulf Boulevard corridor","Curlew Landings","Harbor Drive","Bay Palms","Indian Rocks Road area","Intracoastal canals"],
-  "faqs":[
-    {"q":"Do you work on vacation rental properties?","a":"Yes, and we understand the booking pressure. We document everything for the owner and any management company, phase the work where possible, and give a realistic completion window rather than an optimistic one."},
-    {"q":"Is salt water damage handled differently?","a":"Yes. Salt water is treated as contaminated, so porous materials that absorbed it are removed. Remaining surfaces are cleaned and treated because salt residue keeps drawing moisture and corroding metal long after drying."},
-    {"q":"What is the fifty percent rule I keep hearing about?","a":"In mapped flood hazard areas, repairs costing fifty percent or more of the structure's market value generally trigger a requirement to bring the building into current floodplain compliance. Your local floodplain administrator makes that call, not a contractor."}
+  "faqs": [
+   {
+    "q": "Water came through my downstairs ceiling. What happens first?",
+    "a": "We relieve any trapped water safely, open the ceiling where it is holding, then read the floor assembly between levels. Drying happens from above and below at once, since that sandwich holds moisture longest."
+   },
+   {
+    "q": "Are newer Oldsmar homes easier to dry?",
+    "a": "Generally yes. PVC drains, wood-framed second floors and modern insulation dry faster than block walls and terrazzo slabs. The tradeoff is that water travels between floors and affects more finished surfaces."
+   },
+   {
+    "q": "Do you serve East Lake addresses outside city limits?",
+    "a": "Yes. Much of the East Lake area is unincorporated Pinellas County. The work is the same, and permits for the rebuild phase go through Pinellas County Building Services instead of the city."
+   }
   ],
-  "nearby":["belleair","largo","madeira-beach","clearwater"]
-},
-{
-  "slug":"madeira-beach",
-  "name":"Madeira Beach",
-  "title":"Water Damage Restoration Madeira Beach FL | Flood & Leak Dry-Out",
-  "meta":"Water damage restoration in Madeira Beach, FL. Surge cleanup, rain intrusion and plumbing leak drying for beach homes, condos and rentals.",
-  "img":"flooded-storage-room-standing-water-largo.jpg",
-  "alt":"Standing water in a ground level room at a Madeira Beach, FL property",
-  "intro":[
-    "Water damage restoration in Madeira Beach, FL happens on a barrier island where the Gulf is on one side and Boca Ciega Bay is on the other. Homes sit low, canals run through the neighborhoods, and John's Pass draws water in both directions with the tide. Water losses here are rarely just a plumbing problem.",
-    "We handle surge and flood cleanout, wind-driven rain intrusion, and ordinary supply line failures in 1950s cottages and newer elevated builds. Availability is confirmed when you call, with an arrival window for the island."
+  "nearby": [
+   "safety-harbor",
+   "palm-harbor",
+   "clearwater",
+   "dunedin"
+  ]
+ },
+ {
+  "slug": "belleair",
+  "name": "Belleair",
+  "title": "Water Damage Restoration Belleair FL | Careful Dry-Out",
+  "meta": "Water damage restoration in Belleair, FL: detail-focused extraction, drying and repairs for historic estates, bluff homes and condominiums.",
+  "img": "water-damage-before-after-restoration-largo.jpg",
+  "alt": "Before and after water damage repair in a Belleair, FL home interior",
+  "intro": [
+   "Water damage restoration in Belleair, FL is finish-sensitive work. The town's housing includes 1920s estate homes from the Belleview era, mature midcentury properties along the bluff, and condominium buildings overlooking Clearwater Harbor. Original millwork, plaster, hardwood and custom tile are common, and they are not things you rip out casually.",
+   "Our approach here leans on drying rather than demolition: mat systems for wood floors, cavity injection for plaster and drywall, and careful containment to protect adjacent rooms. Call and we confirm an arrival window for your address."
   ],
-  "sections":[
-    {"h":"Utilities on the Island","p":["Potable water in Madeira Beach is supplied through Pinellas County Utilities, drawing on the regional Tampa Bay Water system, with local distribution and city coordination on service issues. Wastewater flows through collection infrastructure with lift stations serving the island, which is typical of low-elevation coastal communities.","During heavy rain and high tides, infiltration into the collection system increases and low fixtures in ground-level units are the first to back up. Any backup is treated as Category 3 water, which means removal of affected porous materials, disposal, cleaning and sanitizing before drying. Report a suspected main-side backup to the utility promptly, since that determines responsibility."]},
-    {"h":"Canals, Boca Ciega Bay and Storm Surge","p":["Madeira Beach's finger canals put water within feet of many back doors, and the bay side floods on tide and rain even without a named storm. The barrier islands are in Pinellas County's Evacuation Zone A, and FEMA maps place virtually the entire city in special flood hazard areas. The 2024 storm season pushed surge into ground-level living space across this stretch of the beaches.","Because water can arrive from the Gulf side, the bay side, or a canal at the back of the lot, we record where it came from and how high it reached. That evidence separates a flood claim from a wind-driven rain claim and gives the floodplain administrator real numbers for a damage determination. It also tells us which materials absorbed brackish water and must be removed."]},
-    {"h":"Old Cottages, New Elevated Homes and Permits","p":["Original Madeira Beach cottages from the 1950s and 1960s are slab-on-grade block homes built inches above the crown of the road, with cast iron drains and aging supply lines. When water rises, it enters directly into finished rooms and there is no elevated floor to protect. Many have also been renovated repeatedly, which layers glued-down flooring and bonded tile over slabs that stay wet.","New construction and substantial rebuilds are elevated, with living space above the base flood elevation and non-habitable garage or storage below. Those homes typically lose the ground level and keep the living area. Permits for repairs and rebuilds are issued through the City of Madeira Beach building department, and the fifty percent substantial improvement threshold shapes what is allowed on older structures."]}
+  "sections": [
+   {
+    "h": "The Town Runs Its Own Utility",
+    "p": [
+     "The Town of Belleair operates its own water utility for residents, with regional supply delivered through the Tampa Bay Water system, and the town has invested in water main replacement across its older streets. Sewer service is provided through the town's system. That means main breaks and utility-side leaks are reported to town public works rather than to the county.",
+     "Belleair's older neighborhoods have had decades of utility and irrigation work under the same lawns. When a leak appears without a change in usage, it is worth determining whether it is a potable service line, an irrigation line, or an old branch that was never fully abandoned. We document the source so the right repair, and the right claim, follows."
+    ]
+   },
+   {
+    "h": "Bluff Elevation, Harbor Exposure and Mature Trees",
+    "p": [
+     "Belleair sits on a bluff above Clearwater Harbor, which gives much of the town higher elevation than its neighbors and less direct surge risk. That advantage is not uniform. Properties down the slope, along the harbor and near the causeways sit low, and the town's condominium buildings on the water carry mapped flood and surge exposure like any coastal structure in Pinellas County.",
+     "The bluff creates its own drainage pattern. Runoff from higher streets concentrates on the way down, and heavy summer rain finds low driveways, sunken entries and garden-level rooms. Mature live oaks add roots that intrude into old drain lines and lift walkways, changing how water runs across a property. Both factors show up in the repeat losses we see here."
+    ]
+   },
+   {
+    "h": "Historic Finishes and Careful Repair",
+    "p": [
+     "Belleair homes from the 1920s and 1930s often have plaster over lath, plaster crown detail, quarter-sawn oak or heart pine floors, and original casework. Those materials hold moisture longer than modern equivalents and reward patience: direct pin readings, extended dehumidification, and cavity drying rather than opening a wall. Where demolition is unavoidable, cuts are placed at natural breaks so the repair can be finished invisibly.",
+     "Midcentury and later homes here are block on slab with the usual Pinellas plumbing history, and many have had custom renovations that complicate a loss. Bonded stone, glued-down wood and built-in cabinetry all trap water. Permits for repairs are issued by the Town of Belleair building department, and the town's review process for exterior work is more involved than in surrounding cities."
+    ]
+   }
   ],
-  "good":[
-    {"h":"Photograph the Water Line Before Cleanup","b":"Measure and photograph how high the water reached inside and outside, with a tape in frame. That single photo does more for your claim and any damage determination than a hundred pictures of wet furniture."},
-    {"h":"Do Not Dry Brackish Water in Place","b":"Water from a canal or the bay is contaminated. Drywall, insulation, carpet pad and cabinet bases that absorbed it should come out. Drying it in place is how a house keeps smelling months later."},
-    {"h":"Confirm Your Flood Coverage Annually","b":"Building and contents flood limits are separate, and coverage for enclosures below the flood elevation is restricted. Review both before June rather than after a storm is named."}
+  "good": [
+   {
+    "h": "Ask for Drying Before Demolition",
+    "b": "Original plaster, hardwood and millwork can often be saved with cavity and mat drying if the response is quick. Always ask what the moisture readings say before agreeing to open a wall or pull a floor."
+   },
+   {
+    "h": "Watch Old Cast Iron Drains",
+    "b": "In a home approaching or past one hundred years, drain lines have usually been repaired in sections. Repeat slow drains or a gurgle in an unused fixture is worth a camera inspection before a backup ruins a finished room."
+   },
+   {
+    "h": "Protect Contents Early",
+    "b": "Antiques, rugs and art absorb humidity long before they show water stains. Getting them out of the affected area during the first hour prevents most of the loss, and we can block or relocate them on arrival."
+   }
   ],
-  "hoods":["John's Pass Village","Gulf Boulevard corridor","Crystal Island","Madeira Beach canals","Boca Ciega Bay side","Mitchell Beach","Bay Point","Tom Stuart Causeway area"],
-  "faqs":[
-    {"q":"How fast can you get to the island after a storm?","a":"Availability is confirmed when you call. After a major storm, access, crews and equipment across Pinellas County are in heavy demand, so getting on the schedule early and having your photos ready is the fastest route."},
-    {"q":"Is canal water treated like clean flood water?","a":"No. Brackish canal and bay water is contaminated. Porous materials it touched get removed, and remaining surfaces are cleaned and treated before drying begins."},
-    {"q":"My ground floor flooded but the living area is upstairs. What now?","a":"That is the common outcome for elevated homes. We clean and dry the lower level, remove affected materials, and check the floor assembly and stair structure above for moisture that traveled upward."}
+  "hoods": [
+   "Belleair bluff",
+   "Belleair Country Club area",
+   "Pelican Golf Club area",
+   "Indian Rocks Road corridor",
+   "Belleair Shore vicinity",
+   "Harbor View",
+   "Ponce de Leon Boulevard",
+   "Mehlenbacher Road area"
   ],
-  "nearby":["indian-rocks-beach","seminole","largo","st-petersburg"]
-},
-{
-  "slug":"palm-harbor",
-  "name":"Palm Harbor",
-  "title":"Water Damage Restoration Palm Harbor FL | Dry-Out & Repairs",
-  "meta":"Water damage restoration in Palm Harbor, FL. Extraction, drying and rebuild for East Lake subdivisions, Ozona cottages and Lake Tarpon area homes.",
-  "img":"tile-floor-injection-drying-largo-home.jpg",
-  "alt":"Injection drying equipment in a Palm Harbor, FL home after a supply line leak",
-  "intro":[
-    "Water damage restoration in Palm Harbor, FL covers a large unincorporated area with several distinct housing types: 1980s and 1990s subdivisions along the East Lake and Curlew corridors, older cottages in Ozona and Crystal Beach near the water, and larger homes around Lake Tarpon and Innisbrook.",
-    "Because most of Palm Harbor is unincorporated, county systems and county permitting apply. Our crews extract, map moisture through the whole affected footprint, and dry with logged readings. Call and we confirm an arrival window for your address."
+  "faqs": [
+   {
+    "q": "Can original hardwood in a Belleair home be saved?",
+    "a": "Frequently, yes. Solid wood responds well to mat drying when the process starts quickly, and sanding and refinishing afterward usually restores the floor at a fraction of replacement cost."
+   },
+   {
+    "q": "How do you protect the rest of the house during work?",
+    "a": "Containment, zipper doors, floor protection and negative air where needed. Equipment is placed to keep dry rooms out of the drying system so we are not pulling moisture through your finished spaces."
+   },
+   {
+    "q": "Do you coordinate with the town for permits?",
+    "a": "The rebuild scope is written so your licensed trades can pull permits through the Town of Belleair. Water removal and drying begin immediately and do not wait on permitting."
+   }
   ],
-  "sections":[
-    {"h":"County Water, Sewer and Permitting","p":["Palm Harbor is unincorporated, so potable water and wastewater service come from Pinellas County Utilities, with regional supply from Tampa Bay Water. Main breaks, utility-side leaks and sewer main issues are reported to the county rather than to a city department, and the county provides the meter and shutoff hardware at the property line.","Permits for structural, electrical, mechanical and roofing repairs are issued by Pinellas County Building Services. Many Palm Harbor neighborhoods also have active homeowner associations with their own approval requirements for exterior work, dumpster placement and equipment staging. We factor both into the rebuild schedule so nothing stalls after drying is complete."]},
-    {"h":"Lake Tarpon, Sutherland Bayou and Local Drainage","p":["The area drains toward Lake Tarpon on the east and St. Joseph Sound on the west, with Sutherland Bayou and a series of creeks and retention systems handling stormwater. Waterfront parcels in Ozona and Crystal Beach and lots along the bayou carry mapped flood exposure, while inland subdivisions on the higher Brooksville Ridge terrain deal mainly with rainfall and retention capacity.","Northern Pinellas sees intense summer thunderstorm rainfall, and subdivision retention ponds have design limits. When a storm exceeds them, water backs into the lowest lots, against garage doors and into screened enclosures. Repeat losses in the same room usually trace to grade, a downspout discharging at the foundation, or an undersized yard drain rather than to plumbing."]},
-    {"h":"Construction Era and What Fails Here","p":["Palm Harbor's building boom ran from the late 1970s through the 1990s, which places a large share of homes in the polybutylene supply piping era. Those gray lines with plastic fittings have a documented history of failure, and many homes here have already been repiped in CPVC or PEX. Drain lines are PVC, so under-slab cast iron failures are rarer than in older parts of the county.","Two-story homes are common, which means second-floor bathroom and laundry failures that drop water through the first-floor ceiling and the floor assembly between levels. Older Ozona and Crystal Beach cottages are the opposite problem: small, close to the water, sometimes on piers, with plaster, wood floors and original plumbing that needs slower, more careful drying."]}
+  "nearby": [
+   "largo",
+   "clearwater",
+   "indian-rocks-beach",
+   "seminole"
+  ]
+ },
+ {
+  "slug": "indian-rocks-beach",
+  "name": "Indian Rocks Beach",
+  "title": "Water Damage Restoration Indian Rocks Beach FL | Dry-Out",
+  "meta": "Water damage restoration in Indian Rocks Beach, FL: surge, rain intrusion and plumbing leak dry-out for beach cottages, condos and rentals.",
+  "img": "air-movers-drying-covered-patio-largo.jpg",
+  "alt": "Air movers drying a ground level slab at an Indian Rocks Beach, FL property",
+  "intro": [
+   "Water damage restoration in Indian Rocks Beach, FL is barrier island work. The city occupies a narrow strip between the Gulf and the Intracoastal Waterway, and everything about a water loss here is shaped by that: low elevation, salt air, vacation rental turnover, and buildings that mix 1950s block cottages with new elevated construction.",
+   "We handle both the storm side and the plumbing side, and we treat outside water as contaminated. Call with the address and the water source and we confirm an arrival window for the island."
   ],
-  "good":[
-    {"h":"Find Out if You Have Been Repiped","b":"Ask your plumber or check under a sink for gray polybutylene versus white CPVC or flexible PEX. If your Palm Harbor home is from the 1980s and still original, a repipe conversation is worth having before a fitting fails."},
-    {"h":"Test the Water Heater Pan Line","b":"Pour a cup of water into the pan and confirm it drains outside. Many pan lines here are blocked, disconnected in the attic, or were never routed at all, which turns a tank failure into a ceiling repair."},
-    {"h":"Keep Retention and Yard Drains Clear","b":"If water pools against your house during summer storms, clear the yard drains and extend downspouts before the next one. Drainage correction is far cheaper than drying the same room every August."}
+  "sections": [
+   {
+    "h": "Water Service and Island Infrastructure",
+    "p": [
+     "Indian Rocks Beach receives potable water through Pinellas County Utilities, with regional supply from the Tampa Bay Water system delivered across the intracoastal on transmission lines. The city maintains local infrastructure and coordinates with the county on service issues. Because the island depends on those crossings, a main break or a storm-related outage affects the whole strip at once.",
+     "Wastewater service also runs through county and municipal infrastructure with lift stations along the island. In heavy rain, groundwater infiltration raises flow and marginal lines can back up into the lowest fixtures of ground-level units. That water is Category 3 and gets handled with removal, disposal and sanitizing rather than drying in place."
+    ]
+   },
+   {
+    "h": "Surge, Evacuation Zones and Elevation",
+    "p": [
+     "Pinellas County places the barrier islands in Evacuation Zone A, the first zone ordered to leave, and FEMA maps place most of Indian Rocks Beach in special flood hazard areas. The 2024 storm season demonstrated what that means, with surge pushing water into ground-level living space along the barrier islands and leaving many older, non-elevated structures flooded.",
+     "Elevation is the deciding factor. Newer homes built to current standards have living space above the base flood elevation with breakaway or non-habitable space below, and they often escape with garage-level damage. Older slab-on-grade cottages take water directly into finished rooms. We record water height inside and outside, because that measurement drives both insurance handling and the substantial damage determination."
+    ]
+   },
+   {
+    "h": "The Fifty Percent Rule and Repair Limits",
+    "p": [
+     "In special flood hazard areas, when the cost to repair a structure reaches fifty percent of its market value, floodplain rules generally require the building to be brought into compliance, which can mean elevating it. The local floodplain administrator makes that determination, and it applies to cumulative work in some jurisdictions. This is the single most consequential thing an island owner learns after a flood.",
+     "Our role is documentation and mitigation: photographing and measuring the water line, recording what was removed, and drying the structure to a verified standard. Accurate records help you and your adjuster understand the scope before decisions are locked in. Permits for the rebuild are issued through the City of Indian Rocks Beach building department."
+    ]
+   }
   ],
-  "hoods":["East Lake","Ozona","Crystal Beach","Lake Tarpon area","Innisbrook","Highland Lakes","Baywood Village","Curlew Road corridor"],
-  "faqs":[
-    {"q":"Who handles permits for Palm Harbor repairs?","a":"Pinellas County Building Services, since Palm Harbor is unincorporated. Many neighborhoods also have HOA requirements for exterior work and equipment staging, which we coordinate as part of scheduling."},
-    {"q":"Water came through the ceiling from an upstairs bathroom. Is that a big job?","a":"It depends on how long it ran. We open where the ceiling is holding water, dry the floor assembly between levels from both sides, and check the wall cavity and stair structure that the water followed."},
-    {"q":"Do you work in Ozona and Crystal Beach cottages?","a":"Yes. Those older waterfront homes need slower drying, direct plaster and framing readings, and careful demolition decisions. We also check under raised floors where access exists."}
+  "good": [
+   {
+    "h": "Store Nothing of Value at Ground Level",
+    "b": "On the island, the lowest level takes water first. Keep documents, electronics and irreplaceable items above the flood elevation, and photograph what you do keep downstairs for your inventory."
+   },
+   {
+    "h": "Know Your Flood Policy Limits",
+    "b": "Homeowners coverage generally excludes surge and rising water. Building and contents flood coverage are separate limits, and ground-level enclosures below the flood elevation have restricted coverage. Read those pages before hurricane season."
+   },
+   {
+    "h": "Rinse and Dry After Salt Water",
+    "b": "Salt water leaves conductive residue that keeps corroding metal after the water is gone. Affected hardware, fasteners and mechanical components need cleaning, and contaminated porous material needs removal rather than drying."
+   }
   ],
-  "nearby":["dunedin","oldsmar","safety-harbor","clearwater"]
-}
+  "hoods": [
+   "North Beach",
+   "Central Indian Rocks Beach",
+   "Gulf Boulevard corridor",
+   "Curlew Landings",
+   "Harbor Drive",
+   "Bay Palms",
+   "Indian Rocks Road area",
+   "Intracoastal canals"
+  ],
+  "faqs": [
+   {
+    "q": "Do you work on vacation rental properties?",
+    "a": "Yes, and we understand the booking pressure. We document everything for the owner and any management company, phase the work where possible, and give a realistic completion window rather than an optimistic one."
+   },
+   {
+    "q": "Is salt water damage handled differently?",
+    "a": "Yes. Salt water is treated as contaminated, so porous materials that absorbed it are removed. Remaining surfaces are cleaned and treated because salt residue keeps drawing moisture and corroding metal long after drying."
+   },
+   {
+    "q": "What is the fifty percent rule I keep hearing about?",
+    "a": "In mapped flood hazard areas, repairs costing fifty percent or more of the structure's market value generally trigger a requirement to bring the building into current floodplain compliance. Your local floodplain administrator makes that call, not a contractor."
+   }
+  ],
+  "nearby": [
+   "belleair",
+   "largo",
+   "madeira-beach",
+   "clearwater"
+  ]
+ },
+ {
+  "slug": "madeira-beach",
+  "name": "Madeira Beach",
+  "title": "Water Damage Restoration Madeira Beach FL | Dry-Out & Repair",
+  "meta": "Water damage restoration in Madeira Beach, FL: surge cleanup, rain intrusion and plumbing leak drying for beach homes, condos and rentals.",
+  "img": "flooded-storage-room-standing-water-largo.jpg",
+  "alt": "Standing water in a ground level room at a Madeira Beach, FL property",
+  "intro": [
+   "Water damage restoration in Madeira Beach, FL happens on a barrier island where the Gulf is on one side and Boca Ciega Bay is on the other. Homes sit low, canals run through the neighborhoods, and John's Pass draws water in both directions with the tide. Water losses here are rarely just a plumbing problem.",
+   "We handle surge and flood cleanout, wind-driven rain intrusion, and ordinary supply line failures in 1950s cottages and newer elevated builds. Availability is confirmed when you call, with an arrival window for the island."
+  ],
+  "sections": [
+   {
+    "h": "Utilities on the Island",
+    "p": [
+     "Potable water in Madeira Beach is supplied through Pinellas County Utilities, drawing on the regional Tampa Bay Water system, with local distribution and city coordination on service issues. Wastewater flows through collection infrastructure with lift stations serving the island, which is typical of low-elevation coastal communities.",
+     "During heavy rain and high tides, infiltration into the collection system increases and low fixtures in ground-level units are the first to back up. Any backup is treated as Category 3 water, which means removal of affected porous materials, disposal, cleaning and sanitizing before drying. Report a suspected main-side backup to the utility promptly, since that determines responsibility."
+    ]
+   },
+   {
+    "h": "Canals, Boca Ciega Bay and Storm Surge",
+    "p": [
+     "Madeira Beach's finger canals put water within feet of many back doors, and the bay side floods on tide and rain even without a named storm. The barrier islands are in Pinellas County's Evacuation Zone A, and FEMA maps place virtually the entire city in special flood hazard areas. The 2024 storm season pushed surge into ground-level living space across this stretch of the beaches.",
+     "Because water can arrive from the Gulf side, the bay side, or a canal at the back of the lot, we record where it came from and how high it reached. That evidence separates a flood claim from a wind-driven rain claim and gives the floodplain administrator real numbers for a damage determination. It also tells us which materials absorbed brackish water and must be removed."
+    ]
+   },
+   {
+    "h": "Old Cottages, New Elevated Homes and Permits",
+    "p": [
+     "Original Madeira Beach cottages from the 1950s and 1960s are slab-on-grade block homes built inches above the crown of the road, with cast iron drains and aging supply lines. When water rises, it enters directly into finished rooms and there is no elevated floor to protect. Many have also been renovated repeatedly, which layers glued-down flooring and bonded tile over slabs that stay wet.",
+     "New construction and substantial rebuilds are elevated, with living space above the base flood elevation and non-habitable garage or storage below. Those homes typically lose the ground level and keep the living area. Permits for repairs and rebuilds are issued through the City of Madeira Beach building department, and the fifty percent substantial improvement threshold shapes what is allowed on older structures."
+    ]
+   }
+  ],
+  "good": [
+   {
+    "h": "Photograph the Water Line Before Cleanup",
+    "b": "Measure and photograph how high the water reached inside and outside, with a tape in frame. That single photo does more for your claim and any damage determination than a hundred pictures of wet furniture."
+   },
+   {
+    "h": "Do Not Dry Brackish Water in Place",
+    "b": "Water from a canal or the bay is contaminated. Drywall, insulation, carpet pad and cabinet bases that absorbed it should come out. Drying it in place is how a house keeps smelling months later."
+   },
+   {
+    "h": "Confirm Your Flood Coverage Annually",
+    "b": "Building and contents flood limits are separate, and coverage for enclosures below the flood elevation is restricted. Review both before June rather than after a storm is named."
+   }
+  ],
+  "hoods": [
+   "John's Pass Village",
+   "Gulf Boulevard corridor",
+   "Crystal Island",
+   "Madeira Beach canals",
+   "Boca Ciega Bay side",
+   "Mitchell Beach",
+   "Bay Point",
+   "Tom Stuart Causeway area"
+  ],
+  "faqs": [
+   {
+    "q": "How fast can you get to the island after a storm?",
+    "a": "Availability is confirmed when you call. After a major storm, access, crews and equipment across Pinellas County are in heavy demand, so getting on the schedule early and having your photos ready is the fastest route."
+   },
+   {
+    "q": "Is canal water treated like clean flood water?",
+    "a": "No. Brackish canal and bay water is contaminated. Porous materials it touched get removed, and remaining surfaces are cleaned and treated before drying begins."
+   },
+   {
+    "q": "My ground floor flooded but the living area is upstairs. What now?",
+    "a": "That is the common outcome for elevated homes. We clean and dry the lower level, remove affected materials, and check the floor assembly and stair structure above for moisture that traveled upward."
+   }
+  ],
+  "nearby": [
+   "indian-rocks-beach",
+   "seminole",
+   "largo",
+   "st-petersburg"
+  ]
+ },
+ {
+  "slug": "palm-harbor",
+  "name": "Palm Harbor",
+  "title": "Water Damage Restoration Palm Harbor FL | Dry-Out & Repairs",
+  "meta": "Water damage restoration in Palm Harbor, FL: extraction, drying and rebuild for East Lake subdivisions, Ozona cottages and Lake Tarpon homes.",
+  "img": "tile-floor-injection-drying-largo-home.jpg",
+  "alt": "Injection drying equipment in a Palm Harbor, FL home after a supply line leak",
+  "intro": [
+   "Water damage restoration in Palm Harbor, FL covers a large unincorporated area with several distinct housing types: 1980s and 1990s subdivisions along the East Lake and Curlew corridors, older cottages in Ozona and Crystal Beach near the water, and larger homes around Lake Tarpon and Innisbrook.",
+   "Because most of Palm Harbor is unincorporated, county systems and county permitting apply. Our crews extract, map moisture through the whole affected footprint, and dry with logged readings. Call and we confirm an arrival window for your address."
+  ],
+  "sections": [
+   {
+    "h": "County Water, Sewer and Permitting",
+    "p": [
+     "Palm Harbor is unincorporated, so potable water and wastewater service come from Pinellas County Utilities, with regional supply from Tampa Bay Water. Main breaks, utility-side leaks and sewer main issues are reported to the county rather than to a city department, and the county provides the meter and shutoff hardware at the property line.",
+     "Permits for structural, electrical, mechanical and roofing repairs are issued by Pinellas County Building Services. Many Palm Harbor neighborhoods also have active homeowner associations with their own approval requirements for exterior work, dumpster placement and equipment staging. We factor both into the rebuild schedule so nothing stalls after drying is complete."
+    ]
+   },
+   {
+    "h": "Lake Tarpon, Sutherland Bayou and Local Drainage",
+    "p": [
+     "The area drains toward Lake Tarpon on the east and St. Joseph Sound on the west, with Sutherland Bayou and a series of creeks and retention systems handling stormwater. Waterfront parcels in Ozona and Crystal Beach and lots along the bayou carry mapped flood exposure, while inland subdivisions on the higher Brooksville Ridge terrain deal mainly with rainfall and retention capacity.",
+     "Northern Pinellas sees intense summer thunderstorm rainfall, and subdivision retention ponds have design limits. When a storm exceeds them, water backs into the lowest lots, against garage doors and into screened enclosures. Repeat losses in the same room usually trace to grade, a downspout discharging at the foundation, or an undersized yard drain rather than to plumbing."
+    ]
+   },
+   {
+    "h": "Construction Era and What Fails Here",
+    "p": [
+     "Palm Harbor's building boom ran from the late 1970s through the 1990s, which places a large share of homes in the polybutylene supply piping era. Those gray lines with plastic fittings have a documented history of failure, and many homes here have already been repiped in CPVC or PEX. Drain lines are PVC, so under-slab cast iron failures are rarer than in older parts of the county.",
+     "Two-story homes are common, which means second-floor bathroom and laundry failures that drop water through the first-floor ceiling and the floor assembly between levels. Older Ozona and Crystal Beach cottages are the opposite problem: small, close to the water, sometimes on piers, with plaster, wood floors and original plumbing that needs slower, more careful drying."
+    ]
+   }
+  ],
+  "good": [
+   {
+    "h": "Find Out if You Have Been Repiped",
+    "b": "Ask your plumber or check under a sink for gray polybutylene versus white CPVC or flexible PEX. If your Palm Harbor home is from the 1980s and still original, a repipe conversation is worth having before a fitting fails."
+   },
+   {
+    "h": "Test the Water Heater Pan Line",
+    "b": "Pour a cup of water into the pan and confirm it drains outside. Many pan lines here are blocked, disconnected in the attic, or were never routed at all, which turns a tank failure into a ceiling repair."
+   },
+   {
+    "h": "Keep Retention and Yard Drains Clear",
+    "b": "If water pools against your house during summer storms, clear the yard drains and extend downspouts before the next one. Drainage correction is far cheaper than drying the same room every August."
+   }
+  ],
+  "hoods": [
+   "East Lake",
+   "Ozona",
+   "Crystal Beach",
+   "Lake Tarpon area",
+   "Innisbrook",
+   "Highland Lakes",
+   "Baywood Village",
+   "Curlew Road corridor"
+  ],
+  "faqs": [
+   {
+    "q": "Who handles permits for Palm Harbor repairs?",
+    "a": "Pinellas County Building Services, since Palm Harbor is unincorporated. Many neighborhoods also have HOA requirements for exterior work and equipment staging, which we coordinate as part of scheduling."
+   },
+   {
+    "q": "Water came through the ceiling from an upstairs bathroom. Is that a big job?",
+    "a": "It depends on how long it ran. We open where the ceiling is holding water, dry the floor assembly between levels from both sides, and check the wall cavity and stair structure that the water followed."
+   },
+   {
+    "q": "Do you work in Ozona and Crystal Beach cottages?",
+    "a": "Yes. Those older waterfront homes need slower drying, direct plaster and framing readings, and careful demolition decisions. We also check under raised floors where access exists."
+   }
+  ],
+  "nearby": [
+   "dunedin",
+   "oldsmar",
+   "safety-harbor",
+   "clearwater"
+  ]
+ }
 ]

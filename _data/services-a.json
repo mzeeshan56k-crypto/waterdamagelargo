@@ -1,386 +1,858 @@
 [
-{
-  "slug":"water-damage-restoration",
-  "name":"Water Damage Restoration",
-  "kw":"water damage restoration in Largo, FL",
-  "h1":"Water Damage Restoration in Largo, FL",
-  "title":"Water Damage Restoration Largo FL | Dry-Out & Repair Crews",
-  "meta":"Water damage restoration in Largo, FL. Extraction, structural drying, moisture mapping and repairs for slab homes, condos and rentals. Call for an arrival window.",
-  "img":"water-damage-hallway-air-movers-largo-home.jpg",
-  "alt":"Air movers and hose lines drying a hardwood hallway after water damage restoration in a Largo, FL home",
-  "card":"Full water damage restoration for Largo homes and businesses, from the first extraction pass through structural drying and rebuild. Crews map the moisture with meters and thermal imaging, pull standing water, set air movers and dehumidifiers to a calculated load, and log readings daily until the assembly is dry. Flooring, baseboard, drywall and cabinet kicks are repaired once the numbers hold.",
-  "intro":[
-    "Water damage restoration in Largo, FL starts the moment the water stops moving. A supply line under a Belcher Road kitchen or a slow toilet flange in a Rosery bungalow soaks drywall, subfloor and framing in hours. Our crews extract the water, find every wet pocket with meters, and set a drying plan sized to the room, not guessed at.",
-    "Largo homes make this work specific. Almost every house here sits on a slab, so water spreads sideways under tile, vinyl plank and hardwood instead of draining down into a basement. Concrete block walls hold moisture behind paint. Ninety-degree days with high dew points slow evaporation. That is why we dehumidify aggressively and confirm the dry standard with readings you can see."
+ {
+  "slug": "water-damage-restoration",
+  "name": "Water Damage Restoration",
+  "kw": "water damage restoration in Largo, FL",
+  "h1": "Water Damage Restoration in Largo, FL",
+  "title": "Water Damage Restoration Largo FL | Dry-Out & Repair Crews",
+  "meta": "Water damage restoration in Largo, FL: extraction, structural drying, moisture mapping and repairs for slab homes, condos and rentals in Pinellas.",
+  "img": "water-damage-hallway-air-movers-largo-home.jpg",
+  "alt": "Air movers and hose lines drying a hardwood hallway after water damage restoration in a Largo, FL home",
+  "card": "Full water damage restoration for Largo homes and businesses, from the first extraction pass through structural drying and rebuild. Crews map the moisture with meters and thermal imaging, pull standing water, set air movers and dehumidifiers to a calculated load, and log readings daily until the assembly is dry. Flooring, baseboard, drywall and cabinet kicks are repaired once the numbers hold.",
+  "intro": [
+   "Water damage restoration in Largo, FL starts the moment the water stops moving. A supply line under a Belcher Road kitchen or a slow toilet flange in a Rosery bungalow soaks drywall, subfloor and framing in hours. Our crews extract the water, find every wet pocket with meters, and set a drying plan sized to the room, not guessed at.",
+   "Largo homes make this work specific. Almost every house here sits on a slab, so water spreads sideways under tile, vinyl plank and hardwood instead of draining down into a basement. Concrete block walls hold moisture behind paint. Ninety-degree days with high dew points slow evaporation. That is why we dehumidify aggressively and confirm the dry standard with readings you can see."
   ],
-  "includes":[
-    {"h":"Standing Water Extraction and Moisture Mapping","b":"Truck-mount and portable extractors pull free water from tile, carpet, pad and hard surfaces. We then map the spread with pin and pinless meters, an infrared camera and a thermo-hygrometer, marking the wet line on the wall so nobody guesses where the damage ends. That map drives every decision that follows."},
-    {"h":"Structural Drying Sized to the Room","b":"Air movers and low-grain refrigerant dehumidifiers are placed by calculated load, not by habit. Wet wall cavities get injected air through base holes or trim vents. Cabinets and toe kicks get drilled and dried where the box can be saved. We check grain depression daily and move equipment as the numbers change."},
-    {"h":"Controlled Demolition Only Where Needed","b":"Saturated pad, swollen particle board, wet insulation and delaminated drywall come out. Sound materials stay. Flood cuts are set at a height that matches the wick line, and we bag debris on site so the rest of the house stays clean. Less tear-out means less rebuild for you."},
-    {"h":"Documentation Your Insurer Will Accept","b":"Every job carries photos, a moisture log by day and room, equipment counts, and a written scope. Adjusters ask for that record, and having it ready keeps a claim from stalling. You get the same file, so you know what was wet, what dried, and what was replaced."}
+  "includes": [
+   {
+    "h": "Standing Water Extraction and Moisture Mapping",
+    "b": "Truck-mount and portable extractors pull free water from tile, carpet, pad and hard surfaces. We then map the spread with pin and pinless meters, an infrared camera and a thermo-hygrometer, marking the wet line on the wall so nobody guesses where the damage ends. That map drives every decision that follows."
+   },
+   {
+    "h": "Structural Drying Sized to the Room",
+    "b": "Air movers and low-grain refrigerant dehumidifiers are placed by calculated load, not by habit. Wet wall cavities get injected air through base holes or trim vents. Cabinets and toe kicks get drilled and dried where the box can be saved. We check grain depression daily and move equipment as the numbers change."
+   },
+   {
+    "h": "Controlled Demolition Only Where Needed",
+    "b": "Saturated pad, swollen particle board, wet insulation and delaminated drywall come out. Sound materials stay. Flood cuts are set at a height that matches the wick line, and we bag debris on site so the rest of the house stays clean. Less tear-out means less rebuild for you."
+   },
+   {
+    "h": "Documentation Your Insurer Will Accept",
+    "b": "Every job carries photos, a moisture log by day and room, equipment counts, and a written scope. Adjusters ask for that record, and having it ready keeps a claim from stalling. You get the same file, so you know what was wet, what dried, and what was replaced."
+   }
   ],
-  "process":[
-    {"h":"Call and Confirm an Arrival Window","b":"Tell us the source, how far the water traveled, and what is on the floor. We confirm an arrival window on that call and tell you what to shut off or move before we get there."},
-    {"h":"Stop the Source and Make the Area Safe","b":"Water off at the meter or angle stop, power off where outlets or a panel are wet, and any sagging ceiling taken down before someone walks under it."},
-    {"h":"Extract, Then Read the Structure","b":"Free water first. Then meters on drywall, sill plate, subfloor and cabinet base to build the moisture map that sets the equipment count."},
-    {"h":"Dry and Log to a Standard","b":"Equipment runs continuously. Daily readings track progress, and drying stops when materials reach a documented dry standard, not when the surface feels dry."},
-    {"h":"Repair and Close Out","b":"Baseboard, drywall, texture, paint and flooring go back. You receive the final moisture log, before and after photos, and the scope of work performed."}
+  "process": [
+   {
+    "h": "Call and Confirm an Arrival Window",
+    "b": "Tell us the source, how far the water traveled, and what is on the floor. We confirm an arrival window on that call and tell you what to shut off or move before we get there."
+   },
+   {
+    "h": "Stop the Source and Make the Area Safe",
+    "b": "Water off at the meter or angle stop, power off where outlets or a panel are wet, and any sagging ceiling taken down before someone walks under it."
+   },
+   {
+    "h": "Extract, Then Read the Structure",
+    "b": "Free water first. Then meters on drywall, sill plate, subfloor and cabinet base to build the moisture map that sets the equipment count."
+   },
+   {
+    "h": "Dry and Log to a Standard",
+    "b": "Equipment runs continuously. Daily readings track progress, and drying stops when materials reach a documented dry standard, not when the surface feels dry."
+   },
+   {
+    "h": "Repair and Close Out",
+    "b": "Baseboard, drywall, texture, paint and flooring go back. You receive the final moisture log, before and after photos, and the scope of work performed."
+   }
   ],
-  "local":[
-    {"h":"Slab-on-Grade Homes Spread Water Sideways","p":["Largo neighborhoods built between the 1950s and the 1970s are almost all slab-on-grade with concrete block and stucco walls. There is no crawl space to catch a leak and no basement for water to fall into. Water tracks along the slab, under the flooring adhesive, and into the bottom plate of every wall it reaches.","That changes how the drying has to be done. We look for wet drywall two rooms away from the leak, check the bottom edge of block walls where the stucco holds moisture, and dry the flooring assembly from the edges in. Homes with tile set directly on slab often need mat systems or targeted removal, because water under a bonded floor will not release on its own."]},
-    {"h":"Humidity Is the Second Half of the Job","p":["Pinellas County dew points sit in the seventies for much of the year. Open windows and box fans do not dry a Largo house in July, they push warm wet air into cool cavities and grow mold. Real drying happens in a closed system with dehumidifiers doing the work.","We seal the affected area, run low-grain refrigerant units, and keep the space under pressure control so wet air does not migrate into dry bedrooms. Cooler months help, but even in January a soaked slab home needs mechanical drying to reach a stable moisture content."]}
+  "local": [
+   {
+    "h": "Slab-on-Grade Homes Spread Water Sideways",
+    "p": [
+     "Largo neighborhoods built between the 1950s and the 1970s are almost all slab-on-grade with concrete block and stucco walls. There is no crawl space to catch a leak and no basement for water to fall into. Water tracks along the slab, under the flooring adhesive, and into the bottom plate of every wall it reaches.",
+     "That changes how the drying has to be done. We look for wet drywall two rooms away from the leak, check the bottom edge of block walls where the stucco holds moisture, and dry the flooring assembly from the edges in. Homes with tile set directly on slab often need mat systems or targeted removal, because water under a bonded floor will not release on its own."
+    ]
+   },
+   {
+    "h": "Humidity Is the Second Half of the Job",
+    "p": [
+     "Pinellas County dew points sit in the seventies for much of the year. Open windows and box fans do not dry a Largo house in July, they push warm wet air into cool cavities and grow mold. Real drying happens in a closed system with dehumidifiers doing the work.",
+     "We seal the affected area, run low-grain refrigerant units, and keep the space under pressure control so wet air does not migrate into dry bedrooms. Cooler months help, but even in January a soaked slab home needs mechanical drying to reach a stable moisture content."
+    ]
+   }
   ],
-  "signs":[
-    "A stain on the ceiling that grows or darkens after rain",
-    "Baseboard that has swollen, cupped or pulled away from the wall",
-    "Tile that sounds hollow or grout that stays dark for days",
-    "A musty smell in a closet, pantry or under a vanity",
-    "Hardwood that cups across the boards or lifts at the seams",
-    "A water bill that jumped with no change in how you use water"
+  "signs": [
+   "A stain on the ceiling that grows or darkens after rain",
+   "Baseboard that has swollen, cupped or pulled away from the wall",
+   "Tile that sounds hollow or grout that stays dark for days",
+   "A musty smell in a closet, pantry or under a vanity",
+   "Hardwood that cups across the boards or lifts at the seams",
+   "A water bill that jumped with no change in how you use water"
   ],
-  "faqs":[
-    {"q":"How fast should water damage restoration start in a Largo home?","a":"As soon as the water is off. Drywall wicks water upward within hours, and in Largo humidity mold can begin within one to three days on wet paper facing. Getting extraction and dehumidification started early usually shrinks the tear-out and the rebuild."},
-    {"q":"How long does drying take?","a":"Most residential jobs run three to five days of equipment time. Dense assemblies like tile over slab, hardwood, or plaster over block can take longer. Drying ends when moisture readings hit the documented dry standard for that material, and we show you those numbers."},
-    {"q":"Will my homeowners policy cover the work?","a":"Sudden, accidental water release, such as a burst supply line or a failed water heater, is commonly covered. Long-term seepage and flood water usually are not. We document the source, the extent, and the drying so your adjuster has what they need to decide."},
-    {"q":"Do you have to remove my flooring?","a":"Not always. Carpet is often saved when the pad is replaced. Vinyl plank sometimes releases and can be reset. Tile bonded to a wet slab and swollen laminate rarely dry in place. We read the assembly first and remove only what will not dry."},
-    {"q":"Can I run my own fans and skip the equipment?","a":"Box fans move air but remove no water from the space. Without dehumidification, that moisture lands on cooler surfaces inside walls and cabinets. That is where secondary damage and mold begin, and it costs more than the drying would have."}
+  "faqs": [
+   {
+    "q": "How fast should water damage restoration start in a Largo home?",
+    "a": "As soon as the water is off. Drywall wicks water upward within hours, and in Largo humidity mold can begin within one to three days on wet paper facing. Getting extraction and dehumidification started early usually shrinks the tear-out and the rebuild."
+   },
+   {
+    "q": "How long does drying take?",
+    "a": "Most residential jobs run three to five days of equipment time. Dense assemblies like tile over slab, hardwood, or plaster over block can take longer. Drying ends when moisture readings hit the documented dry standard for that material, and we show you those numbers."
+   },
+   {
+    "q": "Will my homeowners policy cover the work?",
+    "a": "Sudden, accidental water release, such as a burst supply line or a failed water heater, is commonly covered. Long-term seepage and flood water usually are not. We document the source, the extent, and the drying so your adjuster has what they need to decide."
+   },
+   {
+    "q": "Do you have to remove my flooring?",
+    "a": "Not always. Carpet is often saved when the pad is replaced. Vinyl plank sometimes releases and can be reset. Tile bonded to a wet slab and swollen laminate rarely dry in place. We read the assembly first and remove only what will not dry."
+   },
+   {
+    "q": "Can I run my own fans and skip the equipment?",
+    "a": "Box fans move air but remove no water from the space. Without dehumidification, that moisture lands on cooler surfaces inside walls and cabinets. That is where secondary damage and mold begin, and it costs more than the drying would have."
+   }
   ],
-  "related":["emergency-water-extraction","structural-drying","mold-remediation","ceiling-drywall-repair"]
-},
-{
-  "slug":"emergency-water-extraction",
-  "name":"Emergency Water Extraction",
-  "kw":"emergency water extraction in Largo, FL",
-  "h1":"Emergency Water Extraction in Largo, FL",
-  "title":"Emergency Water Extraction Largo FL | Standing Water Removal",
-  "meta":"Emergency water extraction in Largo, FL. Truck-mount and portable pumping for standing water in homes, condos and shops. Availability confirmed when you call.",
-  "img":"flooded-storage-room-standing-water-largo.jpg",
-  "alt":"Standing water across the floor of a Largo storage room before emergency water extraction",
-  "card":"Standing water removal for Largo homes and businesses, measured in gallons per hour instead of buckets. Crews arrive with submersible pumps, truck-mount extractors and weighted carpet wands to clear water off floors before it climbs the drywall. Wet contents get blocked or moved, the water line gets recorded, and drying equipment goes in on the same visit so the structure starts losing moisture immediately.",
-  "intro":[
-    "Emergency water extraction in Largo, FL is about volume and speed. Every hour that water sits on a slab it climbs another fraction of an inch into drywall, presses further under vinyl plank, and soaks the particle board bottom of a vanity. Removing it fast is the cheapest step in the whole job.",
-    "We bring pumps sized to the water, not a shop vac. A flooded garage in Pinellas Park, a laundry overflow in a Largo condo, and a two-inch sheet across a retail floor each need different gear. Availability is confirmed when you call, and you get a firm arrival window instead of a vague promise."
+  "related": [
+   "emergency-water-extraction",
+   "structural-drying",
+   "mold-remediation",
+   "ceiling-drywall-repair"
+  ]
+ },
+ {
+  "slug": "emergency-water-extraction",
+  "name": "Emergency Water Extraction",
+  "kw": "emergency water extraction in Largo, FL",
+  "h1": "Emergency Water Extraction in Largo, FL",
+  "title": "Emergency Water Extraction Largo FL | Standing Water Removal",
+  "meta": "Emergency water extraction in Largo, FL: truck-mount and portable pumping for standing water in homes, condos and shops. Call to confirm timing.",
+  "img": "flooded-storage-room-standing-water-largo.jpg",
+  "alt": "Standing water across the floor of a Largo storage room before emergency water extraction",
+  "card": "Standing water removal for Largo homes and businesses, measured in gallons per hour instead of buckets. Crews arrive with submersible pumps, truck-mount extractors and weighted carpet wands to clear water off floors before it climbs the drywall. Wet contents get blocked or moved, the water line gets recorded, and drying equipment goes in on the same visit so the structure starts losing moisture immediately.",
+  "intro": [
+   "Emergency water extraction in Largo, FL is about volume and speed. Every hour that water sits on a slab it climbs another fraction of an inch into drywall, presses further under vinyl plank, and soaks the particle board bottom of a vanity. Removing it fast is the cheapest step in the whole job.",
+   "We bring pumps sized to the water, not a shop vac. A flooded garage in Pinellas Park, a laundry overflow in a Largo condo, and a two-inch sheet across a retail floor each need different gear. Availability is confirmed when you call, and you get a firm arrival window instead of a vague promise."
   ],
-  "includes":[
-    {"h":"Submersible Pumping for Deep Water","b":"Water over an inch or two gets pumped, not vacuumed. Submersible pumps with discharge line run to an approved drain or exterior point, and we keep pumping while a second tech starts moving contents up onto blocks. Deep water in garages, ground-floor units and crawl areas clears in one pass."},
-    {"h":"Truck-Mount and Portable Extraction","b":"Once the depth is gone, weighted wands and hard-surface tools pull the remaining water out of carpet, pad, tile grout and plank seams. Portables reach second floors and interior condo units where a hose run is long. Multiple passes are normal, because the second pass always pulls more than owners expect."},
-    {"h":"Content Blocking and Emergency Protection","b":"Furniture legs get foam blocks or foil, rugs come off wet floors, and boxes on the ground move to shelves or a dry room. Items already ruined get photographed before removal so there is a record for your claim. Protecting contents during extraction avoids stain transfer onto floors you are trying to save."},
-    {"h":"Drying Setup Before the Truck Leaves","b":"Extraction without drying just resets the clock. Before the truck leaves, air movers and dehumidifiers are placed, containment goes up if needed, and the first moisture readings are logged. The structure starts drying that day instead of waiting for a second appointment."}
+  "includes": [
+   {
+    "h": "Submersible Pumping for Deep Water",
+    "b": "Water over an inch or two gets pumped, not vacuumed. Submersible pumps with discharge line run to an approved drain or exterior point, and we keep pumping while a second tech starts moving contents up onto blocks. Deep water in garages, ground-floor units and crawl areas clears in one pass."
+   },
+   {
+    "h": "Truck-Mount and Portable Extraction",
+    "b": "Once the depth is gone, weighted wands and hard-surface tools pull the remaining water out of carpet, pad, tile grout and plank seams. Portables reach second floors and interior condo units where a hose run is long. Multiple passes are normal, because the second pass always pulls more than owners expect."
+   },
+   {
+    "h": "Content Blocking and Emergency Protection",
+    "b": "Furniture legs get foam blocks or foil, rugs come off wet floors, and boxes on the ground move to shelves or a dry room. Items already ruined get photographed before removal so there is a record for your claim. Protecting contents during extraction avoids stain transfer onto floors you are trying to save."
+   },
+   {
+    "h": "Drying Setup Before the Truck Leaves",
+    "b": "Extraction without drying just resets the clock. Before the truck leaves, air movers and dehumidifiers are placed, containment goes up if needed, and the first moisture readings are logged. The structure starts drying that day instead of waiting for a second appointment."
+   }
   ],
-  "process":[
-    {"h":"Describe the Water on the Phone","b":"How deep, how long, and where it came from. Clean supply water, an appliance line, or a sewage backup each change the gear and the safety steps we bring."},
-    {"h":"Kill Power to Wet Areas","b":"If outlets, a panel, or extension cords are in the water, power gets shut off at the breaker before anyone steps in. We walk you through that while you wait."},
-    {"h":"Pump the Volume","b":"Deep water goes out through submersible pumps. We record the high-water line on the wall and in photos while it drops, because that line drives the scope."},
-    {"h":"Extract the Remainder","b":"Wands and hard-surface tools take carpet, pad and tile down to damp. Any pad that will not release water gets cut and bagged on site."},
-    {"h":"Set Equipment and Read Moisture","b":"Air movers and dehumidifiers are placed by load, meters go on drywall and subfloor, and the drying log starts with day-one numbers."}
+  "process": [
+   {
+    "h": "Describe the Water on the Phone",
+    "b": "How deep, how long, and where it came from. Clean supply water, an appliance line, or a sewage backup each change the gear and the safety steps we bring."
+   },
+   {
+    "h": "Kill Power to Wet Areas",
+    "b": "If outlets, a panel, or extension cords are in the water, power gets shut off at the breaker before anyone steps in. We walk you through that while you wait."
+   },
+   {
+    "h": "Pump the Volume",
+    "b": "Deep water goes out through submersible pumps. We record the high-water line on the wall and in photos while it drops, because that line drives the scope."
+   },
+   {
+    "h": "Extract the Remainder",
+    "b": "Wands and hard-surface tools take carpet, pad and tile down to damp. Any pad that will not release water gets cut and bagged on site."
+   },
+   {
+    "h": "Set Equipment and Read Moisture",
+    "b": "Air movers and dehumidifiers are placed by load, meters go on drywall and subfloor, and the drying log starts with day-one numbers."
+   }
   ],
-  "local":[
-    {"h":"Ground-Floor Units and Garages Take the Hit","p":["Largo has a large share of single-story ranches, villas and ground-floor condo units, plus manufactured home communities along Ulmerton and East Bay. In all of them the living space sits inches above grade. A washing machine hose, a water heater tank or a wind-driven rain event puts water across the finished floor with nowhere to drain.","Extraction in those buildings has to respect shared walls. In villas and condos, water passes through the bottom plate into the neighbor's unit within hours. We check adjoining units with meters and let the association know when a common wall is wet, which prevents a second claim later."]},
-    {"h":"Storm Water Arrives With Sediment","p":["Rain-driven and surge water in coastal Pinellas rarely arrives clean. It carries yard sediment, driveway oil and whatever the storm drain was holding. That water is treated as contaminated, which changes the plan: porous materials that soaked it up come out rather than getting dried in place.","We extract, remove the affected pad and base, then clean and apply an antimicrobial to the remaining structure before drying starts. Skipping that step is why some houses smell for months after the water is gone."]}
+  "local": [
+   {
+    "h": "Ground-Floor Units and Garages Take the Hit",
+    "p": [
+     "Largo has a large share of single-story ranches, villas and ground-floor condo units, plus manufactured home communities along Ulmerton and East Bay. In all of them the living space sits inches above grade. A washing machine hose, a water heater tank or a wind-driven rain event puts water across the finished floor with nowhere to drain.",
+     "Extraction in those buildings has to respect shared walls. In villas and condos, water passes through the bottom plate into the neighbor's unit within hours. We check adjoining units with meters and let the association know when a common wall is wet, which prevents a second claim later."
+    ]
+   },
+   {
+    "h": "Storm Water Arrives With Sediment",
+    "p": [
+     "Rain-driven and surge water in coastal Pinellas rarely arrives clean. It carries yard sediment, driveway oil and whatever the storm drain was holding. That water is treated as contaminated, which changes the plan: porous materials that soaked it up come out rather than getting dried in place.",
+     "We extract, remove the affected pad and base, then clean and apply an antimicrobial to the remaining structure before drying starts. Skipping that step is why some houses smell for months after the water is gone."
+    ]
+   }
   ],
-  "signs":[
-    "Visible standing water on any finished floor",
-    "Water seeping from under a wall or the base of a cabinet",
-    "Carpet that squishes underfoot or shows a dark tide line",
-    "Water dripping through a ceiling light or fan box",
-    "Toilet or floor drain overflow that did not stop on its own",
-    "Wet garage slab after heavy rain or a failed water heater"
+  "signs": [
+   "Visible standing water on any finished floor",
+   "Water seeping from under a wall or the base of a cabinet",
+   "Carpet that squishes underfoot or shows a dark tide line",
+   "Water dripping through a ceiling light or fan box",
+   "Toilet or floor drain overflow that did not stop on its own",
+   "Wet garage slab after heavy rain or a failed water heater"
   ],
-  "faqs":[
-    {"q":"How much water is too much to handle yourself?","a":"A cup from a spilled pot is a towel job. Anything that reaches carpet pad, spreads under cabinets, or crosses into another room needs extraction gear. Once water passes a wall base, a wet vac cannot reach it and the drywall keeps wicking."},
-    {"q":"Do you pump water out of a garage or shed?","a":"Yes. Garages, sheds, screened rooms and ground-floor storage are common calls in Largo. Tell us the depth and the surface so we bring the right pump and discharge length."},
-    {"q":"What happens to the water you remove?","a":"Clean water is discharged to an approved drain or exterior location per local rules. Water from a sewage backup is handled as Category 3 and disposed of accordingly, with the affected porous materials bagged and removed."},
-    {"q":"Should I wait for my insurance adjuster before extraction?","a":"No. Policies expect you to prevent further damage. Photograph everything, then start extraction. We document the high-water line, the source and the scope so your adjuster can still see what happened."},
-    {"q":"Can you extract water and let me do the drying?","a":"You can decline equipment, but we will note the moisture readings at the time we leave. Without dehumidification, wet framing and drywall behind a dry-looking surface usually turn into a mold call two weeks later."}
+  "faqs": [
+   {
+    "q": "How much water is too much to handle yourself?",
+    "a": "A cup from a spilled pot is a towel job. Anything that reaches carpet pad, spreads under cabinets, or crosses into another room needs extraction gear. Once water passes a wall base, a wet vac cannot reach it and the drywall keeps wicking."
+   },
+   {
+    "q": "Do you pump water out of a garage or shed?",
+    "a": "Yes. Garages, sheds, screened rooms and ground-floor storage are common calls in Largo. Tell us the depth and the surface so we bring the right pump and discharge length."
+   },
+   {
+    "q": "What happens to the water you remove?",
+    "a": "Clean water is discharged to an approved drain or exterior location per local rules. Water from a sewage backup is handled as Category 3 and disposed of accordingly, with the affected porous materials bagged and removed."
+   },
+   {
+    "q": "Should I wait for my insurance adjuster before extraction?",
+    "a": "No. Policies expect you to prevent further damage. Photograph everything, then start extraction. We document the high-water line, the source and the scope so your adjuster can still see what happened."
+   },
+   {
+    "q": "Can you extract water and let me do the drying?",
+    "a": "You can decline equipment, but we will note the moisture readings at the time we leave. Without dehumidification, wet framing and drywall behind a dry-looking surface usually turn into a mold call two weeks later."
+   }
   ],
-  "related":["water-damage-restoration","flood-damage-cleanup","carpet-water-removal","sewage-cleanup"]
-},
-{
-  "slug":"flood-damage-cleanup",
-  "name":"Flood Damage Cleanup",
-  "kw":"flood damage cleanup in Largo, FL",
-  "h1":"Flood Damage Cleanup in Largo, FL",
-  "title":"Flood Damage Cleanup Largo FL | Post-Flood Cleanout & Drying",
-  "meta":"Flood damage cleanup in Largo, FL. Muck-out, sanitizing, flood cuts and structural drying after storm or surge water. Call to confirm an arrival window.",
-  "img":"air-movers-drying-covered-patio-largo.jpg",
-  "alt":"Row of blue air movers drying a covered patio slab after flood damage cleanup near Largo, FL",
-  "card":"Flood damage cleanup for Largo properties that took in groundwater, storm runoff or surge. Crews muck out mud and debris, remove soaked drywall, insulation and flooring to a measured flood cut, then clean and treat the framing before drying starts. Because flood water is treated as contaminated, porous materials come out instead of being dried in place, and the structure is verified dry before rebuild.",
-  "intro":[
-    "Flood damage cleanup in Largo, FL is a different job from a clean supply leak. Water that came in from outside brings sediment, bacteria and whatever the storm drain carried. That means removal first, drying second, and sanitizing in between.",
-    "Pinellas County learned this the hard way during the 2024 storm season, when surge and rainfall pushed water into coastal and low-lying neighborhoods across the county. Homes that were mucked out and dried properly came back. Homes where wet insulation stayed behind the drywall smelled and grew mold within weeks."
+  "related": [
+   "water-damage-restoration",
+   "flood-damage-cleanup",
+   "carpet-water-removal",
+   "sewage-cleanup"
+  ]
+ },
+ {
+  "slug": "flood-damage-cleanup",
+  "name": "Flood Damage Cleanup",
+  "kw": "flood damage cleanup in Largo, FL",
+  "h1": "Flood Damage Cleanup in Largo, FL",
+  "title": "Flood Damage Cleanup Largo FL | Cleanout & Structural Drying",
+  "meta": "Flood damage cleanup in Largo, FL: muck-out, sanitizing, flood cuts and structural drying after storm or surge water enters the building.",
+  "img": "air-movers-drying-covered-patio-largo.jpg",
+  "alt": "Row of blue air movers drying a covered patio slab after flood damage cleanup near Largo, FL",
+  "card": "Flood damage cleanup for Largo properties that took in groundwater, storm runoff or surge. Crews muck out mud and debris, remove soaked drywall, insulation and flooring to a measured flood cut, then clean and treat the framing before drying starts. Because flood water is treated as contaminated, porous materials come out instead of being dried in place, and the structure is verified dry before rebuild.",
+  "intro": [
+   "Flood damage cleanup in Largo, FL is a different job from a clean supply leak. Water that came in from outside brings sediment, bacteria and whatever the storm drain carried. That means removal first, drying second, and sanitizing in between.",
+   "Pinellas County learned this the hard way during the 2024 storm season, when surge and rainfall pushed water into coastal and low-lying neighborhoods across the county. Homes that were mucked out and dried properly came back. Homes where wet insulation stayed behind the drywall smelled and grew mold within weeks."
   ],
-  "includes":[
-    {"h":"Muck-Out and Debris Removal","b":"Mud, silt, ruined contents and saturated building materials come out first. We shovel and squeegee the sediment, haul debris to a staging point, and photograph unsalvageable items for your record. A clean shell is the only place drying equipment actually works."},
-    {"h":"Measured Flood Cuts and Insulation Removal","b":"Drywall is cut above the wick line, usually a set height above the water mark, and wet batt or blown insulation is pulled from the cavity. Leaving wet insulation behind a patched wall is the most common flood mistake. Cavities are then opened for airflow and inspected for existing damage."},
-    {"h":"Cleaning and Antimicrobial Treatment","b":"Framing, block, slab and sill plates get cleaned, then treated with an antimicrobial appropriate to the material. Nail heads, plate seams and the base of block walls hold the most residue, so those get direct attention before any equipment goes in."},
-    {"h":"Structural Drying and Verification","b":"Once the shell is clean, air movers and dehumidifiers dry the framing, slab and remaining assemblies. Readings are logged daily to a dry standard, and we hold off on rebuild until the wood and block are at a moisture content that will not feed mold behind new drywall."}
+  "includes": [
+   {
+    "h": "Muck-Out and Debris Removal",
+    "b": "Mud, silt, ruined contents and saturated building materials come out first. We shovel and squeegee the sediment, haul debris to a staging point, and photograph unsalvageable items for your record. A clean shell is the only place drying equipment actually works."
+   },
+   {
+    "h": "Measured Flood Cuts and Insulation Removal",
+    "b": "Drywall is cut above the wick line, usually a set height above the water mark, and wet batt or blown insulation is pulled from the cavity. Leaving wet insulation behind a patched wall is the most common flood mistake. Cavities are then opened for airflow and inspected for existing damage."
+   },
+   {
+    "h": "Cleaning and Antimicrobial Treatment",
+    "b": "Framing, block, slab and sill plates get cleaned, then treated with an antimicrobial appropriate to the material. Nail heads, plate seams and the base of block walls hold the most residue, so those get direct attention before any equipment goes in."
+   },
+   {
+    "h": "Structural Drying and Verification",
+    "b": "Once the shell is clean, air movers and dehumidifiers dry the framing, slab and remaining assemblies. Readings are logged daily to a dry standard, and we hold off on rebuild until the wood and block are at a moisture content that will not feed mold behind new drywall."
+   }
   ],
-  "process":[
-    {"h":"Safety and Utility Check","b":"Power and gas status, standing water depth, and any structural concern get checked before entry. Flood water near a panel or a gas appliance is handled with the utility involved."},
-    {"h":"Water Out, Contents Out","b":"Remaining water is pumped and extracted, then contents are sorted into salvage and loss piles with photos taken as we go."},
-    {"h":"Controlled Demolition","b":"Flood cuts, base removal, wet insulation and unsalvageable flooring come out and get bagged. We keep debris contained rather than tracked through dry rooms."},
-    {"h":"Clean, Treat, Then Dry","b":"The shell is cleaned and treated, then equipment is set for structural drying with daily moisture logs on framing and slab."},
-    {"h":"Dry Verification and Rebuild Scope","b":"When the readings hold, you get the final log and a written rebuild scope covering insulation, drywall, trim, paint and flooring."}
+  "process": [
+   {
+    "h": "Safety and Utility Check",
+    "b": "Power and gas status, standing water depth, and any structural concern get checked before entry. Flood water near a panel or a gas appliance is handled with the utility involved."
+   },
+   {
+    "h": "Water Out, Contents Out",
+    "b": "Remaining water is pumped and extracted, then contents are sorted into salvage and loss piles with photos taken as we go."
+   },
+   {
+    "h": "Controlled Demolition",
+    "b": "Flood cuts, base removal, wet insulation and unsalvageable flooring come out and get bagged. We keep debris contained rather than tracked through dry rooms."
+   },
+   {
+    "h": "Clean, Treat, Then Dry",
+    "b": "The shell is cleaned and treated, then equipment is set for structural drying with daily moisture logs on framing and slab."
+   },
+   {
+    "h": "Dry Verification and Rebuild Scope",
+    "b": "When the readings hold, you get the final log and a written rebuild scope covering insulation, drywall, trim, paint and flooring."
+   }
   ],
-  "local":[
-    {"h":"Flood Zones and Elevation Around Largo","p":["Largo sits inland of the beaches, but parts of the city drain toward Cross Bayou, McKay Creek and Allen's Creek. Properties near those corridors and in the low-lying western neighborhoods carry mapped flood risk, and FEMA flood maps for Pinellas County place many of them in special flood hazard areas. Elevation of a foot or two decides whether water reaches the finished floor.","Pinellas County also assigns hurricane evacuation zones separate from flood zones. A home can sit in evacuation Zone A for surge risk and still be outside a mapped flood zone for rainfall. We note both when scoping, because insurance handling for surge, rain intrusion and plumbing failure is not the same."]},
-    {"h":"Repair Rules After a Flood in Pinellas County","p":["Substantial damage and substantial improvement rules apply to buildings in special flood hazard areas. If repair costs reach a set percentage of the structure's market value, the local floodplain administrator can require the building to be brought into compliance, which may include elevation. That determination is made by the local building department, not by a contractor.","Permits for structural repairs, electrical and mechanical work go through the City of Largo Building Division for properties inside city limits, and Pinellas County Building Services for unincorporated addresses. We scope the drying and cleanup, document the water line for the damage determination, and coordinate with the licensed trades your rebuild needs."]}
+  "local": [
+   {
+    "h": "Flood Zones and Elevation Around Largo",
+    "p": [
+     "Largo sits inland of the beaches, but parts of the city drain toward Cross Bayou, McKay Creek and Allen's Creek. Properties near those corridors and in the low-lying western neighborhoods carry mapped flood risk, and FEMA flood maps for Pinellas County place many of them in special flood hazard areas. Elevation of a foot or two decides whether water reaches the finished floor.",
+     "Pinellas County also assigns hurricane evacuation zones separate from flood zones. A home can sit in evacuation Zone A for surge risk and still be outside a mapped flood zone for rainfall. We note both when scoping, because insurance handling for surge, rain intrusion and plumbing failure is not the same."
+    ]
+   },
+   {
+    "h": "Repair Rules After a Flood in Pinellas County",
+    "p": [
+     "Substantial damage and substantial improvement rules apply to buildings in special flood hazard areas. If repair costs reach a set percentage of the structure's market value, the local floodplain administrator can require the building to be brought into compliance, which may include elevation. That determination is made by the local building department, not by a contractor.",
+     "Permits for structural repairs, electrical and mechanical work go through the City of Largo Building Division for properties inside city limits, and Pinellas County Building Services for unincorporated addresses. We scope the drying and cleanup, document the water line for the damage determination, and coordinate with the licensed trades your rebuild needs."
+    ]
+   }
   ],
-  "signs":[
-    "A visible water line on exterior stucco or interior drywall",
-    "Silt or sediment left on the slab or in floor transitions",
-    "Insulation sagging out of a wall cavity or ceiling",
-    "Doors and windows that swelled and now stick in the frame",
-    "Musty or sour smell that returns when the air conditioning runs",
-    "Buckled baseboard, warped door casing or rusting fastener heads"
+  "signs": [
+   "A visible water line on exterior stucco or interior drywall",
+   "Silt or sediment left on the slab or in floor transitions",
+   "Insulation sagging out of a wall cavity or ceiling",
+   "Doors and windows that swelled and now stick in the frame",
+   "Musty or sour smell that returns when the air conditioning runs",
+   "Buckled baseboard, warped door casing or rusting fastener heads"
   ],
-  "faqs":[
-    {"q":"Is flood water safe to clean up myself?","a":"Treat it as contaminated. Storm and groundwater carry bacteria, fuel residue and sewage in some cases. Protective gear, proper disposal and antimicrobial treatment matter, and porous materials that soaked it up should be removed rather than dried."},
-    {"q":"Does homeowners insurance cover flooding?","a":"Standard homeowners policies generally exclude rising water and surge. That coverage typically comes from a separate flood policy through the NFIP or a private carrier. Wind-driven rain through a storm-damaged roof is often handled differently, which is why the source matters."},
-    {"q":"How high do you cut the drywall?","a":"The cut is set above the measured wick line, and the cavity is checked with meters before we choose a height. Where water rose only a few inches, a low cut is often enough. Where insulation is soaked to the top plate, the whole wall may come out."},
-    {"q":"Can flooring be saved after a flood?","a":"Tile can often be cleaned and kept if the substrate dries. Carpet pad, laminate, engineered plank with a fiberboard core, and glued-down materials over a contaminated slab usually come out. We decide by material and water category, not by guess."},
-    {"q":"How long before rebuild can start?","a":"Only after the framing and slab hold a dry reading. That is commonly five to ten days on a flood job, longer if block walls and thick slabs are involved. Closing walls early traps moisture and creates a mold problem inside a finished room."}
+  "faqs": [
+   {
+    "q": "Is flood water safe to clean up myself?",
+    "a": "Treat it as contaminated. Storm and groundwater carry bacteria, fuel residue and sewage in some cases. Protective gear, proper disposal and antimicrobial treatment matter, and porous materials that soaked it up should be removed rather than dried."
+   },
+   {
+    "q": "Does homeowners insurance cover flooding?",
+    "a": "Standard homeowners policies generally exclude rising water and surge. That coverage typically comes from a separate flood policy through the NFIP or a private carrier. Wind-driven rain through a storm-damaged roof is often handled differently, which is why the source matters."
+   },
+   {
+    "q": "How high do you cut the drywall?",
+    "a": "The cut is set above the measured wick line, and the cavity is checked with meters before we choose a height. Where water rose only a few inches, a low cut is often enough. Where insulation is soaked to the top plate, the whole wall may come out."
+   },
+   {
+    "q": "Can flooring be saved after a flood?",
+    "a": "Tile can often be cleaned and kept if the substrate dries. Carpet pad, laminate, engineered plank with a fiberboard core, and glued-down materials over a contaminated slab usually come out. We decide by material and water category, not by guess."
+   },
+   {
+    "q": "How long before rebuild can start?",
+    "a": "Only after the framing and slab hold a dry reading. That is commonly five to ten days on a flood job, longer if block walls and thick slabs are involved. Closing walls early traps moisture and creates a mold problem inside a finished room."
+   }
   ],
-  "related":["emergency-water-extraction","storm-damage-repair","mold-remediation","structural-drying"]
-},
-{
-  "slug":"structural-drying",
-  "name":"Structural Drying and Dehumidification",
-  "kw":"structural drying and dehumidification in Largo, FL",
-  "h1":"Structural Drying and Dehumidification in Largo, FL",
-  "title":"Structural Drying & Dehumidification Largo FL | Documented Dry-Out",
-  "meta":"Structural drying and dehumidification in Largo, FL. Calculated equipment loads, daily moisture logs and verified dry standards on slab homes and condos.",
-  "img":"drying-equipment-staged-largo-garage.jpg",
-  "alt":"Dehumidifiers and air movers staged in a Largo garage for structural drying and dehumidification",
-  "card":"Documented structural drying for Largo properties, with equipment counts calculated from room volume, class of water and affected materials. Low-grain refrigerant dehumidifiers handle the load while air movers keep evaporation moving, and specialty tools dry wall cavities, hardwood and cabinet boxes in place. Daily readings prove progress, and equipment stays until the material hits a documented dry standard.",
-  "intro":[
-    "Structural drying and dehumidification in Largo, FL is the part of the job that decides whether your house stays dry. Extraction takes the water you can see. Drying removes what soaked into drywall, framing, subfloor and block, and that only happens with the right equipment count in a controlled space.",
-    "We size the setup from numbers: room volume, class of water, and how much material is wet. Then we log grain depression and material moisture every day. If the readings stall, the plan changes that day instead of at the end of the week."
+  "related": [
+   "emergency-water-extraction",
+   "storm-damage-repair",
+   "mold-remediation",
+   "structural-drying"
+  ]
+ },
+ {
+  "slug": "structural-drying",
+  "name": "Structural Drying and Dehumidification",
+  "kw": "structural drying and dehumidification in Largo, FL",
+  "h1": "Structural Drying and Dehumidification in Largo, FL",
+  "title": "Structural Drying Largo FL | Documented Dehumidification",
+  "meta": "Structural drying in Largo, FL: calculated equipment loads, daily moisture logs and verified dry standards on slab homes, condos and businesses.",
+  "img": "drying-equipment-staged-largo-garage.jpg",
+  "alt": "Dehumidifiers and air movers staged in a Largo garage for structural drying and dehumidification",
+  "card": "Documented structural drying for Largo properties, with equipment counts calculated from room volume, class of water and affected materials. Low-grain refrigerant dehumidifiers handle the load while air movers keep evaporation moving, and specialty tools dry wall cavities, hardwood and cabinet boxes in place. Daily readings prove progress, and equipment stays until the material hits a documented dry standard.",
+  "intro": [
+   "Structural drying and dehumidification in Largo, FL is the part of the job that decides whether your house stays dry. Extraction takes the water you can see. Drying removes what soaked into drywall, framing, subfloor and block, and that only happens with the right equipment count in a controlled space.",
+   "We size the setup from numbers: room volume, class of water, and how much material is wet. Then we log grain depression and material moisture every day. If the readings stall, the plan changes that day instead of at the end of the week."
   ],
-  "includes":[
-    {"h":"Calculated Equipment Loads, Not Guesses","b":"Air mover count comes from wet wall and floor surface area. Dehumidifier capacity comes from cubic footage and the class of water. Undersized setups look busy and dry nothing. We document the calculation, so you and your adjuster can see why the equipment count is what it is."},
-    {"h":"Low-Grain Refrigerant and Desiccant Dehumidification","b":"LGR units pull moisture at low humidity levels where standard dehumidifiers stall. For dense materials like block walls, thick slabs and hardwood, desiccant capacity dries faster and deeper. Choosing the right unit shortens the job and reduces the amount of material that has to be removed."},
-    {"h":"Cavity, Hardwood and Cabinet Drying Systems","b":"Injection systems push dry air into wall cavities through small base holes. Floor mat systems pull moisture up through hardwood and glued plank instead of removing it. Cabinet and toe-kick drying saves boxes that would otherwise be a full replacement. These tools keep tear-out to a minimum."},
-    {"h":"Daily Monitoring and a Dry Standard","b":"Each visit records temperature, relative humidity, grain depression and material moisture by room. Drying ends when the wet material matches a dry, unaffected reference area in the same building. That is a defensible standard and it is what insurers expect to see."}
+  "includes": [
+   {
+    "h": "Calculated Equipment Loads, Not Guesses",
+    "b": "Air mover count comes from wet wall and floor surface area. Dehumidifier capacity comes from cubic footage and the class of water. Undersized setups look busy and dry nothing. We document the calculation, so you and your adjuster can see why the equipment count is what it is."
+   },
+   {
+    "h": "Low-Grain Refrigerant and Desiccant Dehumidification",
+    "b": "LGR units pull moisture at low humidity levels where standard dehumidifiers stall. For dense materials like block walls, thick slabs and hardwood, desiccant capacity dries faster and deeper. Choosing the right unit shortens the job and reduces the amount of material that has to be removed."
+   },
+   {
+    "h": "Cavity, Hardwood and Cabinet Drying Systems",
+    "b": "Injection systems push dry air into wall cavities through small base holes. Floor mat systems pull moisture up through hardwood and glued plank instead of removing it. Cabinet and toe-kick drying saves boxes that would otherwise be a full replacement. These tools keep tear-out to a minimum."
+   },
+   {
+    "h": "Daily Monitoring and a Dry Standard",
+    "b": "Each visit records temperature, relative humidity, grain depression and material moisture by room. Drying ends when the wet material matches a dry, unaffected reference area in the same building. That is a defensible standard and it is what insurers expect to see."
+   }
   ],
-  "process":[
-    {"h":"Assess Affected Materials","b":"We identify every wet assembly with meters and thermal imaging, then classify the water and the class of loss to set the drying goal."},
-    {"h":"Contain the Drying Area","b":"Poly containment and door seals keep dry air where it belongs. Unaffected bedrooms stay out of the system so the dehumidifiers are not fighting the whole house."},
-    {"h":"Set the Calculated System","b":"Air movers, dehumidifiers and any specialty drying gear are installed, power loads are checked, and day-one readings are recorded in the log."},
-    {"h":"Monitor and Adjust Daily","b":"Readings are taken every visit. Equipment is repositioned as areas dry, and stalled assemblies get injection, mat systems or targeted removal."},
-    {"h":"Verify Dry and Demobilize","b":"When materials meet the dry standard, equipment comes out and you receive the complete moisture log and photo record for your file."}
+  "process": [
+   {
+    "h": "Assess Affected Materials",
+    "b": "We identify every wet assembly with meters and thermal imaging, then classify the water and the class of loss to set the drying goal."
+   },
+   {
+    "h": "Contain the Drying Area",
+    "b": "Poly containment and door seals keep dry air where it belongs. Unaffected bedrooms stay out of the system so the dehumidifiers are not fighting the whole house."
+   },
+   {
+    "h": "Set the Calculated System",
+    "b": "Air movers, dehumidifiers and any specialty drying gear are installed, power loads are checked, and day-one readings are recorded in the log."
+   },
+   {
+    "h": "Monitor and Adjust Daily",
+    "b": "Readings are taken every visit. Equipment is repositioned as areas dry, and stalled assemblies get injection, mat systems or targeted removal."
+   },
+   {
+    "h": "Verify Dry and Demobilize",
+    "b": "When materials meet the dry standard, equipment comes out and you receive the complete moisture log and photo record for your file."
+   }
   ],
-  "local":[
-    {"h":"Why Gulf Coast Humidity Changes the Drying Plan","p":["Largo averages high relative humidity year round, and summer dew points in the mid-seventies are normal. Outside air holds so much moisture that ventilating a wet room with open windows can raise the moisture load instead of lowering it. Drying here is a closed process almost every time.","We build a closed drying chamber, run dehumidification to control the grain, and use the air conditioning as a partner rather than the primary tool. In shoulder months we sometimes use limited fresh air exchange, but only when the outside grain reading is genuinely lower than inside."]},
-    {"h":"Block Walls, Thick Slabs and Terrazzo","p":["Concrete block with stucco is the standard wall assembly in Largo, and midcentury houses often have terrazzo or thick monolithic slabs. Masonry holds far more water than wood framing and gives it back slowly. A drying plan built for a wood-framed house will fail on a block wall.","For those assemblies we extend equipment time, use desiccant capacity where it helps, and read the block directly with pin meters at multiple heights. Where a bonded floor covers a wet slab, we compare readings under and beside the covering before deciding whether the floor can stay."]}
+  "local": [
+   {
+    "h": "Why Gulf Coast Humidity Changes the Drying Plan",
+    "p": [
+     "Largo averages high relative humidity year round, and summer dew points in the mid-seventies are normal. Outside air holds so much moisture that ventilating a wet room with open windows can raise the moisture load instead of lowering it. Drying here is a closed process almost every time.",
+     "We build a closed drying chamber, run dehumidification to control the grain, and use the air conditioning as a partner rather than the primary tool. In shoulder months we sometimes use limited fresh air exchange, but only when the outside grain reading is genuinely lower than inside."
+    ]
+   },
+   {
+    "h": "Block Walls, Thick Slabs and Terrazzo",
+    "p": [
+     "Concrete block with stucco is the standard wall assembly in Largo, and midcentury houses often have terrazzo or thick monolithic slabs. Masonry holds far more water than wood framing and gives it back slowly. A drying plan built for a wood-framed house will fail on a block wall.",
+     "For those assemblies we extend equipment time, use desiccant capacity where it helps, and read the block directly with pin meters at multiple heights. Where a bonded floor covers a wet slab, we compare readings under and beside the covering before deciding whether the floor can stay."
+    ]
+   }
   ],
-  "signs":[
-    "Surfaces feel dry but the room smells damp",
-    "Condensation on windows or return grilles after a leak",
-    "Paint blistering or drywall tape lifting near the floor",
-    "Flooring that cupped, peaked or lifted days after cleanup",
-    "Air conditioning running longer than usual with no comfort gain",
-    "A prior repair that was closed up without a moisture log"
+  "signs": [
+   "Surfaces feel dry but the room smells damp",
+   "Condensation on windows or return grilles after a leak",
+   "Paint blistering or drywall tape lifting near the floor",
+   "Flooring that cupped, peaked or lifted days after cleanup",
+   "Air conditioning running longer than usual with no comfort gain",
+   "A prior repair that was closed up without a moisture log"
   ],
-  "faqs":[
-    {"q":"How many days does the equipment stay?","a":"Most residential dry-outs run three to five days. Block walls, hardwood, plaster and thick slabs can push it to a week or more. The log decides, not the calendar."},
-    {"q":"Is the equipment loud and can I stay home?","a":"Air movers and dehumidifiers are noticeably loud and warm the space a few degrees. Most families stay home and keep doors to the containment closed. If a bedroom is inside the drying area, plan to sleep elsewhere in the house."},
-    {"q":"What does it cost to run the equipment?","a":"You will see a bump in the electric bill while units run. That cost is minor next to replacing a floor or a wall system. Insurers generally reimburse reasonable equipment and power draw as part of the mitigation."},
-    {"q":"Can you dry hardwood or does it always come out?","a":"Solid hardwood over a slab or subfloor often dries with mat systems if we start early and the boards are still attached. Engineered plank with a fiberboard core and laminate typically swell past saving. Early intervention is the difference."},
-    {"q":"What is a dry standard?","a":"It is a target moisture reading taken from the same material in an unaffected part of the building. When the wet area matches that reference and holds, the assembly is dry. That comparison is more reliable than any single number."}
+  "faqs": [
+   {
+    "q": "How many days does the equipment stay?",
+    "a": "Most residential dry-outs run three to five days. Block walls, hardwood, plaster and thick slabs can push it to a week or more. The log decides, not the calendar."
+   },
+   {
+    "q": "Is the equipment loud and can I stay home?",
+    "a": "Air movers and dehumidifiers are noticeably loud and warm the space a few degrees. Most families stay home and keep doors to the containment closed. If a bedroom is inside the drying area, plan to sleep elsewhere in the house."
+   },
+   {
+    "q": "What does it cost to run the equipment?",
+    "a": "You will see a bump in the electric bill while units run. That cost is minor next to replacing a floor or a wall system. Insurers generally reimburse reasonable equipment and power draw as part of the mitigation."
+   },
+   {
+    "q": "Can you dry hardwood or does it always come out?",
+    "a": "Solid hardwood over a slab or subfloor often dries with mat systems if we start early and the boards are still attached. Engineered plank with a fiberboard core and laminate typically swell past saving. Early intervention is the difference."
+   },
+   {
+    "q": "What is a dry standard?",
+    "a": "It is a target moisture reading taken from the same material in an unaffected part of the building. When the wet area matches that reference and holds, the assembly is dry. That comparison is more reliable than any single number."
+   }
   ],
-  "related":["water-damage-restoration","hardwood-floor-drying","mold-inspection-testing","ceiling-drywall-repair"]
-},
-{
-  "slug":"mold-remediation",
-  "name":"Mold Remediation",
-  "kw":"mold remediation in Largo, FL",
-  "h1":"Mold Remediation in Largo, FL",
-  "title":"Mold Remediation Largo FL | Containment, Removal & Clearance",
-  "meta":"Mold remediation in Largo, FL. Containment, HEPA filtration, material removal and post-remediation verification for humid slab homes and condos.",
-  "img":"tile-floor-injection-drying-largo-home.jpg",
-  "alt":"Injection drying and containment equipment set up during mold remediation in a Largo, FL home",
-  "card":"Mold remediation for Largo homes where humidity, a slow leak or a past water loss let growth take hold. Work areas are contained under negative pressure with HEPA filtration, affected porous materials are removed and bagged, and remaining surfaces are HEPA vacuumed and wiped. The moisture source is corrected first, because remediation without a dry structure simply grows back.",
-  "intro":[
-    "Mold remediation in Largo, FL follows a simple rule: fix the water, then remove the growth, and never in the other order. Florida's climate gives mold everything it needs. All that is missing is a wet surface, and a pinhole leak behind a vanity supplies that for months before anyone notices.",
-    "Our crews contain the area so spores do not spread through the house, remove materials that cannot be cleaned, and clean what stays. Mold remediation in Florida is a licensed activity, and work is performed to written protocol with verification at the end."
+  "related": [
+   "water-damage-restoration",
+   "hardwood-floor-drying",
+   "mold-inspection-testing",
+   "ceiling-drywall-repair"
+  ]
+ },
+ {
+  "slug": "mold-remediation",
+  "name": "Mold Remediation",
+  "kw": "mold remediation in Largo, FL",
+  "h1": "Mold Remediation in Largo, FL",
+  "title": "Mold Remediation Largo FL | Containment, Removal & Clearance",
+  "meta": "Mold remediation in Largo, FL: containment, HEPA filtration, material removal and post-remediation verification for humid slab homes and condos.",
+  "img": "tile-floor-injection-drying-largo-home.jpg",
+  "alt": "Injection drying and containment equipment set up during mold remediation in a Largo, FL home",
+  "card": "Mold remediation for Largo homes where humidity, a slow leak or a past water loss let growth take hold. Work areas are contained under negative pressure with HEPA filtration, affected porous materials are removed and bagged, and remaining surfaces are HEPA vacuumed and wiped. The moisture source is corrected first, because remediation without a dry structure simply grows back.",
+  "intro": [
+   "Mold remediation in Largo, FL follows a simple rule: fix the water, then remove the growth, and never in the other order. Florida's climate gives mold everything it needs. All that is missing is a wet surface, and a pinhole leak behind a vanity supplies that for months before anyone notices.",
+   "Our crews contain the area so spores do not spread through the house, remove materials that cannot be cleaned, and clean what stays. Mold remediation in Florida is a licensed activity, and work is performed to written protocol with verification at the end."
   ],
-  "includes":[
-    {"h":"Source Correction and Moisture Control First","b":"We find the water feeding the growth, whether that is a supply leak, a drain line, a roof penetration, a failed window seal or chronic condensation on ductwork. Until that source is fixed and the assembly is dry, any cleaning is temporary. Moisture readings confirm the area is dry before remediation closes."},
-    {"h":"Containment and Negative Air Pressure","b":"Poly barriers, zipper doors and negative air machines with HEPA filtration keep the work area separate from the rest of the home. Air is exhausted or filtered so spores are not pushed into bedrooms and returns. HVAC in the affected zone is shut down and registers are sealed."},
-    {"h":"Removal of Affected Porous Materials","b":"Mold-affected drywall, insulation, carpet pad, ceiling tile, particle board and wood trim are cut out and bagged inside containment. Removal happens with tools that limit dust, and debris is double-bagged and carried out through a controlled path rather than through your living room."},
-    {"h":"HEPA Cleaning and Post-Remediation Verification","b":"Framing and hard surfaces are HEPA vacuumed, damp wiped and treated as the protocol requires. When work is done, the area is cleared visually and, where a protocol calls for it, by an independent assessor. You receive the protocol, the work record and the verification result."}
+  "includes": [
+   {
+    "h": "Source Correction and Moisture Control First",
+    "b": "We find the water feeding the growth, whether that is a supply leak, a drain line, a roof penetration, a failed window seal or chronic condensation on ductwork. Until that source is fixed and the assembly is dry, any cleaning is temporary. Moisture readings confirm the area is dry before remediation closes."
+   },
+   {
+    "h": "Containment and Negative Air Pressure",
+    "b": "Poly barriers, zipper doors and negative air machines with HEPA filtration keep the work area separate from the rest of the home. Air is exhausted or filtered so spores are not pushed into bedrooms and returns. HVAC in the affected zone is shut down and registers are sealed."
+   },
+   {
+    "h": "Removal of Affected Porous Materials",
+    "b": "Mold-affected drywall, insulation, carpet pad, ceiling tile, particle board and wood trim are cut out and bagged inside containment. Removal happens with tools that limit dust, and debris is double-bagged and carried out through a controlled path rather than through your living room."
+   },
+   {
+    "h": "HEPA Cleaning and Post-Remediation Verification",
+    "b": "Framing and hard surfaces are HEPA vacuumed, damp wiped and treated as the protocol requires. When work is done, the area is cleared visually and, where a protocol calls for it, by an independent assessor. You receive the protocol, the work record and the verification result."
+   }
   ],
-  "process":[
-    {"h":"Inspection and Moisture Mapping","b":"We locate growth and moisture with meters, thermal imaging and inspection openings, then document the affected square footage and the likely source."},
-    {"h":"Written Protocol and Scope","b":"Larger jobs follow an assessor's protocol. Smaller ones get a written scope covering containment, removal limits, cleaning and verification."},
-    {"h":"Build Containment","b":"Barriers, negative air, HEPA filtration and a decontamination path are set before anything is cut. HVAC is isolated to protect the rest of the home."},
-    {"h":"Remove and Clean","b":"Affected materials come out and get bagged. Remaining structure is HEPA vacuumed, wiped and dried, with readings logged."},
-    {"h":"Verify and Rebuild","b":"Clearance or final verification comes first, then insulation, drywall, trim and paint go back into a dry, clean cavity."}
+  "process": [
+   {
+    "h": "Inspection and Moisture Mapping",
+    "b": "We locate growth and moisture with meters, thermal imaging and inspection openings, then document the affected square footage and the likely source."
+   },
+   {
+    "h": "Written Protocol and Scope",
+    "b": "Larger jobs follow an assessor's protocol. Smaller ones get a written scope covering containment, removal limits, cleaning and verification."
+   },
+   {
+    "h": "Build Containment",
+    "b": "Barriers, negative air, HEPA filtration and a decontamination path are set before anything is cut. HVAC is isolated to protect the rest of the home."
+   },
+   {
+    "h": "Remove and Clean",
+    "b": "Affected materials come out and get bagged. Remaining structure is HEPA vacuumed, wiped and dried, with readings logged."
+   },
+   {
+    "h": "Verify and Rebuild",
+    "b": "Clearance or final verification comes first, then insulation, drywall, trim and paint go back into a dry, clean cavity."
+   }
   ],
-  "local":[
-    {"h":"Licensing Rules for Florida Mold Work","p":["Florida licenses both mold assessors and mold remediators through the Department of Business and Professional Regulation. State law also limits the same company from assessing and remediating the same project in most cases, which keeps the inspection honest. Ask any contractor for their license number before work starts.","On larger losses that split is useful for you. An independent assessor writes the protocol and performs the clearance, and the remediator executes it. That structure is also what insurers and property managers in Pinellas County generally expect to see documented."]},
-    {"h":"Why Largo Homes Grow Mold Without a Flood","p":["Air conditioning runs most of the year here, and cold supply air against humid interior air creates condensation on duct boots, closet ceilings and exterior wall cavities. Oversized systems that short cycle cool the air without removing enough moisture, leaving indoor humidity high enough for growth on drywall paper and closet contents.","We check the obvious water sources, then look at humidity behavior: bathroom exhaust that vents into an attic, a clogged condensate line, an attic hatch that leaks conditioned air, and window seals on older aluminum frames. Fixing the moisture pattern is what keeps the remediation from repeating next summer."]}
+  "local": [
+   {
+    "h": "Licensing Rules for Florida Mold Work",
+    "p": [
+     "Florida licenses both mold assessors and mold remediators through the Department of Business and Professional Regulation. State law also limits the same company from assessing and remediating the same project in most cases, which keeps the inspection honest. Ask any contractor for their license number before work starts.",
+     "On larger losses that split is useful for you. An independent assessor writes the protocol and performs the clearance, and the remediator executes it. That structure is also what insurers and property managers in Pinellas County generally expect to see documented."
+    ]
+   },
+   {
+    "h": "Why Largo Homes Grow Mold Without a Flood",
+    "p": [
+     "Air conditioning runs most of the year here, and cold supply air against humid interior air creates condensation on duct boots, closet ceilings and exterior wall cavities. Oversized systems that short cycle cool the air without removing enough moisture, leaving indoor humidity high enough for growth on drywall paper and closet contents.",
+     "We check the obvious water sources, then look at humidity behavior: bathroom exhaust that vents into an attic, a clogged condensate line, an attic hatch that leaks conditioned air, and window seals on older aluminum frames. Fixing the moisture pattern is what keeps the remediation from repeating next summer."
+    ]
+   }
   ],
-  "signs":[
-    "A musty smell that gets stronger in a closet or bathroom",
-    "Gray, green or black staining on drywall, trim or ceiling",
-    "Peeling paint or bubbled drywall paper near the floor",
-    "Warped baseboard with dark specks along the top edge",
-    "Symptoms that improve when you leave the house",
-    "A past water leak that was patched without any drying"
+  "signs": [
+   "A musty smell that gets stronger in a closet or bathroom",
+   "Gray, green or black staining on drywall, trim or ceiling",
+   "Peeling paint or bubbled drywall paper near the floor",
+   "Warped baseboard with dark specks along the top edge",
+   "Symptoms that improve when you leave the house",
+   "A past water leak that was patched without any drying"
   ],
-  "faqs":[
-    {"q":"Can you test and remediate the same mold problem?","a":"Florida rules generally prevent one company from both assessing and remediating the same project. For jobs that need a protocol and clearance, we work with an independent licensed assessor and perform the remediation to their written scope."},
-    {"q":"Is bleach an effective mold treatment?","a":"On hard, non-porous surfaces it can help. On drywall, wood and insulation it wets the material, does not reach the root growth, and often makes the problem worse. Porous material with real growth needs removal, not spraying."},
-    {"q":"How long does mold remediation take?","a":"A single bathroom or closet is commonly one to three days including drying. Multiple rooms, HVAC involvement or attic work runs longer. Verification adds a day when an outside assessor is scheduled."},
-    {"q":"Will insurance pay for mold remediation?","a":"It depends on the cause and the policy. Many Florida policies cap mold coverage or exclude it when the underlying leak was long-term. Mold that follows a covered sudden water loss is treated more favorably. We document the source and timeline for your claim."},
-    {"q":"Do I need to leave my home during remediation?","a":"Usually no. Containment and negative air keep the work area separate. People with asthma, allergies or immune concerns may prefer to stay elsewhere while the removal phase runs."}
+  "faqs": [
+   {
+    "q": "Can you test and remediate the same mold problem?",
+    "a": "Florida rules generally prevent one company from both assessing and remediating the same project. For jobs that need a protocol and clearance, we work with an independent licensed assessor and perform the remediation to their written scope."
+   },
+   {
+    "q": "Is bleach an effective mold treatment?",
+    "a": "On hard, non-porous surfaces it can help. On drywall, wood and insulation it wets the material, does not reach the root growth, and often makes the problem worse. Porous material with real growth needs removal, not spraying."
+   },
+   {
+    "q": "How long does mold remediation take?",
+    "a": "A single bathroom or closet is commonly one to three days including drying. Multiple rooms, HVAC involvement or attic work runs longer. Verification adds a day when an outside assessor is scheduled."
+   },
+   {
+    "q": "Will insurance pay for mold remediation?",
+    "a": "It depends on the cause and the policy. Many Florida policies cap mold coverage or exclude it when the underlying leak was long-term. Mold that follows a covered sudden water loss is treated more favorably. We document the source and timeline for your claim."
+   },
+   {
+    "q": "Do I need to leave my home during remediation?",
+    "a": "Usually no. Containment and negative air keep the work area separate. People with asthma, allergies or immune concerns may prefer to stay elsewhere while the removal phase runs."
+   }
   ],
-  "related":["mold-inspection-testing","structural-drying","water-damage-restoration","crawl-space-water-removal"]
-},
-{
-  "slug":"mold-inspection-testing",
-  "name":"Mold Inspection and Testing",
-  "kw":"mold inspection and testing in Largo, FL",
-  "h1":"Mold Inspection and Testing in Largo, FL",
-  "title":"Mold Inspection & Testing Largo FL | Moisture Mapping + Sampling",
-  "meta":"Mold inspection and testing in Largo, FL. Moisture mapping, thermal imaging, air and surface sampling with a written report you can act on.",
-  "img":"dehumidifier-kitchen-water-damage-largo.jpg",
-  "alt":"Dehumidifier and moisture meter reading during a mold inspection in a Largo, FL kitchen",
-  "card":"Mold inspection and testing for Largo homeowners, buyers and landlords who need facts before spending money. Inspections combine visual assessment, moisture meters, thermal imaging and humidity readings, with air or surface sampling sent to an accredited lab when results will change the plan. You get a written report naming the moisture source, the affected area and the scope of work required.",
-  "intro":[
-    "Mold inspection and testing in Largo, FL answers three questions: is there growth, how much, and what is keeping it wet. Guessing at any of the three leads to paying for the wrong work. A closet that smells musty may need a duct repair, not demolition.",
-    "We inspect the building the way water moves through it, from roof and window details down to slab edges and cabinet bases. Where sampling adds value, it goes to an accredited laboratory and the results appear in a plain-language report with a defined scope."
+  "related": [
+   "mold-inspection-testing",
+   "structural-drying",
+   "water-damage-restoration",
+   "crawl-space-water-removal"
+  ]
+ },
+ {
+  "slug": "mold-inspection-testing",
+  "name": "Mold Inspection and Testing",
+  "kw": "mold inspection and testing in Largo, FL",
+  "h1": "Mold Inspection and Testing in Largo, FL",
+  "title": "Mold Inspection & Testing Largo FL | Moisture Mapping",
+  "meta": "Mold inspection and testing in Largo, FL: moisture mapping, thermal imaging, air and surface sampling with a written report you can act on.",
+  "img": "dehumidifier-kitchen-water-damage-largo.jpg",
+  "alt": "Dehumidifier and moisture meter reading during a mold inspection in a Largo, FL kitchen",
+  "card": "Mold inspection and testing for Largo homeowners, buyers and landlords who need facts before spending money. Inspections combine visual assessment, moisture meters, thermal imaging and humidity readings, with air or surface sampling sent to an accredited lab when results will change the plan. You get a written report naming the moisture source, the affected area and the scope of work required.",
+  "intro": [
+   "Mold inspection and testing in Largo, FL answers three questions: is there growth, how much, and what is keeping it wet. Guessing at any of the three leads to paying for the wrong work. A closet that smells musty may need a duct repair, not demolition.",
+   "We inspect the building the way water moves through it, from roof and window details down to slab edges and cabinet bases. Where sampling adds value, it goes to an accredited laboratory and the results appear in a plain-language report with a defined scope."
   ],
-  "includes":[
-    {"h":"Full Visual and Moisture Assessment","b":"Every accessible area gets checked: baths, kitchens, laundry, closets, attic access, air handler closet, window walls and slab perimeter. Pin and pinless meters read drywall, trim, subfloor and block. Findings are mapped by room so the report shows where wet material actually is."},
-    {"h":"Thermal Imaging and Humidity Readings","b":"An infrared camera reveals temperature differences that point to active moisture, missing insulation and air leaks. Thermo-hygrometer readings in each zone show whether indoor humidity alone is high enough to support growth. Together they separate a plumbing leak from a condensation problem."},
-    {"h":"Air and Surface Sampling When It Matters","b":"Spore trap air samples, tape lifts and swabs go to an accredited lab with an outdoor control sample for comparison. We recommend sampling when there is an occupant health concern, a real estate transaction, a dispute with a landlord, or hidden growth we cannot see but can smell."},
-    {"h":"A Written Report With a Real Scope","b":"You receive photos, moisture readings, lab results if sampled, the identified moisture source, and the remediation scope in square feet with containment requirements. That document is what a contractor bids from and what an insurer or property manager reviews."}
+  "includes": [
+   {
+    "h": "Full Visual and Moisture Assessment",
+    "b": "Every accessible area gets checked: baths, kitchens, laundry, closets, attic access, air handler closet, window walls and slab perimeter. Pin and pinless meters read drywall, trim, subfloor and block. Findings are mapped by room so the report shows where wet material actually is."
+   },
+   {
+    "h": "Thermal Imaging and Humidity Readings",
+    "b": "An infrared camera reveals temperature differences that point to active moisture, missing insulation and air leaks. Thermo-hygrometer readings in each zone show whether indoor humidity alone is high enough to support growth. Together they separate a plumbing leak from a condensation problem."
+   },
+   {
+    "h": "Air and Surface Sampling When It Matters",
+    "b": "Spore trap air samples, tape lifts and swabs go to an accredited lab with an outdoor control sample for comparison. We recommend sampling when there is an occupant health concern, a real estate transaction, a dispute with a landlord, or hidden growth we cannot see but can smell."
+   },
+   {
+    "h": "A Written Report With a Real Scope",
+    "b": "You receive photos, moisture readings, lab results if sampled, the identified moisture source, and the remediation scope in square feet with containment requirements. That document is what a contractor bids from and what an insurer or property manager reviews."
+   }
   ],
-  "process":[
-    {"h":"Interview and History","b":"Past leaks, roof age, plumbing repairs, air conditioning behavior, smells by room and any health complaints. History narrows the search fast."},
-    {"h":"Walk the Water Path","b":"Roof and window details, attic, air handler and duct boots, wet walls, cabinet bases, slab perimeter and exterior grade all get inspected in order."},
-    {"h":"Instrument Readings","b":"Moisture meters, thermal imaging and humidity readings are recorded room by room, with the wet line marked and photographed."},
-    {"h":"Sample if Needed","b":"Air or surface samples are collected with an outdoor control and submitted to an accredited lab. Results usually return in a few business days."},
-    {"h":"Deliver Findings and Options","b":"You get the written report, the moisture source, the scope, and a clear statement of what needs remediation versus what needs a repair."}
+  "process": [
+   {
+    "h": "Interview and History",
+    "b": "Past leaks, roof age, plumbing repairs, air conditioning behavior, smells by room and any health complaints. History narrows the search fast."
+   },
+   {
+    "h": "Walk the Water Path",
+    "b": "Roof and window details, attic, air handler and duct boots, wet walls, cabinet bases, slab perimeter and exterior grade all get inspected in order."
+   },
+   {
+    "h": "Instrument Readings",
+    "b": "Moisture meters, thermal imaging and humidity readings are recorded room by room, with the wet line marked and photographed."
+   },
+   {
+    "h": "Sample if Needed",
+    "b": "Air or surface samples are collected with an outdoor control and submitted to an accredited lab. Results usually return in a few business days."
+   },
+   {
+    "h": "Deliver Findings and Options",
+    "b": "You get the written report, the moisture source, the scope, and a clear statement of what needs remediation versus what needs a repair."
+   }
   ],
-  "local":[
-    {"h":"Buying or Selling a Largo Home","p":["Pinellas County housing stock skews older, and many Largo homes have had a roof, a repipe or a window replacement somewhere along the way. Sellers disclose known issues, but a patched ceiling stain does not tell a buyer whether the assembly was ever dried. Inspection with meters shows current moisture, which is the fact that matters at closing.","We keep the report factual and dated so it holds up in a transaction. If the finding is minor, that is stated plainly. Overstating a small closet issue helps nobody, and buyers and agents in this market notice."]},
-    {"h":"Rentals, Condos and Association Walls","p":["Largo has a large rental and condominium market, and moisture often crosses ownership lines. Water inside a common block wall or a shared plumbing chase can affect two units, and responsibility depends on the association documents. A dated inspection with readings on both sides of the wall settles most of those conversations.","For tenants and landlords, the report separates a maintenance issue like a dripping angle stop from a housekeeping issue like blocked bathroom ventilation. Naming the source is what allows the right party to fix it and prevents the same complaint next season."]}
+  "local": [
+   {
+    "h": "Buying or Selling a Largo Home",
+    "p": [
+     "Pinellas County housing stock skews older, and many Largo homes have had a roof, a repipe or a window replacement somewhere along the way. Sellers disclose known issues, but a patched ceiling stain does not tell a buyer whether the assembly was ever dried. Inspection with meters shows current moisture, which is the fact that matters at closing.",
+     "We keep the report factual and dated so it holds up in a transaction. If the finding is minor, that is stated plainly. Overstating a small closet issue helps nobody, and buyers and agents in this market notice."
+    ]
+   },
+   {
+    "h": "Rentals, Condos and Association Walls",
+    "p": [
+     "Largo has a large rental and condominium market, and moisture often crosses ownership lines. Water inside a common block wall or a shared plumbing chase can affect two units, and responsibility depends on the association documents. A dated inspection with readings on both sides of the wall settles most of those conversations.",
+     "For tenants and landlords, the report separates a maintenance issue like a dripping angle stop from a housekeeping issue like blocked bathroom ventilation. Naming the source is what allows the right party to fix it and prevents the same complaint next season."
+    ]
+   }
   ],
-  "signs":[
-    "You smell mold but cannot find it",
-    "A room feels clammy while the rest of the house feels fine",
-    "Recurring stains after a repair that was never dried",
-    "Allergy symptoms tied to one room or one season",
-    "A real estate inspection flagged elevated moisture",
-    "A tenant or association reports moisture in a shared wall"
+  "signs": [
+   "You smell mold but cannot find it",
+   "A room feels clammy while the rest of the house feels fine",
+   "Recurring stains after a repair that was never dried",
+   "Allergy symptoms tied to one room or one season",
+   "A real estate inspection flagged elevated moisture",
+   "A tenant or association reports moisture in a shared wall"
   ],
-  "faqs":[
-    {"q":"Do I need testing, or is an inspection enough?","a":"Many cases are solved by inspection alone: find the water, define the affected area, fix it. Sampling adds value when growth is hidden, when health concerns are involved, or when a document is needed for a sale, claim or dispute."},
-    {"q":"What does an air sample actually tell me?","a":"It compares spore types and counts inside to an outdoor control at the same time. Indoor counts that are elevated or that show water-damage indicator species suggest an active indoor source. It does not tell you where the source is, which is why the moisture mapping matters."},
-    {"q":"How long do lab results take?","a":"Standard turnaround is generally two to four business days after the lab receives the samples. Rush options exist when a closing date or claim deadline is involved."},
-    {"q":"Can you remediate what you inspect?","a":"Florida rules generally separate assessment and remediation on the same project. When our inspection finds work is needed, the report is written so any licensed remediator can bid it, and we tell you plainly which role we can fill."},
-    {"q":"Is there a safe mold level for a Florida home?","a":"No agency has set numeric indoor limits. The practical standard is comparison: indoor conditions should resemble the outdoor baseline in type and count, with no visible growth and no wet materials. That is the target we report against."}
+  "faqs": [
+   {
+    "q": "Do I need testing, or is an inspection enough?",
+    "a": "Many cases are solved by inspection alone: find the water, define the affected area, fix it. Sampling adds value when growth is hidden, when health concerns are involved, or when a document is needed for a sale, claim or dispute."
+   },
+   {
+    "q": "What does an air sample actually tell me?",
+    "a": "It compares spore types and counts inside to an outdoor control at the same time. Indoor counts that are elevated or that show water-damage indicator species suggest an active indoor source. It does not tell you where the source is, which is why the moisture mapping matters."
+   },
+   {
+    "q": "How long do lab results take?",
+    "a": "Standard turnaround is generally two to four business days after the lab receives the samples. Rush options exist when a closing date or claim deadline is involved."
+   },
+   {
+    "q": "Can you remediate what you inspect?",
+    "a": "Florida rules generally separate assessment and remediation on the same project. When our inspection finds work is needed, the report is written so any licensed remediator can bid it, and we tell you plainly which role we can fill."
+   },
+   {
+    "q": "Is there a safe mold level for a Florida home?",
+    "a": "No agency has set numeric indoor limits. The practical standard is comparison: indoor conditions should resemble the outdoor baseline in type and count, with no visible growth and no wet materials. That is the target we report against."
+   }
   ],
-  "related":["mold-remediation","structural-drying","crawl-space-water-removal","water-damage-restoration"]
-},
-{
-  "slug":"sewage-cleanup",
-  "name":"Sewage Cleanup and Sanitizing",
-  "kw":"sewage cleanup in Largo, FL",
-  "h1":"Sewage Cleanup and Sanitizing in Largo, FL",
-  "title":"Sewage Cleanup Largo FL | Backup Removal & Sanitizing",
-  "meta":"Sewage cleanup in Largo, FL. Category 3 water removal, material disposal, sanitizing and drying after a sewer backup or toilet overflow.",
-  "img":"flooded-storage-room-standing-water-largo.jpg",
-  "alt":"Contaminated standing water on a floor before sewage cleanup and sanitizing in Largo, FL",
-  "card":"Sewage cleanup for Largo homes and businesses hit by a sewer backup, lift station failure or toilet overflow. Crews work the loss as Category 3 water: contaminated liquid extracted and disposed of properly, affected porous materials removed and bagged, hard surfaces cleaned and sanitized, then the structure dried and verified. Containment and HEPA filtration keep the contamination out of clean rooms.",
-  "intro":[
-    "Sewage cleanup in Largo, FL is a health job before it is a drying job. Backup water carries bacteria, viruses and organic waste, and everything porous it touched has to go. Cleaning around it and running a fan is how a house ends up smelling for a year.",
-    "Our crews arrive with protective equipment, containment and disposal in place. Wastewater is extracted, affected drywall, pad, base and cabinet material is removed, hard surfaces are cleaned and sanitized, and only then does the drying phase begin."
+  "related": [
+   "mold-remediation",
+   "structural-drying",
+   "crawl-space-water-removal",
+   "water-damage-restoration"
+  ]
+ },
+ {
+  "slug": "sewage-cleanup",
+  "name": "Sewage Cleanup and Sanitizing",
+  "kw": "sewage cleanup in Largo, FL",
+  "h1": "Sewage Cleanup and Sanitizing in Largo, FL",
+  "title": "Sewage Cleanup Largo FL | Backup Removal & Sanitizing",
+  "meta": "Sewage cleanup in Largo, FL: category 3 water removal, material disposal, sanitizing and drying after a sewer backup or toilet overflow.",
+  "img": "flooded-storage-room-standing-water-largo.jpg",
+  "alt": "Contaminated standing water on a floor before sewage cleanup and sanitizing in Largo, FL",
+  "card": "Sewage cleanup for Largo homes and businesses hit by a sewer backup, lift station failure or toilet overflow. Crews work the loss as Category 3 water: contaminated liquid extracted and disposed of properly, affected porous materials removed and bagged, hard surfaces cleaned and sanitized, then the structure dried and verified. Containment and HEPA filtration keep the contamination out of clean rooms.",
+  "intro": [
+   "Sewage cleanup in Largo, FL is a health job before it is a drying job. Backup water carries bacteria, viruses and organic waste, and everything porous it touched has to go. Cleaning around it and running a fan is how a house ends up smelling for a year.",
+   "Our crews arrive with protective equipment, containment and disposal in place. Wastewater is extracted, affected drywall, pad, base and cabinet material is removed, hard surfaces are cleaned and sanitized, and only then does the drying phase begin."
   ],
-  "includes":[
-    {"h":"Category 3 Water Extraction and Disposal","b":"Contaminated water is extracted with dedicated equipment and disposed of according to local requirements, never onto a lawn or into a storm drain. Solids are removed, and the affected footprint is defined with meters so cleaning covers everywhere the water traveled, including under toe kicks and behind wall base."},
-    {"h":"Removal of Porous Materials","b":"Carpet and pad, affected drywall, insulation, particle board vanity and cabinet bottoms, and unsealed wood trim come out and are bagged inside containment. Sewage does not wash out of porous material at a level anyone should live with, so removal is the standard, not a cleaning attempt."},
-    {"h":"Cleaning, Sanitizing and Odor Control","b":"Hard surfaces including slab, tile, framing and block are cleaned, then treated with an appropriate antimicrobial. Drain lines and floor drains in the affected area are flushed. Odor is addressed at the source rather than masked, with air scrubbing during the work and follow-up treatment after."},
-    {"h":"Drying and Clearance Documentation","b":"Once the shell is clean, air movers and dehumidifiers dry the structure with daily readings. You receive the scope, the disposal record, photos and the moisture log, which matters for insurance and for landlord and association reporting."}
+  "includes": [
+   {
+    "h": "Category 3 Water Extraction and Disposal",
+    "b": "Contaminated water is extracted with dedicated equipment and disposed of according to local requirements, never onto a lawn or into a storm drain. Solids are removed, and the affected footprint is defined with meters so cleaning covers everywhere the water traveled, including under toe kicks and behind wall base."
+   },
+   {
+    "h": "Removal of Porous Materials",
+    "b": "Carpet and pad, affected drywall, insulation, particle board vanity and cabinet bottoms, and unsealed wood trim come out and are bagged inside containment. Sewage does not wash out of porous material at a level anyone should live with, so removal is the standard, not a cleaning attempt."
+   },
+   {
+    "h": "Cleaning, Sanitizing and Odor Control",
+    "b": "Hard surfaces including slab, tile, framing and block are cleaned, then treated with an appropriate antimicrobial. Drain lines and floor drains in the affected area are flushed. Odor is addressed at the source rather than masked, with air scrubbing during the work and follow-up treatment after."
+   },
+   {
+    "h": "Drying and Clearance Documentation",
+    "b": "Once the shell is clean, air movers and dehumidifiers dry the structure with daily readings. You receive the scope, the disposal record, photos and the moisture log, which matters for insurance and for landlord and association reporting."
+   }
   ],
-  "process":[
-    {"h":"Stop Use and Confirm the Cause","b":"Stop running water and flushing. We ask whether the backup came from one fixture or the main line, which points to a clog, a root intrusion or a utility-side issue."},
-    {"h":"Contain and Protect","b":"Containment, floor protection and a controlled exit path go up first so contamination stays in the affected zone. Air scrubbing begins immediately."},
-    {"h":"Extract and Remove","b":"Wastewater is extracted and disposed of, then affected porous materials are cut out and double bagged for removal."},
-    {"h":"Clean and Sanitize","b":"Hard surfaces get washed and treated. Framing, slab and block receive direct attention at seams, plates and fastener lines."},
-    {"h":"Dry, Verify, Rebuild Scope","b":"Equipment dries the structure to a documented standard, then you receive the log and a written rebuild scope for the removed materials."}
+  "process": [
+   {
+    "h": "Stop Use and Confirm the Cause",
+    "b": "Stop running water and flushing. We ask whether the backup came from one fixture or the main line, which points to a clog, a root intrusion or a utility-side issue."
+   },
+   {
+    "h": "Contain and Protect",
+    "b": "Containment, floor protection and a controlled exit path go up first so contamination stays in the affected zone. Air scrubbing begins immediately."
+   },
+   {
+    "h": "Extract and Remove",
+    "b": "Wastewater is extracted and disposed of, then affected porous materials are cut out and double bagged for removal."
+   },
+   {
+    "h": "Clean and Sanitize",
+    "b": "Hard surfaces get washed and treated. Framing, slab and block receive direct attention at seams, plates and fastener lines."
+   },
+   {
+    "h": "Dry, Verify, Rebuild Scope",
+    "b": "Equipment dries the structure to a documented standard, then you receive the log and a written rebuild scope for the removed materials."
+   }
   ],
-  "local":[
-    {"h":"How Largo Wastewater Systems Fail","p":["Largo operates a wastewater collection system and a reclamation facility serving the city and surrounding areas, and homes in unincorporated pockets connect to Pinellas County Utilities instead. Both systems rely on lift stations and gravity mains. Heavy rainfall raises groundwater, infiltration increases flow, and a marginal line backs up into the lowest fixture in the house.","That lowest fixture is usually a guest bathroom or a shower on the slab. If the backup came from the utility side of the cleanout, report it to the utility right away, because responsibility and any claim path depend on where the blockage sat."]},
-    {"h":"Cast Iron and Root Intrusion in Older Neighborhoods","p":["Homes built in Largo before the mid-1970s commonly have cast iron drain lines under the slab. After fifty years those lines scale, channel and crack along the bottom. Roots from mature oaks and ficus find the cracks, and the line clogs repeatedly rather than once.","When we see repeat backups in the same fixture, the cleanup includes documenting the pattern so a licensed plumber can camera the line. Cleaning up the same bathroom three times costs more than replacing a failed section of pipe, and insurers ask whether the cause was addressed."]}
+  "local": [
+   {
+    "h": "How Largo Wastewater Systems Fail",
+    "p": [
+     "Largo operates a wastewater collection system and a reclamation facility serving the city and surrounding areas, and homes in unincorporated pockets connect to Pinellas County Utilities instead. Both systems rely on lift stations and gravity mains. Heavy rainfall raises groundwater, infiltration increases flow, and a marginal line backs up into the lowest fixture in the house.",
+     "That lowest fixture is usually a guest bathroom or a shower on the slab. If the backup came from the utility side of the cleanout, report it to the utility right away, because responsibility and any claim path depend on where the blockage sat."
+    ]
+   },
+   {
+    "h": "Cast Iron and Root Intrusion in Older Neighborhoods",
+    "p": [
+     "Homes built in Largo before the mid-1970s commonly have cast iron drain lines under the slab. After fifty years those lines scale, channel and crack along the bottom. Roots from mature oaks and ficus find the cracks, and the line clogs repeatedly rather than once.",
+     "When we see repeat backups in the same fixture, the cleanup includes documenting the pattern so a licensed plumber can camera the line. Cleaning up the same bathroom three times costs more than replacing a failed section of pipe, and insurers ask whether the cause was addressed."
+    ]
+   }
   ],
-  "signs":[
-    "Water backing up out of a shower, tub or floor drain",
-    "A toilet that overflows when the washing machine drains",
-    "Gurgling drains in a bathroom you are not using",
-    "Sewage odor inside the home or near a cleanout",
-    "Dark staining and debris at the base of a wall or vanity",
-    "Repeat clogs in the same fixture over several months"
+  "signs": [
+   "Water backing up out of a shower, tub or floor drain",
+   "A toilet that overflows when the washing machine drains",
+   "Gurgling drains in a bathroom you are not using",
+   "Sewage odor inside the home or near a cleanout",
+   "Dark staining and debris at the base of a wall or vanity",
+   "Repeat clogs in the same fixture over several months"
   ],
-  "faqs":[
-    {"q":"Can I clean a small sewage backup myself?","a":"A very small overflow of clean toilet water on tile can be handled with proper protection and disinfection. Anything involving waste, carpet, drywall or more than a few square feet should be handled as contaminated with proper removal and disposal."},
-    {"q":"Does everything the water touched have to be thrown out?","a":"Porous items generally yes: carpet, pad, mattresses, upholstered furniture, particle board and affected drywall. Hard, non-porous items can usually be cleaned and sanitized. We photograph and list every item removed for your claim."},
-    {"q":"Is sewage backup covered by insurance?","a":"Many Florida policies exclude sewer and drain backup unless a specific endorsement was added. Coverage often depends on where the blockage occurred and what caused it. We document the source and scope so your adjuster can evaluate it."},
-    {"q":"How long until the house is safe to use normally?","a":"The affected area stays contained through removal, cleaning and drying, commonly three to six days. Other rooms typically stay usable throughout. We tell you which spaces to avoid and when they are cleared."},
-    {"q":"Will the smell come back?","a":"Not if the source and the contaminated material are gone. Lingering odor almost always means porous material was left in place, a drain line is still compromised, or a wall cavity never dried. We address all three during the job."}
+  "faqs": [
+   {
+    "q": "Can I clean a small sewage backup myself?",
+    "a": "A very small overflow of clean toilet water on tile can be handled with proper protection and disinfection. Anything involving waste, carpet, drywall or more than a few square feet should be handled as contaminated with proper removal and disposal."
+   },
+   {
+    "q": "Does everything the water touched have to be thrown out?",
+    "a": "Porous items generally yes: carpet, pad, mattresses, upholstered furniture, particle board and affected drywall. Hard, non-porous items can usually be cleaned and sanitized. We photograph and list every item removed for your claim."
+   },
+   {
+    "q": "Is sewage backup covered by insurance?",
+    "a": "Many Florida policies exclude sewer and drain backup unless a specific endorsement was added. Coverage often depends on where the blockage occurred and what caused it. We document the source and scope so your adjuster can evaluate it."
+   },
+   {
+    "q": "How long until the house is safe to use normally?",
+    "a": "The affected area stays contained through removal, cleaning and drying, commonly three to six days. Other rooms typically stay usable throughout. We tell you which spaces to avoid and when they are cleared."
+   },
+   {
+    "q": "Will the smell come back?",
+    "a": "Not if the source and the contaminated material are gone. Lingering odor almost always means porous material was left in place, a drain line is still compromised, or a wall cavity never dried. We address all three during the job."
+   }
   ],
-  "related":["emergency-water-extraction","flood-damage-cleanup","mold-remediation","commercial-water-damage"]
-},
-{
-  "slug":"storm-damage-repair",
-  "name":"Storm and Hurricane Damage Repair",
-  "kw":"storm and hurricane damage repair in Largo, FL",
-  "h1":"Storm and Hurricane Damage Repair in Largo, FL",
-  "title":"Storm & Hurricane Damage Repair Largo FL | Board-Up, Dry-Out, Rebuild",
-  "meta":"Storm and hurricane damage repair in Largo, FL. Emergency board-up, tarping, water removal, drying and rebuild after wind and rain intrusion.",
-  "img":"air-movers-drying-covered-patio-largo.jpg",
-  "alt":"Air movers drying a storm damaged covered patio and interior slab in Largo, FL",
-  "card":"Storm and hurricane damage repair for Largo properties dealing with wind-driven rain, roof breaches and window failures. Crews stabilize the opening with tarping or board-up, remove water and wet materials, dry the structure with logged readings, and rebuild the affected interior. Documentation is built for insurance from the first visit, because wind, rain and surge are handled differently on a claim.",
-  "intro":[
-    "Storm and hurricane damage repair in Largo, FL usually starts with water that came in through the building envelope. A lifted shingle, a failed soffit, a window seal that gave up in 70 mph gusts, and suddenly rain is running down the inside of a wall. The opening has to be closed before drying can mean anything.",
-    "Pinellas County sees the full range: summer thunderstorm downbursts, tropical storm rainfall, and hurricane wind and surge. Our crews stabilize, dry and rebuild, and we document what the water did so your carrier can separate wind-driven rain from flood."
+  "related": [
+   "emergency-water-extraction",
+   "flood-damage-cleanup",
+   "mold-remediation",
+   "commercial-water-damage"
+  ]
+ },
+ {
+  "slug": "storm-damage-repair",
+  "name": "Storm and Hurricane Damage Repair",
+  "kw": "storm and hurricane damage repair in Largo, FL",
+  "h1": "Storm and Hurricane Damage Repair in Largo, FL",
+  "title": "Storm Damage Repair Largo FL | Board-Up, Dry-Out, Rebuild",
+  "meta": "Storm damage repair in Largo, FL after hurricanes: emergency board-up, tarping, water removal, drying and rebuild following wind and rain.",
+  "img": "air-movers-drying-covered-patio-largo.jpg",
+  "alt": "Air movers drying a storm damaged covered patio and interior slab in Largo, FL",
+  "card": "Storm and hurricane damage repair for Largo properties dealing with wind-driven rain, roof breaches and window failures. Crews stabilize the opening with tarping or board-up, remove water and wet materials, dry the structure with logged readings, and rebuild the affected interior. Documentation is built for insurance from the first visit, because wind, rain and surge are handled differently on a claim.",
+  "intro": [
+   "Storm and hurricane damage repair in Largo, FL usually starts with water that came in through the building envelope. A lifted shingle, a failed soffit, a window seal that gave up in 70 mph gusts, and suddenly rain is running down the inside of a wall. The opening has to be closed before drying can mean anything.",
+   "Pinellas County sees the full range: summer thunderstorm downbursts, tropical storm rainfall, and hurricane wind and surge. Our crews stabilize, dry and rebuild, and we document what the water did so your carrier can separate wind-driven rain from flood."
   ],
-  "includes":[
-    {"h":"Emergency Tarping and Board-Up","b":"Roof breaches get tarped and mechanically fastened. Broken windows and doors are boarded to stop more water and to secure the property. This is the step that limits the loss, and insurers generally expect you to take it. Photos and measurements of the opening are recorded before it is covered."},
-    {"h":"Water Removal and Wet Material Demolition","b":"Rain intrusion soaks insulation, drywall, ceiling texture and flooring along the path of the leak. We extract, open ceilings that are holding water, and remove saturated insulation and drywall so the cavity can dry. Attic insulation that is wet and compressed comes out rather than staying to hold moisture."},
-    {"h":"Structural Drying After Rain Intrusion","b":"Wind-driven rain travels farther than owners expect, running along top plates and dropping into walls away from the entry point. Thermal imaging and meters find those paths, and the drying plan covers the whole run with daily readings, not just the room with the stain."},
-    {"h":"Interior Rebuild and Trade Coordination","b":"Insulation, drywall, texture, paint, trim, ceilings and flooring go back once readings hold. Roofing, electrical and window work is coordinated with the appropriate licensed trades and permitted through the local building department when required."}
+  "includes": [
+   {
+    "h": "Emergency Tarping and Board-Up",
+    "b": "Roof breaches get tarped and mechanically fastened. Broken windows and doors are boarded to stop more water and to secure the property. This is the step that limits the loss, and insurers generally expect you to take it. Photos and measurements of the opening are recorded before it is covered."
+   },
+   {
+    "h": "Water Removal and Wet Material Demolition",
+    "b": "Rain intrusion soaks insulation, drywall, ceiling texture and flooring along the path of the leak. We extract, open ceilings that are holding water, and remove saturated insulation and drywall so the cavity can dry. Attic insulation that is wet and compressed comes out rather than staying to hold moisture."
+   },
+   {
+    "h": "Structural Drying After Rain Intrusion",
+    "b": "Wind-driven rain travels farther than owners expect, running along top plates and dropping into walls away from the entry point. Thermal imaging and meters find those paths, and the drying plan covers the whole run with daily readings, not just the room with the stain."
+   },
+   {
+    "h": "Interior Rebuild and Trade Coordination",
+    "b": "Insulation, drywall, texture, paint, trim, ceilings and flooring go back once readings hold. Roofing, electrical and window work is coordinated with the appropriate licensed trades and permitted through the local building department when required."
+   }
   ],
-  "process":[
-    {"h":"Safety Assessment","b":"Downed lines, standing water near panels, sagging ceilings and compromised roof structure are identified before entry. Nothing gets touched until the site is safe."},
-    {"h":"Stabilize the Envelope","b":"Tarping, board-up and temporary weather protection stop ongoing intrusion. We document the damage and the temporary measures with photos."},
-    {"h":"Remove Water and Wet Material","b":"Extraction, ceiling openings, insulation removal and controlled demolition along the water path, with debris contained and hauled."},
-    {"h":"Dry With Documentation","b":"Equipment set by load, daily readings logged by room, and the water path mapped for the claim file."},
-    {"h":"Rebuild and Final Walk","b":"Interior finishes restored, permitted trades coordinated, and a final walkthrough with the moisture log and photo record."}
+  "process": [
+   {
+    "h": "Safety Assessment",
+    "b": "Downed lines, standing water near panels, sagging ceilings and compromised roof structure are identified before entry. Nothing gets touched until the site is safe."
+   },
+   {
+    "h": "Stabilize the Envelope",
+    "b": "Tarping, board-up and temporary weather protection stop ongoing intrusion. We document the damage and the temporary measures with photos."
+   },
+   {
+    "h": "Remove Water and Wet Material",
+    "b": "Extraction, ceiling openings, insulation removal and controlled demolition along the water path, with debris contained and hauled."
+   },
+   {
+    "h": "Dry With Documentation",
+    "b": "Equipment set by load, daily readings logged by room, and the water path mapped for the claim file."
+   },
+   {
+    "h": "Rebuild and Final Walk",
+    "b": "Interior finishes restored, permitted trades coordinated, and a final walkthrough with the moisture log and photo record."
+   }
   ],
-  "local":[
-    {"h":"Florida Building Code and Permits in Largo","p":["Repairs in Pinellas County follow the Florida Building Code, which sets requirements for roof coverings, secondary water barriers, window and door products, and attachment. Replacing more than a defined portion of a roof covering triggers current code requirements rather than a simple patch. Product approvals matter for openings, and inspectors check them.","Permits for roofing, structural, electrical and mechanical work are issued by the City of Largo Building Division inside city limits and by Pinellas County Building Services for unincorporated addresses. Emergency tarping and drying do not wait on a permit, but the rebuild is scoped so the permitted trades can pull what they need."]},
-    {"h":"Wind, Rain and Surge Are Three Different Claims","p":["A homeowners policy typically responds to wind and to wind-driven rain that entered through a storm-created opening. Rising water and storm surge generally fall to a flood policy. When both happened in the same event, which is common near Cross Bayou and the coastal edges of the county, the file needs to show where each type of water went.","We record the height and pattern of the water, the location of the envelope breach, and the direction of travel inside the building. That evidence is far more useful two months later than a memory, and it is why we photograph before we cover an opening."]}
+  "local": [
+   {
+    "h": "Florida Building Code and Permits in Largo",
+    "p": [
+     "Repairs in Pinellas County follow the Florida Building Code, which sets requirements for roof coverings, secondary water barriers, window and door products, and attachment. Replacing more than a defined portion of a roof covering triggers current code requirements rather than a simple patch. Product approvals matter for openings, and inspectors check them.",
+     "Permits for roofing, structural, electrical and mechanical work are issued by the City of Largo Building Division inside city limits and by Pinellas County Building Services for unincorporated addresses. Emergency tarping and drying do not wait on a permit, but the rebuild is scoped so the permitted trades can pull what they need."
+    ]
+   },
+   {
+    "h": "Wind, Rain and Surge Are Three Different Claims",
+    "p": [
+     "A homeowners policy typically responds to wind and to wind-driven rain that entered through a storm-created opening. Rising water and storm surge generally fall to a flood policy. When both happened in the same event, which is common near Cross Bayou and the coastal edges of the county, the file needs to show where each type of water went.",
+     "We record the height and pattern of the water, the location of the envelope breach, and the direction of travel inside the building. That evidence is far more useful two months later than a memory, and it is why we photograph before we cover an opening."
+    ]
+   }
   ],
-  "signs":[
-    "Ceiling stains or bulges appearing after a storm",
-    "Water running down the inside of an exterior wall",
-    "Lifted or missing shingles, or displaced roof tile",
-    "Wet or compressed attic insulation after heavy rain",
-    "Soffit or fascia damage with staining below it",
-    "Window or slider that leaked during high wind"
+  "signs": [
+   "Ceiling stains or bulges appearing after a storm",
+   "Water running down the inside of an exterior wall",
+   "Lifted or missing shingles, or displaced roof tile",
+   "Wet or compressed attic insulation after heavy rain",
+   "Soffit or fascia damage with staining below it",
+   "Window or slider that leaked during high wind"
   ],
-  "faqs":[
-    {"q":"Should I tarp the roof before calling my insurer?","a":"Yes. Policies require you to prevent further damage. Photograph the damage first, then get it covered. Keep receipts and the photos, because both support the claim."},
-    {"q":"Can drying start while the roof is still open?","a":"Only after the opening is covered. Running equipment under active intrusion wastes time and power. Tarping is usually done the same visit so drying can begin immediately after."},
-    {"q":"Does wind-driven rain count as flooding?","a":"Generally no. Rain that entered through a storm-created opening is usually a wind claim, while rising water or surge falls under flood coverage. Because the handling differs, documenting the water's entry point is important."},
-    {"q":"Do you handle attic insulation after a roof leak?","a":"Yes. Wet, matted insulation holds water against the ceiling drywall and reduces R-value permanently. We remove the affected area, dry the framing and decking, and include replacement in the rebuild scope."},
-    {"q":"How soon after a hurricane can you get to my property?","a":"Availability is confirmed when you call. After a major storm, crews and materials across Pinellas County are in heavy demand, so getting on the schedule early and having your photos ready helps you move faster."}
+  "faqs": [
+   {
+    "q": "Should I tarp the roof before calling my insurer?",
+    "a": "Yes. Policies require you to prevent further damage. Photograph the damage first, then get it covered. Keep receipts and the photos, because both support the claim."
+   },
+   {
+    "q": "Can drying start while the roof is still open?",
+    "a": "Only after the opening is covered. Running equipment under active intrusion wastes time and power. Tarping is usually done the same visit so drying can begin immediately after."
+   },
+   {
+    "q": "Does wind-driven rain count as flooding?",
+    "a": "Generally no. Rain that entered through a storm-created opening is usually a wind claim, while rising water or surge falls under flood coverage. Because the handling differs, documenting the water's entry point is important."
+   },
+   {
+    "q": "Do you handle attic insulation after a roof leak?",
+    "a": "Yes. Wet, matted insulation holds water against the ceiling drywall and reduces R-value permanently. We remove the affected area, dry the framing and decking, and include replacement in the rebuild scope."
+   },
+   {
+    "q": "How soon after a hurricane can you get to my property?",
+    "a": "Availability is confirmed when you call. After a major storm, crews and materials across Pinellas County are in heavy demand, so getting on the schedule early and having your photos ready helps you move faster."
+   }
   ],
-  "related":["flood-damage-cleanup","roof-leak-water-damage","ceiling-drywall-repair","structural-drying"]
-}
+  "related": [
+   "flood-damage-cleanup",
+   "roof-leak-water-damage",
+   "ceiling-drywall-repair",
+   "structural-drying"
+  ]
+ }
 ]

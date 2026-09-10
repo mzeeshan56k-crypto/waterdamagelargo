@@ -1,223 +1,704 @@
 {
-  "home": {
-    "title":"Water Damage Restoration Largo FL | Extraction, Drying & Repair",
-    "meta":"Water damage restoration in Largo, FL. Emergency extraction, structural drying, mold remediation and repairs for slab homes, condos and businesses. Call to confirm an arrival window.",
-    "h1":"Water Damage Restoration in Largo, FL",
-    "hero":"Water damage restoration in Largo, FL for homes and businesses across Pinellas County. Crews extract standing water, dry the structure with equipment sized to the room, and repair what came out, with moisture readings logged every day so you know the house is actually dry. Call and we confirm an arrival window for your address.",
-    "heroPts":[
-      "Extraction, structural drying, mold remediation and rebuild under one scope",
-      "Moisture logs and photo documentation built for your insurance claim",
-      "Availability confirmed when you call, with a specific arrival window",
-      "Slab homes, villas, condos, rentals and commercial space"
-    ],
-    "trust":[
-      {"b":"Documented Dry Standard","s":"Daily readings, not guesswork"},
-      {"b":"Insurance-Ready Files","s":"Photos, logs, written scope"},
-      {"b":"Local Pinellas Crews","s":"Largo and the surrounding cities"},
-      {"b":"Mitigation Through Repair","s":"One team from water to paint"}
-    ],
-    "whyPts":[
-      {"h":"We Dry to a Number, Not a Feeling","b":"Every job carries a moisture log by room and by day. Equipment stays until the wet material matches a dry reference area in your own home. That is a defensible standard, and it is what keeps a repaired wall from staining again."},
-      {"h":"Less Demolition Where the Readings Allow","b":"Cavity injection, floor mat systems and cabinet drying save material that a demolition-first crew would haul to the curb. We open walls when the meters say the assembly will not dry, not as a default."},
-      {"h":"Built for Slab-on-Grade Florida Homes","b":"Water in a Largo house travels sideways under flooring and up into wall bases. Our drying plans assume that, and we check adjoining rooms, cabinet voids and shared walls before we set the first fan."},
-      {"h":"Straight Answers About Coverage","b":"We document the source, the extent and the drying so your adjuster can evaluate the claim on facts. We tell you plainly what is typically covered and what usually is not, and we do not promise outcomes we do not control."}
-    ],
-    "steps":[
-      {"h":"Call and Get an Arrival Window","b":"Tell us the source, how far the water traveled and what is on the floor. Availability is confirmed on that call, and we walk you through shutoffs and safety while the crew loads."},
-      {"h":"Extract, Map and Set Equipment","b":"Standing water comes out first, then meters and thermal imaging map the full wet footprint. Air movers and dehumidifiers are placed by calculated load, and day-one readings go into the log."},
-      {"h":"Dry, Verify, Then Repair","b":"Readings are taken every visit until materials hit the dry standard. Then drywall, texture, paint, trim and flooring go back, and you receive the complete moisture log and photo record."}
-    ],
-    "gallery":[
-      {"img":"water-damage-hallway-air-movers-largo-home.jpg","alt":"Air movers and hose lines drying a hardwood hallway after water damage in a Largo, FL home","cap":"Hardwood hallway drying with mat systems and air movers, Largo"},
-      {"img":"tile-floor-injection-drying-largo-home.jpg","alt":"Injection drying system and air movers on a tile floor after a water leak in Largo, FL","cap":"Injection drying under a bonded tile floor, Pinellas County"},
-      {"img":"drying-equipment-staged-largo-garage.jpg","alt":"Dehumidifiers and air movers staged in a Largo, FL garage for a structural drying job","cap":"Equipment staged for a multi-room structural dry-out"},
-      {"img":"dehumidifier-kitchen-water-damage-largo.jpg","alt":"Dehumidifier and air mover drying a kitchen floor after an appliance leak in Largo, FL","cap":"Kitchen appliance leak, cabinet and slab drying"},
-      {"img":"air-movers-drying-covered-patio-largo.jpg","alt":"Row of air movers drying a covered patio slab after storm water intrusion near Largo, FL","cap":"Storm water intrusion on a covered patio slab"},
-      {"img":"commercial-water-restoration-retail-store.jpg","alt":"Water across a retail sales floor during a commercial water damage restoration job","cap":"Commercial retail floor extraction and drying"},
-      {"img":"water-damage-before-after-restoration-largo.jpg","alt":"Before and after photos of interior water damage repair and rebuild in Largo, FL","cap":"Before and after: dry-out through finished rebuild"},
-      {"img":"flooded-storage-room-standing-water-largo.jpg","alt":"Standing water across a storage room floor before emergency water extraction in Largo, FL","cap":"Standing water removal in a ground-level storage room"}
-    ],
-    "conditions":[
-      {"h":"Slab Construction Sends Water Sideways","p":["Largo grew during the 1950s through the 1970s, and the standard house from that era is single-story concrete block with stucco on a slab-on-grade foundation. There is no basement and usually no crawl space. When a supply line fails, water cannot drain downward, so it spreads across the slab, works under the flooring adhesive, and climbs the paper facing of every wall it reaches.","That is why we meter rooms that look dry. A kitchen leak commonly produces wet drywall in an adjoining hallway and bedroom, and closets on a shared wall are almost always affected because they have no air movement. Any crew that only dries the room with the puddle is leaving water in your building."]},
-      {"h":"Humidity Decides How Long Drying Takes","p":["Pinellas County sits in a subtropical climate with high relative humidity year round and summer dew points in the seventies. Air that is already near saturation cannot absorb much more moisture, so wet materials release water slowly. This is the single most misunderstood part of water damage in Florida.","Open windows and box fans do not dry a Largo house in July. They push warm, moisture-laden air into cooler wall cavities where it condenses. Real drying happens in a closed system with low-grain refrigerant dehumidifiers doing the work while air movers keep evaporation moving at the material surface."]},
-      {"h":"Plumbing Age by Neighborhood","p":["Housing era predicts failure mode. Homes from the 1950s and early 1960s were commonly plumbed with galvanized steel supply and cast iron drain lines under the slab, and those cast iron lines are now beyond fifty years old, which produces repeat backups in the same fixture. The 1970s brought copper, which fails as pinhole leaks, particularly where a line contacts concrete.","From the late 1970s through the mid 1990s, polybutylene supply piping was installed across Florida, including in many Largo villas and subdivisions. Those gray lines fail at the fitting, usually without warning. Newer construction and repipes use CPVC or PEX. When we find polybutylene during a job we tell you, because one failure often signals more."]},
-      {"h":"Storm Season and Water From Outside","p":["Hurricane season runs June through November, and daily convective storms drop heavy rain in short bursts all summer. Both test the building envelope: cracked plumbing boots, lifted shingles, failed window seals and low-slope additions that were never flashed properly. Water entering from outside carries sediment and bacteria, so it is handled as contaminated rather than dried in place.","The 2024 storm season showed Pinellas County what surge does to ground-level living space along the coast and in low-lying corridors. For any loss involving outside water we record the height and pattern of intrusion, because wind-driven rain, rising water and surge are handled differently on a claim, and the local floodplain administrator may need that data for a damage determination."]}
-    ],
-    "stats":[
-      {"n":"1–3 days","l":"Typical window before mold can begin on wet material"},
-      {"n":"3–5 days","l":"Common equipment time for a residential dry-out"},
-      {"n":"16","l":"Restoration and repair services under one scope"},
-      {"n":"12","l":"Pinellas County cities and communities covered"}
-    ],
-    "brands":["IICRC Standards","Florida DBPR Licensed Trades","ANSI/IICRC S500","EPA Guidance","Xactimate Documentation","Thermal Imaging"],
-    "faqs":[
-      {"q":"How fast can someone get to my property?","a":"Availability is confirmed when you call, and you get a specific arrival window for your address rather than a vague promise. Tell us the source and how far the water traveled so the crew arrives with the right equipment on the first trip."},
-      {"q":"Do you handle the insurance claim?","a":"We document it thoroughly: photos, daily moisture logs, equipment counts and a written scope of work. Your carrier makes coverage decisions, and our documentation is what they evaluate. We also tell you plainly which parts of a loss are commonly covered and which usually are not."},
-      {"q":"How long will drying take in my Largo home?","a":"Most residential dry-outs run three to five days of equipment time. Block walls, terrazzo, hardwood and thick slabs take longer. Drying ends when readings match a dry reference area in the same building, and you see those numbers."},
-      {"q":"Will my flooring have to be removed?","a":"Not always. Carpet is often saved with pad replacement, and solid hardwood frequently responds to mat drying if we start quickly. Laminate and fiberboard-core engineered products usually swell past saving, and tile bonded to a wet slab may need targeted removal."},
-      {"q":"Is mold guaranteed after water damage?","a":"No, but the clock matters. Growth commonly begins on wet organic material within one to three days in Florida conditions. A loss that is extracted and dehumidified quickly usually avoids remediation entirely, which is the main reason to act on day one."},
-      {"q":"Do you serve commercial properties?","a":"Yes. Retail, office, medical, restaurant and multi-tenant buildings across Largo and Pinellas County. Work is phased and containment is set so the business can keep operating, and documentation is delivered per suite for property managers and carriers."}
+ "home": {
+  "title": "Water Damage Restoration Largo FL | Extraction & Drying",
+  "meta": "Water damage restoration in Largo, FL: emergency extraction, structural drying, mold remediation and repairs for slab homes, condos and businesses.",
+  "h1": "Water Damage Restoration in Largo, FL",
+  "hero": "Water damage restoration in Largo, FL for homes and businesses across Pinellas County. Crews extract standing water, dry the structure with equipment sized to the room, and repair what came out, with moisture readings logged every day so you know the house is actually dry. Call and we confirm an arrival window for your address.",
+  "heroPts": [
+   "Extraction, structural drying, mold remediation and rebuild under one scope",
+   "Moisture logs and photo documentation built for your insurance claim",
+   "Availability confirmed when you call, with a specific arrival window",
+   "Slab homes, villas, condos, rentals and commercial space"
+  ],
+  "trust": [
+   {
+    "b": "Documented Dry Standard",
+    "s": "Daily readings, not guesswork"
+   },
+   {
+    "b": "Insurance-Ready Files",
+    "s": "Photos, logs, written scope"
+   },
+   {
+    "b": "Local Pinellas Crews",
+    "s": "Largo and the surrounding cities"
+   },
+   {
+    "b": "Mitigation Through Repair",
+    "s": "One team from water to paint"
+   }
+  ],
+  "whyPts": [
+   {
+    "h": "We Dry to a Number, Not a Feeling",
+    "b": "Every job carries a moisture log by room and by day. Equipment stays until the wet material matches a dry reference area in your own home. That is a defensible standard, and it is what keeps a repaired wall from staining again."
+   },
+   {
+    "h": "Less Demolition Where the Readings Allow",
+    "b": "Cavity injection, floor mat systems and cabinet drying save material that a demolition-first crew would haul to the curb. We open walls when the meters say the assembly will not dry, not as a default."
+   },
+   {
+    "h": "Built for Slab-on-Grade Florida Homes",
+    "b": "Water in a Largo house travels sideways under flooring and up into wall bases. Our drying plans assume that, and we check adjoining rooms, cabinet voids and shared walls before we set the first fan."
+   },
+   {
+    "h": "Straight Answers About Coverage",
+    "b": "We document the source, the extent and the drying so your adjuster can evaluate the claim on facts. We tell you plainly what is typically covered and what usually is not, and we do not promise outcomes we do not control."
+   }
+  ],
+  "steps": [
+   {
+    "h": "Call and Get an Arrival Window",
+    "b": "Tell us the source, how far the water traveled and what is on the floor. Availability is confirmed on that call, and we walk you through shutoffs and safety while the crew loads."
+   },
+   {
+    "h": "Extract, Map and Set Equipment",
+    "b": "Standing water comes out first, then meters and thermal imaging map the full wet footprint. Air movers and dehumidifiers are placed by calculated load, and day-one readings go into the log."
+   },
+   {
+    "h": "Dry, Verify, Then Repair",
+    "b": "Readings are taken every visit until materials hit the dry standard. Then drywall, texture, paint, trim and flooring go back, and you receive the complete moisture log and photo record."
+   }
+  ],
+  "gallery": [
+   {
+    "img": "water-damage-hallway-air-movers-largo-home.jpg",
+    "alt": "Air movers and hose lines drying a hardwood hallway after water damage in a Largo, FL home",
+    "cap": "Hardwood hallway drying with mat systems and air movers, Largo"
+   },
+   {
+    "img": "tile-floor-injection-drying-largo-home.jpg",
+    "alt": "Injection drying system and air movers on a tile floor after a water leak in Largo, FL",
+    "cap": "Injection drying under a bonded tile floor, Pinellas County"
+   },
+   {
+    "img": "drying-equipment-staged-largo-garage.jpg",
+    "alt": "Dehumidifiers and air movers staged in a Largo, FL garage for a structural drying job",
+    "cap": "Equipment staged for a multi-room structural dry-out"
+   },
+   {
+    "img": "dehumidifier-kitchen-water-damage-largo.jpg",
+    "alt": "Dehumidifier and air mover drying a kitchen floor after an appliance leak in Largo, FL",
+    "cap": "Kitchen appliance leak, cabinet and slab drying"
+   },
+   {
+    "img": "air-movers-drying-covered-patio-largo.jpg",
+    "alt": "Row of air movers drying a covered patio slab after storm water intrusion near Largo, FL",
+    "cap": "Storm water intrusion on a covered patio slab"
+   },
+   {
+    "img": "commercial-water-restoration-retail-store.jpg",
+    "alt": "Water across a retail sales floor during a commercial water damage restoration job",
+    "cap": "Commercial retail floor extraction and drying"
+   },
+   {
+    "img": "water-damage-before-after-restoration-largo.jpg",
+    "alt": "Before and after photos of interior water damage repair and rebuild in Largo, FL",
+    "cap": "Before and after: dry-out through finished rebuild"
+   },
+   {
+    "img": "flooded-storage-room-standing-water-largo.jpg",
+    "alt": "Standing water across a storage room floor before emergency water extraction in Largo, FL",
+    "cap": "Standing water removal in a ground-level storage room"
+   }
+  ],
+  "conditions": [
+   {
+    "h": "Slab Construction Sends Water Sideways",
+    "p": [
+     "Largo grew during the 1950s through the 1970s, and the standard house from that era is single-story concrete block with stucco on a slab-on-grade foundation. There is no basement and usually no crawl space. When a supply line fails, water cannot drain downward, so it spreads across the slab, works under the flooring adhesive, and climbs the paper facing of every wall it reaches.",
+     "That is why we meter rooms that look dry. A kitchen leak commonly produces wet drywall in an adjoining hallway and bedroom, and closets on a shared wall are almost always affected because they have no air movement. Any crew that only dries the room with the puddle is leaving water in your building."
     ]
-  },
-  "about": {
-    "title":"About Water Damage Restoration Largo | Local Dry-Out Crews",
-    "meta":"About Water Damage Restoration Largo: how we scope, dry and document water losses across Pinellas County, and the standards our crews work to.",
-    "h1":"About Water Damage Restoration Largo",
-    "lead":"Water Damage Restoration Largo connects Largo and Pinellas County property owners with local restoration crews for extraction, structural drying, mold remediation and repair. This page explains how the work is scoped, what standards it follows, and what you can expect from the first call to the final walkthrough.",
-    "body":[
-      {"t":"h2","v":"Built Around How Water Behaves in Pinellas County"},
-      {"t":"p","v":"Restoration work is regional. A crew trained in a cold climate expects basements, wood-framed floors and long dry winters. Largo has none of those. Nearly every property here is slab-on-grade concrete block, humidity stays high year round, and the housing stock carries fifty to seventy years of plumbing history under the floor."},
-      {"t":"p","v":"That shapes how we scope a loss. We assume water traveled sideways under the flooring and up into wall bases. We assume the air cannot absorb much more moisture, so dehumidification does the real work. And we assume the building has been renovated at least once, which means bonded flooring over old slabs and additions with poorly detailed roof transitions."},
-      {"t":"h2","v":"Documentation Is Part of the Job, Not an Extra"},
-      {"t":"p","v":"Every job carries the same record: photographs before work begins, a moisture map identifying every wet assembly, daily readings by room and material, equipment counts and placement, and a written scope covering both mitigation and repair. You receive that file, and so does your adjuster."},
-      {"t":"p","v":"That record exists for three reasons. It keeps a claim from stalling over questions nobody can answer weeks later. It proves the structure reached a dry standard rather than a dry surface. And it protects you if a stain reappears or a buyer asks what happened during a future sale."},
-      {"t":"h2","v":"The Standards the Work Follows"},
-      {"t":"p","v":"Professional water restoration in the United States is guided by the ANSI/IICRC S500 standard for water damage restoration and the S520 standard for mold remediation. Those documents define water categories, classes of loss, drying goals and the principle that materials are dried to a documented standard rather than to a technician's judgment."},
-      {"t":"p","v":"In Florida, mold assessment and mold remediation are separately licensed activities regulated by the Department of Business and Professional Regulation, and state rules generally prevent one company from both assessing and remediating the same project. Plumbing, electrical, mechanical, roofing and structural repairs are performed by appropriately licensed contractors, and permits are issued by the City of Largo Building Division or Pinellas County Building Services depending on the address."},
-      {"t":"h2","v":"What We Do Not Do"},
-      {"t":"p","v":"We do not promise a response time we cannot control. Traffic, storm volume and crew availability are real, so availability is confirmed when you call and you get a specific arrival window instead of a slogan. After a major storm, that window may be longer, and we say so rather than overbooking."},
-      {"t":"p","v":"We do not guarantee insurance outcomes. Coverage depends on your policy language and the cause of loss, and the carrier decides. Our contribution is accurate documentation of the source, the extent and the drying, which is what a coverage decision rests on."},
-      {"t":"p","v":"We also do not use scare tactics to expand a scope. If the readings say a wall will dry, we dry it. If they say it will not, we show you the number and explain why it has to come out. Every removal decision on our jobs should be traceable to a measurement you can see."},
-      {"t":"h2","v":"Who We Work With"},
-      {"t":"p","v":"Homeowners are the majority of our calls, most often for supply line failures, appliance leaks, roof leaks and storm intrusion. We also work regularly with landlords and property managers who need per-unit documentation, condominium and villa associations dealing with water in a shared wall, and commercial tenants who need the work phased so the business stays open."},
-      {"t":"p","v":"Real estate transactions bring a different request: a factual moisture inspection before closing. Those reports stay measured and dated. Overstating a small closet issue helps nobody, and neither does glossing over an assembly that is genuinely wet."},
-      {"t":"h2","v":"Coverage Across Pinellas County"},
-      {"t":"p","v":"Largo is the base, and crews work throughout the county: Clearwater, Seminole, Pinellas Park, St. Petersburg, Dunedin, Safety Harbor, Oldsmar, Belleair, Indian Rocks Beach, Madeira Beach and Palm Harbor. Each of those areas has its own water utility, permitting authority, housing eras and flood exposure, and our location pages document those specifics rather than repeating generic copy."},
-      {"t":"p","v":"If your address sits just outside those areas, call anyway. We will tell you honestly whether a crew can reach you in a useful timeframe, because a late arrival on a water loss is worse than a referral."},
-      {"t":"h2","v":"How to Reach Us"},
-      {"t":"p","v":"Calls are how this works. Water losses need a conversation about the source, the volume, the flooring and the building type before anyone dispatches equipment, and that conversation takes two minutes on the phone. Availability is confirmed when you call, and we will tell you what to shut off and what to move before the crew arrives."}
+   },
+   {
+    "h": "Humidity Decides How Long Drying Takes",
+    "p": [
+     "Pinellas County sits in a subtropical climate with high relative humidity year round and summer dew points in the seventies. Air that is already near saturation cannot absorb much more moisture, so wet materials release water slowly. This is the single most misunderstood part of water damage in Florida.",
+     "Open windows and box fans do not dry a Largo house in July. They push warm, moisture-laden air into cooler wall cavities where it condenses. Real drying happens in a closed system with low-grain refrigerant dehumidifiers doing the work while air movers keep evaporation moving at the material surface."
     ]
-  },
-  "contact": {
-    "title":"Contact Water Damage Restoration Largo | Call for an Arrival Window",
-    "meta":"Contact Water Damage Restoration Largo for water extraction, structural drying and repairs in Largo, FL and Pinellas County. Inbound calls only.",
-    "h1":"Contact Water Damage Restoration Largo",
-    "lead":"Water losses are handled by phone. Call and we confirm availability and a specific arrival window for your address, and we walk you through shutoffs and safety steps while the crew is on the way.",
-    "body":[
-      {"t":"h2","v":"Call for Water Extraction, Drying or Mold Work"},
-      {"t":"p","v":"One phone call covers the whole scope: emergency extraction, structural drying, mold remediation, sewage cleanup, storm damage and the repairs that follow. Availability is confirmed when you call. We do not take service requests by text, email or social media, and we do not schedule work through messaging apps."},
-      {"t":"h2","v":"What to Have Ready When You Call"},
-      {"t":"p","v":"A two-minute conversation gets the right equipment on the first truck. Have these details in mind:"},
-      {"t":"ul","v":["The address and whether it is a house, villa, condo, rental or commercial space","Where the water came from, if you know: supply line, appliance, roof, sewer or outside water","How long it ran and how many rooms are affected","What kind of flooring is wet: tile, carpet, hardwood, laminate or vinyl plank","Whether the water is still active and whether you have found the shutoff","Whether any outlets, panels or ceiling fixtures are wet"]},
-      {"t":"h2","v":"Before the Crew Arrives"},
-      {"t":"p","v":"Close the water at the fixture valve or the main in your meter box. Shut off power to circuits serving wet areas at the breaker, and stay out of any room where a ceiling is sagging or a panel is wet. Photograph everything before you move it, then lift what you can off the floor: rugs, boxes, electronics, documents and furniture legs onto blocks."},
-      {"t":"p","v":"Do not open the windows. Outside air in Pinellas County usually carries more moisture than the air inside, so ventilating a wet house here adds to the load rather than helping."},
-      {"t":"h2","v":"Service Area"},
-      {"t":"p","v":"Crews cover Largo and the surrounding Pinellas County communities, including Clearwater, Seminole, Pinellas Park, St. Petersburg, Dunedin, Safety Harbor, Oldsmar, Belleair, Indian Rocks Beach, Madeira Beach and Palm Harbor. Each location page lists the local water utility, permitting authority and the housing and flood conditions that shape a loss in that area."},
-      {"t":"h2","v":"Inbound Calls Only"},
-      {"t":"p","v":"This site accepts inbound phone calls only. There is no contact form, no email intake, no SMS line and no social media messaging. That keeps every request tied to a real conversation about a real property, which is the only reliable way to scope a water loss and give you an honest arrival window."},
-      {"t":"h2","v":"Commercial and Property Management Calls"},
-      {"t":"p","v":"For retail, office, medical, restaurant and multi-tenant buildings, mention the square footage affected, the business hours you need protected, whether a sprinkler or rooftop unit is involved, and the after-hours access arrangement. Commercial losses are phased so the business keeps running, and documentation is delivered per suite for managers and carriers."}
+   },
+   {
+    "h": "Plumbing Age by Neighborhood",
+    "p": [
+     "Housing era predicts failure mode. Homes from the 1950s and early 1960s were commonly plumbed with galvanized steel supply and cast iron drain lines under the slab, and those cast iron lines are now beyond fifty years old, which produces repeat backups in the same fixture. The 1970s brought copper, which fails as pinhole leaks, particularly where a line contacts concrete.",
+     "From the late 1970s through the mid 1990s, polybutylene supply piping was installed across Florida, including in many Largo villas and subdivisions. Those gray lines fail at the fitting, usually without warning. Newer construction and repipes use CPVC or PEX. When we find polybutylene during a job we tell you, because one failure often signals more."
     ]
-  },
-  "faq": {
-    "title":"Water Damage FAQ | Largo, FL Restoration Questions Answered",
-    "meta":"Answers to common water damage questions for Largo, FL property owners: response, drying time, insurance, mold, flooring salvage and what the work costs you.",
-    "h1":"Water Damage Restoration FAQ for Largo, FL",
-    "lead":"Straight answers to the questions Largo and Pinellas County property owners ask most often about water extraction, structural drying, mold and insurance. If your situation is not covered here, call and ask.",
-    "groups":[
-      {"h":"Getting Help Started","faqs":[
-        {"q":"How soon should I call after finding water?","a":"Immediately after the water is off. Drywall wicks water upward within hours, and in Florida humidity mold can begin on wet organic material within one to three days. The first day is when the scope and the cost are decided."},
-        {"q":"How fast can a crew arrive?","a":"Availability is confirmed when you call, and you receive a specific arrival window for your address. After a major storm, demand across Pinellas County rises sharply and windows are longer, and we tell you that honestly rather than overpromising."},
-        {"q":"What should I do while I wait?","a":"Close the water, shut off power to circuits serving wet areas, photograph everything before moving it, and lift contents off the floor. Do not open the windows, since outside air here usually adds moisture rather than removing it."},
-        {"q":"Can I request service by text or email?","a":"No. This site accepts inbound phone calls only. Scoping a water loss requires a conversation about the source, volume, building type and flooring, and that only works by phone."}
-      ]},
-      {"h":"Drying and the Work Itself","faqs":[
-        {"q":"How long does drying take?","a":"Most residential jobs run three to five days of equipment time. Concrete block walls, terrazzo, thick slabs, plaster and hardwood take longer. The moisture log determines the end point, not a fixed schedule."},
-        {"q":"What is a dry standard?","a":"It is a target reading taken from the same material in an unaffected part of your building. When the previously wet area matches that reference and holds, the assembly is dry. That comparison is more reliable than any single universal number."},
-        {"q":"Do I have to leave my home?","a":"Usually no. Equipment is loud and warms the space a few degrees, but families typically stay. If a bedroom sits inside the containment, plan to sleep elsewhere in the house. Mold remediation with heavy removal may warrant staying elsewhere for sensitive occupants."},
-        {"q":"Can I just run my own fans?","a":"Fans move air but remove no moisture from the space. Without dehumidification, that water condenses on cooler surfaces inside walls and cabinets, which is where secondary damage and mold start."},
-        {"q":"Will you have to cut open my walls?","a":"Only where the readings say the cavity will not dry. Cavity injection, mat systems and cabinet drying often avoid demolition. When removal is necessary, cuts are set at the wick line rather than at an arbitrary height."}
-      ]},
-      {"h":"Materials and Salvage","faqs":[
-        {"q":"Can my carpet be saved?","a":"With clean water and a fast response, usually yes, with pad replacement. Gray water from an appliance is case by case. Sewage or flood water means carpet and pad both come out, because contaminated backing cannot be cleaned to a safe standard."},
-        {"q":"What about hardwood floors?","a":"Solid wood often responds to mat drying if we start within a day or two, and refinishing afterward restores it at a fraction of replacement cost. Laminate and engineered products with fiberboard cores swell irreversibly and rarely survive."},
-        {"q":"Can wet cabinets be saved?","a":"Often, if the particle board base has not delaminated. We dry the void under the box and read the material directly. When the base crumbles at the edge, that section is replaced rather than dried."},
-        {"q":"Is tile over a slab a problem?","a":"It can be. Bonded tile traps moisture in the slab and the adhesive layer, so we read under and around it. If moisture will not release, targeted removal beats sealing water beneath a floor you paid to keep."}
-      ]},
-      {"h":"Mold, Health and Air Quality","faqs":[
-        {"q":"How quickly does mold start?","a":"Commonly within one to three days on wet organic material under warm, humid conditions, which describes a Largo home for most of the year. That is why drying speed changes the scope of a job so dramatically."},
-        {"q":"Does bleach kill mold?","a":"On hard, non-porous surfaces it can help. On drywall, wood and insulation it adds moisture, does not reach the growth structure inside the material, and often makes the situation worse. Porous material with real growth is removed."},
-        {"q":"Can you both test and remediate mold?","a":"Florida rules generally separate assessment and remediation on the same project. For jobs needing a protocol and clearance, an independent licensed assessor writes the scope and verifies the result, and the remediation is performed to that written protocol."},
-        {"q":"Is there a safe mold level?","a":"No agency has established numeric indoor limits. The practical standard is comparison to the outdoor baseline, with no visible growth and no wet materials remaining. That is what a verification result reports against."}
-      ]},
-      {"h":"Insurance, Cost and Documentation","faqs":[
-        {"q":"Is water damage covered by homeowners insurance?","a":"Sudden accidental discharge from a plumbing system, such as a burst supply line or a failed water heater, is commonly covered. Long-term seepage, groundwater and surge generally are not. Flood coverage comes from a separate policy."},
-        {"q":"What documentation do I receive?","a":"Photographs, a moisture map, daily readings by room and material, equipment counts and a written scope covering mitigation and repair. That file goes to you and is formatted for your adjuster or property manager."},
-        {"q":"Should I wait for the adjuster before starting?","a":"No. Policies expect you to prevent further damage. Photograph everything, then start extraction. Documentation preserves what the adjuster needs to see, including the high-water line and the source."},
-        {"q":"Do you provide estimates over the phone?","a":"No. Scope depends on what is actually wet, which requires meters on site. On the call we confirm availability, an arrival window and what equipment the crew brings, then the scope is written from real readings."}
-      ]}
+   },
+   {
+    "h": "Storm Season and Water From Outside",
+    "p": [
+     "Hurricane season runs June through November, and daily convective storms drop heavy rain in short bursts all summer. Both test the building envelope: cracked plumbing boots, lifted shingles, failed window seals and low-slope additions that were never flashed properly. Water entering from outside carries sediment and bacteria, so it is handled as contaminated rather than dried in place.",
+     "The 2024 storm season showed Pinellas County what surge does to ground-level living space along the coast and in low-lying corridors. For any loss involving outside water we record the height and pattern of intrusion, because wind-driven rain, rising water and surge are handled differently on a claim, and the local floodplain administrator may need that data for a damage determination."
     ]
-  },
-  "privacy": {
-    "title":"Privacy Policy | Water Damage Restoration Largo",
-    "meta":"Privacy policy for Water Damage Restoration Largo: what information this site collects, how phone call data is handled, and your choices.",
-    "h1":"Privacy Policy",
-    "lead":"This policy explains what information this website collects, how it is used, and the choices available to you. It applies to waterdamagerestorationlargo.com and to phone calls placed to the number published on this site.",
-    "body":[
-      {"t":"h2","v":"Information This Site Collects"},
-      {"t":"p","v":"This website is an informational site with no contact form, no newsletter signup, no account system and no e-commerce checkout. We do not ask you to submit your name, address, email or payment details through any page on this site."},
-      {"t":"p","v":"Like most websites, standard technical information may be recorded automatically by the hosting provider when a page is requested. That information can include your IP address, browser type and version, device type, operating system, the page requested, the referring page and the date and time of the request. This data is used to keep the site running, diagnose errors and understand aggregate traffic patterns."},
-      {"t":"h2","v":"Phone Calls"},
-      {"t":"p","v":"The primary way to reach us is by telephone. When you call the number published on this site, we collect only what you tell us: your name, the property address, contact number, and the details of the water loss or service request. That information is used to schedule and perform the requested work, to prepare a scope of work, and to document the job."},
-      {"t":"p","v":"Calls may be routed through a telephone service provider and may be recorded or monitored for quality and training purposes where permitted by law. If a call is recorded, notice is provided at the start of the call in accordance with applicable requirements. Call detail records, such as the number dialed, time and duration, are retained by the telephone service provider."},
-      {"t":"h2","v":"Cookies and Analytics"},
-      {"t":"p","v":"This site is built as static pages and does not set advertising cookies of its own. If an analytics tool is used, it may set a first-party cookie or use local storage to distinguish repeat visits and measure aggregate page performance. That information is not used to identify you individually and is not sold."},
-      {"t":"p","v":"Most browsers allow you to block or delete cookies through their settings, and to send a Do Not Track signal. Because standards for honoring that signal vary, this site does not rely on cookies for any function you need in order to read the content or reach us by phone."},
-      {"t":"h2","v":"How Information Is Used"},
-      {"t":"p","v":"Information you provide by phone is used to respond to your request, dispatch a crew, complete the work, prepare documentation such as moisture logs and photo records, and communicate with you about the job. Where you ask us to, job documentation may be shared with your insurance carrier, adjuster, property manager, association or landlord."},
-      {"t":"p","v":"We do not sell your personal information. We do not share it with unrelated third parties for their marketing purposes. Information may be shared with service providers who help operate the business, such as telephone providers, scheduling software and hosting providers, and with subcontracted licensed trades performing part of the work at your property."},
-      {"t":"h2","v":"Photographs and Job Documentation"},
-      {"t":"p","v":"Restoration work requires photographic documentation of the affected areas, the source of the loss and the drying process. Those photographs are part of the job file and may be provided to you, your carrier or your property manager. Photographs used publicly for illustration purposes are handled so that identifying details of a property and its occupants are not disclosed."},
-      {"t":"h2","v":"Data Retention and Security"},
-      {"t":"p","v":"Job records, including scopes, moisture logs and photographs, are retained as long as needed for business, insurance and legal purposes. Reasonable administrative and technical safeguards are used to protect that information. No method of transmission or storage is completely secure, so absolute security cannot be guaranteed."},
-      {"t":"h2","v":"Children's Privacy"},
-      {"t":"p","v":"This site is not directed to children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided information, contact us by phone and it will be deleted."},
-      {"t":"h2","v":"Third-Party Links"},
-      {"t":"p","v":"Some pages reference outside organizations such as government agencies or standards bodies for informational purposes. Those sites have their own privacy practices, and this policy does not apply to them. Review their policies before providing information."},
-      {"t":"h2","v":"Your Choices"},
-      {"t":"p","v":"You can browse this site without providing personal information. You can choose what to tell us on a phone call, though we may be unable to schedule work without a property address and a callback number. You may request a copy of the job documentation for work performed at your property, or ask that we correct inaccurate information in that file."},
-      {"t":"h2","v":"Changes to This Policy"},
-      {"t":"p","v":"This policy may be updated to reflect changes in practice or law. The revised version will be posted on this page. Continued use of the site after an update indicates acceptance of the current policy."},
-      {"t":"h2","v":"Contact"},
-      {"t":"p","v":"Questions about this policy can be directed to the phone number published on this site. This site accepts inbound phone calls only and does not provide an email intake, text messaging or social media contact channel."}
+   }
+  ],
+  "stats": [
+   {
+    "n": "1–3 days",
+    "l": "Typical window before mold can begin on wet material"
+   },
+   {
+    "n": "3–5 days",
+    "l": "Common equipment time for a residential dry-out"
+   },
+   {
+    "n": "16",
+    "l": "Restoration and repair services under one scope"
+   },
+   {
+    "n": "12",
+    "l": "Pinellas County cities and communities covered"
+   }
+  ],
+  "brands": [
+   "IICRC Standards",
+   "Florida DBPR Licensed Trades",
+   "ANSI/IICRC S500",
+   "EPA Guidance",
+   "Xactimate Documentation",
+   "Thermal Imaging"
+  ],
+  "faqs": [
+   {
+    "q": "How fast can someone get to my property?",
+    "a": "Availability is confirmed when you call, and you get a specific arrival window for your address rather than a vague promise. Tell us the source and how far the water traveled so the crew arrives with the right equipment on the first trip."
+   },
+   {
+    "q": "Do you handle the insurance claim?",
+    "a": "We document it thoroughly: photos, daily moisture logs, equipment counts and a written scope of work. Your carrier makes coverage decisions, and our documentation is what they evaluate. We also tell you plainly which parts of a loss are commonly covered and which usually are not."
+   },
+   {
+    "q": "How long will drying take in my Largo home?",
+    "a": "Most residential dry-outs run three to five days of equipment time. Block walls, terrazzo, hardwood and thick slabs take longer. Drying ends when readings match a dry reference area in the same building, and you see those numbers."
+   },
+   {
+    "q": "Will my flooring have to be removed?",
+    "a": "Not always. Carpet is often saved with pad replacement, and solid hardwood frequently responds to mat drying if we start quickly. Laminate and fiberboard-core engineered products usually swell past saving, and tile bonded to a wet slab may need targeted removal."
+   },
+   {
+    "q": "Is mold guaranteed after water damage?",
+    "a": "No, but the clock matters. Growth commonly begins on wet organic material within one to three days in Florida conditions. A loss that is extracted and dehumidified quickly usually avoids remediation entirely, which is the main reason to act on day one."
+   },
+   {
+    "q": "Do you serve commercial properties?",
+    "a": "Yes. Retail, office, medical, restaurant and multi-tenant buildings across Largo and Pinellas County. Work is phased and containment is set so the business can keep operating, and documentation is delivered per suite for property managers and carriers."
+   }
+  ]
+ },
+ "about": {
+  "title": "Water Damage Restoration Largo | About Our Dry-Out Crews",
+  "meta": "Water Damage Restoration Largo: how we scope, dry and document water losses across Pinellas County, and the standards our crews work to.",
+  "h1": "About Water Damage Restoration Largo",
+  "lead": "Water Damage Restoration Largo connects Largo and Pinellas County property owners with local restoration crews for extraction, structural drying, mold remediation and repair. This page explains how the work is scoped, what standards it follows, and what you can expect from the first call to the final walkthrough.",
+  "body": [
+   {
+    "t": "h2",
+    "v": "Built Around How Water Behaves in Pinellas County"
+   },
+   {
+    "t": "p",
+    "v": "Restoration work is regional. A crew trained in a cold climate expects basements, wood-framed floors and long dry winters. Largo has none of those. Nearly every property here is slab-on-grade concrete block, humidity stays high year round, and the housing stock carries fifty to seventy years of plumbing history under the floor."
+   },
+   {
+    "t": "p",
+    "v": "That shapes how we scope a loss. We assume water traveled sideways under the flooring and up into wall bases. We assume the air cannot absorb much more moisture, so dehumidification does the real work. And we assume the building has been renovated at least once, which means bonded flooring over old slabs and additions with poorly detailed roof transitions."
+   },
+   {
+    "t": "h2",
+    "v": "Documentation Is Part of the Job, Not an Extra"
+   },
+   {
+    "t": "p",
+    "v": "Every job carries the same record: photographs before work begins, a moisture map identifying every wet assembly, daily readings by room and material, equipment counts and placement, and a written scope covering both mitigation and repair. You receive that file, and so does your adjuster."
+   },
+   {
+    "t": "p",
+    "v": "That record exists for three reasons. It keeps a claim from stalling over questions nobody can answer weeks later. It proves the structure reached a dry standard rather than a dry surface. And it protects you if a stain reappears or a buyer asks what happened during a future sale."
+   },
+   {
+    "t": "h2",
+    "v": "The Standards the Work Follows"
+   },
+   {
+    "t": "p",
+    "v": "Professional water restoration in the United States is guided by the ANSI/IICRC S500 standard for water damage restoration and the S520 standard for mold remediation. Those documents define water categories, classes of loss, drying goals and the principle that materials are dried to a documented standard rather than to a technician's judgment."
+   },
+   {
+    "t": "p",
+    "v": "In Florida, mold assessment and mold remediation are separately licensed activities regulated by the Department of Business and Professional Regulation, and state rules generally prevent one company from both assessing and remediating the same project. Plumbing, electrical, mechanical, roofing and structural repairs are performed by appropriately licensed contractors, and permits are issued by the City of Largo Building Division or Pinellas County Building Services depending on the address."
+   },
+   {
+    "t": "h2",
+    "v": "What We Do Not Do"
+   },
+   {
+    "t": "p",
+    "v": "We do not promise a response time we cannot control. Traffic, storm volume and crew availability are real, so availability is confirmed when you call and you get a specific arrival window instead of a slogan. After a major storm, that window may be longer, and we say so rather than overbooking."
+   },
+   {
+    "t": "p",
+    "v": "We do not guarantee insurance outcomes. Coverage depends on your policy language and the cause of loss, and the carrier decides. Our contribution is accurate documentation of the source, the extent and the drying, which is what a coverage decision rests on."
+   },
+   {
+    "t": "p",
+    "v": "We also do not use scare tactics to expand a scope. If the readings say a wall will dry, we dry it. If they say it will not, we show you the number and explain why it has to come out. Every removal decision on our jobs should be traceable to a measurement you can see."
+   },
+   {
+    "t": "h2",
+    "v": "Who We Work With"
+   },
+   {
+    "t": "p",
+    "v": "Homeowners are the majority of our calls, most often for supply line failures, appliance leaks, roof leaks and storm intrusion. We also work regularly with landlords and property managers who need per-unit documentation, condominium and villa associations dealing with water in a shared wall, and commercial tenants who need the work phased so the business stays open."
+   },
+   {
+    "t": "p",
+    "v": "Real estate transactions bring a different request: a factual moisture inspection before closing. Those reports stay measured and dated. Overstating a small closet issue helps nobody, and neither does glossing over an assembly that is genuinely wet."
+   },
+   {
+    "t": "h2",
+    "v": "Coverage Across Pinellas County"
+   },
+   {
+    "t": "p",
+    "v": "Largo is the base, and crews work throughout the county: Clearwater, Seminole, Pinellas Park, St. Petersburg, Dunedin, Safety Harbor, Oldsmar, Belleair, Indian Rocks Beach, Madeira Beach and Palm Harbor. Each of those areas has its own water utility, permitting authority, housing eras and flood exposure, and our location pages document those specifics rather than repeating generic copy."
+   },
+   {
+    "t": "p",
+    "v": "If your address sits just outside those areas, call anyway. We will tell you honestly whether a crew can reach you in a useful timeframe, because a late arrival on a water loss is worse than a referral."
+   },
+   {
+    "t": "h2",
+    "v": "How to Reach Us"
+   },
+   {
+    "t": "p",
+    "v": "Calls are how this works. Water losses need a conversation about the source, the volume, the flooring and the building type before anyone dispatches equipment, and that conversation takes two minutes on the phone. Availability is confirmed when you call, and we will tell you what to shut off and what to move before the crew arrives."
+   }
+  ]
+ },
+ "contact": {
+  "title": "Water Damage Restoration Largo | Call for an Arrival Window",
+  "meta": "Water Damage Restoration Largo handles extraction, structural drying and repairs in Largo, FL and Pinellas County. Inbound calls only.",
+  "h1": "Contact Water Damage Restoration Largo",
+  "lead": "Water losses are handled by phone. Call and we confirm availability and a specific arrival window for your address, and we walk you through shutoffs and safety steps while the crew is on the way.",
+  "body": [
+   {
+    "t": "h2",
+    "v": "Call for Water Extraction, Drying or Mold Work"
+   },
+   {
+    "t": "p",
+    "v": "One phone call covers the whole scope: emergency extraction, structural drying, mold remediation, sewage cleanup, storm damage and the repairs that follow. Availability is confirmed when you call. We do not take service requests by text, email or social media, and we do not schedule work through messaging apps."
+   },
+   {
+    "t": "h2",
+    "v": "What to Have Ready When You Call"
+   },
+   {
+    "t": "p",
+    "v": "A two-minute conversation gets the right equipment on the first truck. Have these details in mind:"
+   },
+   {
+    "t": "ul",
+    "v": [
+     "The address and whether it is a house, villa, condo, rental or commercial space",
+     "Where the water came from, if you know: supply line, appliance, roof, sewer or outside water",
+     "How long it ran and how many rooms are affected",
+     "What kind of flooring is wet: tile, carpet, hardwood, laminate or vinyl plank",
+     "Whether the water is still active and whether you have found the shutoff",
+     "Whether any outlets, panels or ceiling fixtures are wet"
     ]
-  },
-  "terms": {
-    "title":"Terms of Service | Water Damage Restoration Largo",
-    "meta":"Terms of service for Water Damage Restoration Largo: site use, informational content, service limitations, contractor independence and liability.",
-    "h1":"Terms of Service",
-    "lead":"These terms govern your use of waterdamagerestorationlargo.com. By using this site you agree to them. If you do not agree, please do not use the site.",
-    "body":[
-      {"t":"h2","v":"Informational Purpose"},
-      {"t":"p","v":"The content on this site is provided for general information about water damage, drying, mold and related restoration topics. It is not professional advice for your specific property, and it is not legal, insurance, engineering, medical or code advice. Conditions vary between buildings, and only an on-site assessment with instruments can determine what your property needs."},
-      {"t":"p","v":"Statements about local utilities, permitting authorities, flood mapping, building codes and construction eras are general descriptions that were accurate to the best of our knowledge when written. Jurisdictions, maps and requirements change. Verify current requirements with the relevant local authority before relying on them for a decision."},
-      {"t":"h2","v":"No Guarantee of Results"},
-      {"t":"p","v":"Nothing on this site guarantees a particular outcome, including whether a specific material can be salvaged, how long drying will take at your property, or whether an insurance claim will be paid. Insurance coverage decisions are made by your carrier based on your policy language and the cause of loss."},
-      {"t":"p","v":"This site does not claim continuous availability. Availability is confirmed when you call, and we provide a specific arrival window at that time. We do not represent that service is available at all hours, that response will occur within any fixed number of minutes or hours, or that crews are available on demand during high-demand periods such as after a major storm."},
-      {"t":"h2","v":"Contractor Independence"},
-      {"t":"p","v":"This site is a free service that helps property owners connect with local service contractors. Contractors reached through this site are independent businesses. They are not employees, agents or partners of the site operator, and the site operator does not supervise, direct or control their work."},
-      {"t":"p","v":"It is the property owner's responsibility to confirm that any contractor hired holds the licenses and insurance required for the work being performed in the applicable jurisdiction. In Florida, license status can be verified through the Department of Business and Professional Regulation, and permitting requirements are set by the local building department."},
-      {"t":"h2","v":"Photographs and Depictions"},
-      {"t":"p","v":"Photographs on this site illustrate restoration equipment, conditions and work of the general type described. All persons depicted in a photo or video are actors or models and not contractors listed on this site. Photographs do not represent a specific project at a specific address unless expressly stated."},
-      {"t":"h2","v":"Contact Method"},
-      {"t":"p","v":"This site accepts inbound telephone calls only. There is no contact form, email intake, text messaging channel or social media messaging associated with this site. Do not rely on any other channel claiming to represent this site."},
-      {"t":"h2","v":"Intellectual Property"},
-      {"t":"p","v":"The text, layout, design and original graphics on this site are protected by copyright and may not be copied, republished or used to train commercial models without permission. Trade names or standards referenced for informational purposes remain the property of their respective owners, and their mention does not imply endorsement or affiliation."},
-      {"t":"h2","v":"Acceptable Use"},
-      {"t":"p","v":"You agree not to use this site to violate any law, to attempt unauthorized access to any system, to scrape content at a volume that degrades service for others, or to misrepresent yourself as affiliated with this site or with any contractor reached through it."},
-      {"t":"h2","v":"Third-Party References and Links"},
-      {"t":"p","v":"References to government agencies, utilities, standards organizations or other outside parties are for information only. We do not control those organizations or their content, and we make no representation about the accuracy or availability of information they publish."},
-      {"t":"h2","v":"Limitation of Liability"},
-      {"t":"p","v":"To the fullest extent permitted by law, the site operator is not liable for any indirect, incidental, special, consequential or punitive damages arising from your use of this site or reliance on its content, including property damage, business interruption or loss of data. The site is provided on an as-is and as-available basis without warranties of any kind, express or implied."},
-      {"t":"h2","v":"Indemnification"},
-      {"t":"p","v":"You agree to indemnify and hold harmless the site operator from claims arising out of your misuse of this site, your violation of these terms, or your engagement of any independent contractor, including disputes regarding workmanship, licensing, insurance or payment."},
-      {"t":"h2","v":"Governing Law"},
-      {"t":"p","v":"These terms are governed by the laws of the State of Florida, without regard to conflict-of-law principles. Any dispute arising from these terms or your use of the site is subject to the exclusive jurisdiction of the state or federal courts located in Pinellas County, Florida."},
-      {"t":"h2","v":"Changes to These Terms"},
-      {"t":"p","v":"These terms may be revised at any time by posting an updated version on this page. Continued use of the site after a revision constitutes acceptance of the revised terms. If any provision is found unenforceable, the remaining provisions stay in effect."},
-      {"t":"h2","v":"Contact"},
-      {"t":"p","v":"Questions about these terms can be directed to the phone number published on this site."}
+   },
+   {
+    "t": "h2",
+    "v": "Before the Crew Arrives"
+   },
+   {
+    "t": "p",
+    "v": "Close the water at the fixture valve or the main in your meter box. Shut off power to circuits serving wet areas at the breaker, and stay out of any room where a ceiling is sagging or a panel is wet. Photograph everything before you move it, then lift what you can off the floor: rugs, boxes, electronics, documents and furniture legs onto blocks."
+   },
+   {
+    "t": "p",
+    "v": "Do not open the windows. Outside air in Pinellas County usually carries more moisture than the air inside, so ventilating a wet house here adds to the load rather than helping."
+   },
+   {
+    "t": "h2",
+    "v": "Service Area"
+   },
+   {
+    "t": "p",
+    "v": "Crews cover Largo and the surrounding Pinellas County communities, including Clearwater, Seminole, Pinellas Park, St. Petersburg, Dunedin, Safety Harbor, Oldsmar, Belleair, Indian Rocks Beach, Madeira Beach and Palm Harbor. Each location page lists the local water utility, permitting authority and the housing and flood conditions that shape a loss in that area."
+   },
+   {
+    "t": "h2",
+    "v": "Inbound Calls Only"
+   },
+   {
+    "t": "p",
+    "v": "This site accepts inbound phone calls only. There is no contact form, no email intake, no SMS line and no social media messaging. That keeps every request tied to a real conversation about a real property, which is the only reliable way to scope a water loss and give you an honest arrival window."
+   },
+   {
+    "t": "h2",
+    "v": "Commercial and Property Management Calls"
+   },
+   {
+    "t": "p",
+    "v": "For retail, office, medical, restaurant and multi-tenant buildings, mention the square footage affected, the business hours you need protected, whether a sprinkler or rooftop unit is involved, and the after-hours access arrangement. Commercial losses are phased so the business keeps running, and documentation is delivered per suite for managers and carriers."
+   }
+  ]
+ },
+ "faq": {
+  "title": "Water Damage Restoration FAQ Largo FL | Questions Answered",
+  "meta": "Water damage questions answered for Largo, FL property owners: drying time, insurance, mold, flooring salvage and what the work involves.",
+  "h1": "Water Damage Restoration FAQ for Largo, FL",
+  "lead": "Straight answers to the questions Largo and Pinellas County property owners ask most often about water extraction, structural drying, mold and insurance. If your situation is not covered here, call and ask.",
+  "groups": [
+   {
+    "h": "Getting Help Started",
+    "faqs": [
+     {
+      "q": "How soon should I call after finding water?",
+      "a": "Immediately after the water is off. Drywall wicks water upward within hours, and in Florida humidity mold can begin on wet organic material within one to three days. The first day is when the scope and the cost are decided."
+     },
+     {
+      "q": "How fast can a crew arrive?",
+      "a": "Availability is confirmed when you call, and you receive a specific arrival window for your address. After a major storm, demand across Pinellas County rises sharply and windows are longer, and we tell you that honestly rather than overpromising."
+     },
+     {
+      "q": "What should I do while I wait?",
+      "a": "Close the water, shut off power to circuits serving wet areas, photograph everything before moving it, and lift contents off the floor. Do not open the windows, since outside air here usually adds moisture rather than removing it."
+     },
+     {
+      "q": "Can I request service by text or email?",
+      "a": "No. This site accepts inbound phone calls only. Scoping a water loss requires a conversation about the source, volume, building type and flooring, and that only works by phone."
+     }
     ]
-  }
+   },
+   {
+    "h": "Drying and the Work Itself",
+    "faqs": [
+     {
+      "q": "How long does drying take?",
+      "a": "Most residential jobs run three to five days of equipment time. Concrete block walls, terrazzo, thick slabs, plaster and hardwood take longer. The moisture log determines the end point, not a fixed schedule."
+     },
+     {
+      "q": "What is a dry standard?",
+      "a": "It is a target reading taken from the same material in an unaffected part of your building. When the previously wet area matches that reference and holds, the assembly is dry. That comparison is more reliable than any single universal number."
+     },
+     {
+      "q": "Do I have to leave my home?",
+      "a": "Usually no. Equipment is loud and warms the space a few degrees, but families typically stay. If a bedroom sits inside the containment, plan to sleep elsewhere in the house. Mold remediation with heavy removal may warrant staying elsewhere for sensitive occupants."
+     },
+     {
+      "q": "Can I just run my own fans?",
+      "a": "Fans move air but remove no moisture from the space. Without dehumidification, that water condenses on cooler surfaces inside walls and cabinets, which is where secondary damage and mold start."
+     },
+     {
+      "q": "Will you have to cut open my walls?",
+      "a": "Only where the readings say the cavity will not dry. Cavity injection, mat systems and cabinet drying often avoid demolition. When removal is necessary, cuts are set at the wick line rather than at an arbitrary height."
+     }
+    ]
+   },
+   {
+    "h": "Materials and Salvage",
+    "faqs": [
+     {
+      "q": "Can my carpet be saved?",
+      "a": "With clean water and a fast response, usually yes, with pad replacement. Gray water from an appliance is case by case. Sewage or flood water means carpet and pad both come out, because contaminated backing cannot be cleaned to a safe standard."
+     },
+     {
+      "q": "What about hardwood floors?",
+      "a": "Solid wood often responds to mat drying if we start within a day or two, and refinishing afterward restores it at a fraction of replacement cost. Laminate and engineered products with fiberboard cores swell irreversibly and rarely survive."
+     },
+     {
+      "q": "Can wet cabinets be saved?",
+      "a": "Often, if the particle board base has not delaminated. We dry the void under the box and read the material directly. When the base crumbles at the edge, that section is replaced rather than dried."
+     },
+     {
+      "q": "Is tile over a slab a problem?",
+      "a": "It can be. Bonded tile traps moisture in the slab and the adhesive layer, so we read under and around it. If moisture will not release, targeted removal beats sealing water beneath a floor you paid to keep."
+     }
+    ]
+   },
+   {
+    "h": "Mold, Health and Air Quality",
+    "faqs": [
+     {
+      "q": "How quickly does mold start?",
+      "a": "Commonly within one to three days on wet organic material under warm, humid conditions, which describes a Largo home for most of the year. That is why drying speed changes the scope of a job so dramatically."
+     },
+     {
+      "q": "Does bleach kill mold?",
+      "a": "On hard, non-porous surfaces it can help. On drywall, wood and insulation it adds moisture, does not reach the growth structure inside the material, and often makes the situation worse. Porous material with real growth is removed."
+     },
+     {
+      "q": "Can you both test and remediate mold?",
+      "a": "Florida rules generally separate assessment and remediation on the same project. For jobs needing a protocol and clearance, an independent licensed assessor writes the scope and verifies the result, and the remediation is performed to that written protocol."
+     },
+     {
+      "q": "Is there a safe mold level?",
+      "a": "No agency has established numeric indoor limits. The practical standard is comparison to the outdoor baseline, with no visible growth and no wet materials remaining. That is what a verification result reports against."
+     }
+    ]
+   },
+   {
+    "h": "Insurance, Cost and Documentation",
+    "faqs": [
+     {
+      "q": "Is water damage covered by homeowners insurance?",
+      "a": "Sudden accidental discharge from a plumbing system, such as a burst supply line or a failed water heater, is commonly covered. Long-term seepage, groundwater and surge generally are not. Flood coverage comes from a separate policy."
+     },
+     {
+      "q": "What documentation do I receive?",
+      "a": "Photographs, a moisture map, daily readings by room and material, equipment counts and a written scope covering mitigation and repair. That file goes to you and is formatted for your adjuster or property manager."
+     },
+     {
+      "q": "Should I wait for the adjuster before starting?",
+      "a": "No. Policies expect you to prevent further damage. Photograph everything, then start extraction. Documentation preserves what the adjuster needs to see, including the high-water line and the source."
+     },
+     {
+      "q": "Do you provide estimates over the phone?",
+      "a": "No. Scope depends on what is actually wet, which requires meters on site. On the call we confirm availability, an arrival window and what equipment the crew brings, then the scope is written from real readings."
+     }
+    ]
+   }
+  ]
+ },
+ "privacy": {
+  "title": "Water Damage Restoration Largo | Privacy Policy",
+  "meta": "Water Damage Restoration Largo privacy policy: what this site collects, how phone call data is handled, and the choices available to you.",
+  "h1": "Privacy Policy",
+  "lead": "This policy explains what information this website collects, how it is used, and the choices available to you. It applies to waterdamagerestorationlargo.com and to phone calls placed to the number published on this site.",
+  "body": [
+   {
+    "t": "h2",
+    "v": "Information This Site Collects"
+   },
+   {
+    "t": "p",
+    "v": "This website is an informational site with no contact form, no newsletter signup, no account system and no e-commerce checkout. We do not ask you to submit your name, address, email or payment details through any page on this site."
+   },
+   {
+    "t": "p",
+    "v": "Like most websites, standard technical information may be recorded automatically by the hosting provider when a page is requested. That information can include your IP address, browser type and version, device type, operating system, the page requested, the referring page and the date and time of the request. This data is used to keep the site running, diagnose errors and understand aggregate traffic patterns."
+   },
+   {
+    "t": "h2",
+    "v": "Phone Calls"
+   },
+   {
+    "t": "p",
+    "v": "The primary way to reach us is by telephone. When you call the number published on this site, we collect only what you tell us: your name, the property address, contact number, and the details of the water loss or service request. That information is used to schedule and perform the requested work, to prepare a scope of work, and to document the job."
+   },
+   {
+    "t": "p",
+    "v": "Calls may be routed through a telephone service provider and may be recorded or monitored for quality and training purposes where permitted by law. If a call is recorded, notice is provided at the start of the call in accordance with applicable requirements. Call detail records, such as the number dialed, time and duration, are retained by the telephone service provider."
+   },
+   {
+    "t": "h2",
+    "v": "Cookies and Analytics"
+   },
+   {
+    "t": "p",
+    "v": "This site is built as static pages and does not set advertising cookies of its own. If an analytics tool is used, it may set a first-party cookie or use local storage to distinguish repeat visits and measure aggregate page performance. That information is not used to identify you individually and is not sold."
+   },
+   {
+    "t": "p",
+    "v": "Most browsers allow you to block or delete cookies through their settings, and to send a Do Not Track signal. Because standards for honoring that signal vary, this site does not rely on cookies for any function you need in order to read the content or reach us by phone."
+   },
+   {
+    "t": "h2",
+    "v": "How Information Is Used"
+   },
+   {
+    "t": "p",
+    "v": "Information you provide by phone is used to respond to your request, dispatch a crew, complete the work, prepare documentation such as moisture logs and photo records, and communicate with you about the job. Where you ask us to, job documentation may be shared with your insurance carrier, adjuster, property manager, association or landlord."
+   },
+   {
+    "t": "p",
+    "v": "We do not sell your personal information. We do not share it with unrelated third parties for their marketing purposes. Information may be shared with service providers who help operate the business, such as telephone providers, scheduling software and hosting providers, and with subcontracted licensed trades performing part of the work at your property."
+   },
+   {
+    "t": "h2",
+    "v": "Photographs and Job Documentation"
+   },
+   {
+    "t": "p",
+    "v": "Restoration work requires photographic documentation of the affected areas, the source of the loss and the drying process. Those photographs are part of the job file and may be provided to you, your carrier or your property manager. Photographs used publicly for illustration purposes are handled so that identifying details of a property and its occupants are not disclosed."
+   },
+   {
+    "t": "h2",
+    "v": "Data Retention and Security"
+   },
+   {
+    "t": "p",
+    "v": "Job records, including scopes, moisture logs and photographs, are retained as long as needed for business, insurance and legal purposes. Reasonable administrative and technical safeguards are used to protect that information. No method of transmission or storage is completely secure, so absolute security cannot be guaranteed."
+   },
+   {
+    "t": "h2",
+    "v": "Children's Privacy"
+   },
+   {
+    "t": "p",
+    "v": "This site is not directed to children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided information, contact us by phone and it will be deleted."
+   },
+   {
+    "t": "h2",
+    "v": "Third-Party Links"
+   },
+   {
+    "t": "p",
+    "v": "Some pages reference outside organizations such as government agencies or standards bodies for informational purposes. Those sites have their own privacy practices, and this policy does not apply to them. Review their policies before providing information."
+   },
+   {
+    "t": "h2",
+    "v": "Your Choices"
+   },
+   {
+    "t": "p",
+    "v": "You can browse this site without providing personal information. You can choose what to tell us on a phone call, though we may be unable to schedule work without a property address and a callback number. You may request a copy of the job documentation for work performed at your property, or ask that we correct inaccurate information in that file."
+   },
+   {
+    "t": "h2",
+    "v": "Changes to This Policy"
+   },
+   {
+    "t": "p",
+    "v": "This policy may be updated to reflect changes in practice or law. The revised version will be posted on this page. Continued use of the site after an update indicates acceptance of the current policy."
+   },
+   {
+    "t": "h2",
+    "v": "Contact"
+   },
+   {
+    "t": "p",
+    "v": "Questions about this policy can be directed to the phone number published on this site. This site accepts inbound phone calls only and does not provide an email intake, text messaging or social media contact channel."
+   }
+  ]
+ },
+ "terms": {
+  "title": "Water Damage Restoration Largo | Terms of Service",
+  "meta": "Water Damage Restoration Largo terms of service: site use, informational content, service limitations, contractor independence and liability.",
+  "h1": "Terms of Service",
+  "lead": "These terms govern your use of waterdamagerestorationlargo.com. By using this site you agree to them. If you do not agree, please do not use the site.",
+  "body": [
+   {
+    "t": "h2",
+    "v": "Informational Purpose"
+   },
+   {
+    "t": "p",
+    "v": "The content on this site is provided for general information about water damage, drying, mold and related restoration topics. It is not professional advice for your specific property, and it is not legal, insurance, engineering, medical or code advice. Conditions vary between buildings, and only an on-site assessment with instruments can determine what your property needs."
+   },
+   {
+    "t": "p",
+    "v": "Statements about local utilities, permitting authorities, flood mapping, building codes and construction eras are general descriptions that were accurate to the best of our knowledge when written. Jurisdictions, maps and requirements change. Verify current requirements with the relevant local authority before relying on them for a decision."
+   },
+   {
+    "t": "h2",
+    "v": "No Guarantee of Results"
+   },
+   {
+    "t": "p",
+    "v": "Nothing on this site guarantees a particular outcome, including whether a specific material can be salvaged, how long drying will take at your property, or whether an insurance claim will be paid. Insurance coverage decisions are made by your carrier based on your policy language and the cause of loss."
+   },
+   {
+    "t": "p",
+    "v": "This site does not claim continuous availability. Availability is confirmed when you call, and we provide a specific arrival window at that time. We do not represent that service is available at all hours, that response will occur within any fixed number of minutes or hours, or that crews are available on demand during high-demand periods such as after a major storm."
+   },
+   {
+    "t": "h2",
+    "v": "Contractor Independence"
+   },
+   {
+    "t": "p",
+    "v": "This site is a free service that helps property owners connect with local service contractors. Contractors reached through this site are independent businesses. They are not employees, agents or partners of the site operator, and the site operator does not supervise, direct or control their work."
+   },
+   {
+    "t": "p",
+    "v": "It is the property owner's responsibility to confirm that any contractor hired holds the licenses and insurance required for the work being performed in the applicable jurisdiction. In Florida, license status can be verified through the Department of Business and Professional Regulation, and permitting requirements are set by the local building department."
+   },
+   {
+    "t": "h2",
+    "v": "Photographs and Depictions"
+   },
+   {
+    "t": "p",
+    "v": "Photographs on this site illustrate restoration equipment, conditions and work of the general type described. All persons depicted in a photo or video are actors or models and not contractors listed on this site. Photographs do not represent a specific project at a specific address unless expressly stated."
+   },
+   {
+    "t": "h2",
+    "v": "Contact Method"
+   },
+   {
+    "t": "p",
+    "v": "This site accepts inbound telephone calls only. There is no contact form, email intake, text messaging channel or social media messaging associated with this site. Do not rely on any other channel claiming to represent this site."
+   },
+   {
+    "t": "h2",
+    "v": "Intellectual Property"
+   },
+   {
+    "t": "p",
+    "v": "The text, layout, design and original graphics on this site are protected by copyright and may not be copied, republished or used to train commercial models without permission. Trade names or standards referenced for informational purposes remain the property of their respective owners, and their mention does not imply endorsement or affiliation."
+   },
+   {
+    "t": "h2",
+    "v": "Acceptable Use"
+   },
+   {
+    "t": "p",
+    "v": "You agree not to use this site to violate any law, to attempt unauthorized access to any system, to scrape content at a volume that degrades service for others, or to misrepresent yourself as affiliated with this site or with any contractor reached through it."
+   },
+   {
+    "t": "h2",
+    "v": "Third-Party References and Links"
+   },
+   {
+    "t": "p",
+    "v": "References to government agencies, utilities, standards organizations or other outside parties are for information only. We do not control those organizations or their content, and we make no representation about the accuracy or availability of information they publish."
+   },
+   {
+    "t": "h2",
+    "v": "Limitation of Liability"
+   },
+   {
+    "t": "p",
+    "v": "To the fullest extent permitted by law, the site operator is not liable for any indirect, incidental, special, consequential or punitive damages arising from your use of this site or reliance on its content, including property damage, business interruption or loss of data. The site is provided on an as-is and as-available basis without warranties of any kind, express or implied."
+   },
+   {
+    "t": "h2",
+    "v": "Indemnification"
+   },
+   {
+    "t": "p",
+    "v": "You agree to indemnify and hold harmless the site operator from claims arising out of your misuse of this site, your violation of these terms, or your engagement of any independent contractor, including disputes regarding workmanship, licensing, insurance or payment."
+   },
+   {
+    "t": "h2",
+    "v": "Governing Law"
+   },
+   {
+    "t": "p",
+    "v": "These terms are governed by the laws of the State of Florida, without regard to conflict-of-law principles. Any dispute arising from these terms or your use of the site is subject to the exclusive jurisdiction of the state or federal courts located in Pinellas County, Florida."
+   },
+   {
+    "t": "h2",
+    "v": "Changes to These Terms"
+   },
+   {
+    "t": "p",
+    "v": "These terms may be revised at any time by posting an updated version on this page. Continued use of the site after a revision constitutes acceptance of the revised terms. If any provision is found unenforceable, the remaining provisions stay in effect."
+   },
+   {
+    "t": "h2",
+    "v": "Contact"
+   },
+   {
+    "t": "p",
+    "v": "Questions about these terms can be directed to the phone number published on this site."
+   }
+  ]
+ }
 }
