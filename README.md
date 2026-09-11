@@ -25,9 +25,16 @@ _data/*.json                   Source content (services, areas, blog, pages)
 sitemap.xml  robots.txt  vercel.json
 ```
 
-All internal links are **relative**, so the site works when opened from disk and when
-served from any host. Every URL is a directory with `index.html`, matching the
-`/service/<slug>/` and `/fl/<area>/` URL patterns.
+All internal links are **absolute** on the brand domain
+(`https://waterdamagerestorationlargo.com/...`), so every link, canonical, `og:url`
+and sitemap entry names the same host. Every URL is a directory with `index.html`,
+matching the `/service/<slug>/` and `/fl/<area>/` URL patterns, and every internal
+link carries a trailing slash to match `trailingSlash: true`.
+
+Asset references (`assets/*`, CSS, JS, images, favicon) are deliberately left
+**relative** so pages still render on a preview deployment or when opened from disk.
+Note the trade-off: because navigation links are absolute, clicking a link on a
+preview deployment or a local copy jumps to the live production domain.
 
 ## Content source of truth
 
