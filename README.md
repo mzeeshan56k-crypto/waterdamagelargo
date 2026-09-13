@@ -72,6 +72,21 @@ which carries the absorbed scope content and a `Service` schema block. Largo is
 still a served city everywhere in copy and in `areaServed` schema - it simply has
 no separate location page.
 
+## Search Console verification
+
+Every page carries the Google Search Console HTML-tag verification meta in the
+first `<head>` block, immediately after the viewport meta:
+
+```html
+<meta name="google-site-verification" content="3Q3ksU9_4hkk9nWfRx_BhyDGSo-MuKHMrkOWiuqok04" />
+```
+
+Google only reads it on the verified URL (the home page for a URL-prefix
+property), but it is on all 38 pages so verification still passes if the
+property is ever set to a subpath. Leave the tag in place after verification -
+Google rechecks periodically and removing it un-verifies the property. A domain
+property uses a DNS TXT record instead and ignores this tag.
+
 ## SEO implementation
 
 - Unique title + meta description + canonical (real domain) on all 38 pages
