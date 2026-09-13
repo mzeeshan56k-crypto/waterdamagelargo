@@ -69,6 +69,34 @@
    {
     "q": "Is beach property water damage covered by regular insurance?",
     "a": "Plumbing failures generally are. Surge and rising water usually require a separate flood policy. Because coastal losses often involve both, we document the water's entry point and height carefully."
+   },
+   {
+    "q": "Who provides water service in Clearwater?",
+    "a": "Clearwater Public Utilities serves most of the city, with some outlying addresses on Pinellas County Utilities. Knowing which one you are on matters when you need an emergency shutoff at the meter."
+   },
+   {
+    "q": "Which Clearwater neighborhoods do you cover?",
+    "a": "All of them, including Clearwater Beach, Sand Key, Island Estates, Countryside, Skycrest and Morningside. Barrier island buildings and mainland slab homes get different drying plans."
+   },
+   {
+    "q": "What causes most water damage in Clearwater condos?",
+    "a": "The air handler closet, more often than plumbing. Condensate pans rust and drain lines clog, and the overflow soaks the closet wall and the floor beyond it before anyone notices."
+   },
+   {
+    "q": "Do I need association approval before drying starts?",
+    "a": "For work inside your unit, usually not. Anything touching common elements, risers or shared walls goes through the association. We document what is unit-side so that conversation is quick."
+   },
+   {
+    "q": "How does salt air change repairs on Clearwater Beach?",
+    "a": "Salt accelerates corrosion on fasteners, hardware and mechanical parts, so affected metal is cleaned rather than just dried. Porous material that took salt water is removed instead of dried in place."
+   },
+   {
+    "q": "Who handles permits for Clearwater repairs?",
+    "a": "The City of Clearwater building department for addresses inside the city. Drying and mitigation do not need a permit, but structural repair and electrical work do."
+   },
+   {
+    "q": "How long does drying take in a Clearwater condo?",
+    "a": "Typically three to five days for a contained unit. Concrete construction holds moisture longer than wood frame, and stacked units often need drying on more than one floor."
    }
   ],
   "nearby": [
@@ -147,6 +175,34 @@
    {
     "q": "Can you dry tile without removing it?",
     "a": "Sometimes. Tile bonded to a wet slab traps moisture, so we read under and around it. If moisture will not release, targeted removal beats sealing water under a floor you just paid to keep."
+   },
+   {
+    "q": "Who is my water utility in Seminole?",
+    "a": "Most Seminole addresses are on Pinellas County Utilities, with some inside city limits on city service. That is who you report a meter-side leak to."
+   },
+   {
+    "q": "Which Seminole neighborhoods do you serve?",
+    "a": "Oakhurst, Seminole Gardens, Bay Pines, Ridgewood, Boca Ciega and Bardmoor, along with the unincorporated pockets between them."
+   },
+   {
+    "q": "Why do Seminole homes back up in the same fixture repeatedly?",
+    "a": "In 1960s houses it usually means the cast iron drain line under the slab has failed rather than a paper clog. A camera inspection identifies which section needs replacement."
+   },
+   {
+    "q": "Does Lake Seminole flooding affect nearby homes?",
+    "a": "Properties near the lake and Long Bayou can see yard and garage water during sustained rain. Rising water from outside is a flood claim, not a homeowners claim, however it got in."
+   },
+   {
+    "q": "My water heater sits on the garage slab. Is that a risk?",
+    "a": "Yes. A tank with no pan drains straight into the hallway when it fails. A pan with a routed drain line is inexpensive and contains most of it."
+   },
+   {
+    "q": "How long does drying take in a Seminole slab home?",
+    "a": "Usually three to five days. Slab construction spreads water sideways under the flooring, so the drying area is often larger than the room the leak started in."
+   },
+   {
+    "q": "Do you work in Bardmoor and Bay Pines?",
+    "a": "Yes, both, including the villa and condo communities. Shared-wall properties need the neighboring unit checked, because water crosses the party wall at the slab."
    }
   ],
   "nearby": [
@@ -225,6 +281,34 @@
    {
     "q": "My garage floods every big rain. Can that be fixed?",
     "a": "Often it can be improved with grade correction, a door threshold seal, downspout extension or a drain. We document the water path so a drainage contractor can address the cause instead of you drying it out every summer."
+   },
+   {
+    "q": "Who provides water in Pinellas Park?",
+    "a": "The City of Pinellas Park serves most addresses inside the city, with county service at the edges. The city also maintains the stormwater canals that carry runoff out of the area."
+   },
+   {
+    "q": "Which Pinellas Park neighborhoods do you serve?",
+    "a": "Mainlands, the historic district, Gateway, the Park Boulevard corridor, Bonnie Bay and Skyview, plus the mobile home communities throughout the city."
+   },
+   {
+    "q": "Is Pinellas Park in a flood zone?",
+    "a": "Much of the city sits low with a high water table, and parts are in mapped flood hazard areas. Check your parcel directly, because a standard homeowners policy excludes rising water."
+   },
+   {
+    "q": "Do you work on mobile and manufactured homes?",
+    "a": "Yes. The belly wrap under a manufactured home holds water against the insulation and floor decking, so it needs opening and drying rather than time to drain on its own."
+   },
+   {
+    "q": "Why does my garage flood in every heavy rain?",
+    "a": "Usually grade, blocked yard drains or downspouts aimed at the slab, rather than a plumbing problem. Correcting drainage costs less than drying the same space every summer."
+   },
+   {
+    "q": "How long does drying take in a Mainlands villa?",
+    "a": "Typically three to five days. Shared walls mean the neighboring unit gets checked too, because water moves along the slab past the party wall."
+   },
+   {
+    "q": "Does the city handle permits for repairs?",
+    "a": "Yes, the City of Pinellas Park building department for addresses inside the city. Mitigation and drying do not need one, but structural rebuild and electrical work do."
    }
   ],
   "nearby": [
@@ -303,6 +387,34 @@
    {
     "q": "Can you dry a crawl space under a bungalow?",
     "a": "Yes. We pump the water, remove soaked insulation and failed vapor barrier, dry the joists and subfloor with readings from below, then re-barrier the ground once it is on target."
+   },
+   {
+    "q": "Who provides water service in St. Petersburg?",
+    "a": "St. Petersburg Water Resources serves the city, including the reclaimed water system. Reclaimed line breaks are reported to the city rather than handled as a private plumbing repair."
+   },
+   {
+    "q": "Which St. Petersburg neighborhoods do you cover?",
+    "a": "Old Northeast, Historic Kenwood, Shore Acres, Snell Isle, Crescent Lake and Jungle Terrace, along with downtown towers and the surrounding areas."
+   },
+   {
+    "q": "Why does Shore Acres flood so often?",
+    "a": "Low elevation combined with tidal influence means streets and yards take water on king tides and sustained onshore wind. That is rising water, which needs a flood policy rather than homeowners coverage."
+   },
+   {
+    "q": "What is an elevation certificate and do I need one?",
+    "a": "It documents how your finished floor compares to the base flood elevation. That number drives your flood insurance rate and what the city can require if you ever need a major repair."
+   },
+   {
+    "q": "Can you dry a downtown high-rise unit?",
+    "a": "Yes. The constraint is usually access and the building shutoff, since residents often cannot isolate their own riser. Get the building engineer's after-hours contact before you need it."
+   },
+   {
+    "q": "How do you handle original plaster in a bungalow?",
+    "a": "Plaster over lath often dries and survives where modern drywall would be removed. We take cavity readings first and open only what the numbers say will not dry."
+   },
+   {
+    "q": "How long does drying take in a 1920s bungalow?",
+    "a": "Often longer than a slab home, commonly five days or more. Raised floors, plaster and a crawl space mean several assemblies are drying at once."
    }
   ],
   "nearby": [
@@ -381,6 +493,34 @@
    {
     "q": "Can drying save a wood floor in a 1930s cottage?",
     "a": "Often, if we start quickly. Solid wood on a raised floor responds well to mat systems, and we dry the crawl space below at the same time so moisture is not pushed back up into the boards."
+   },
+   {
+    "q": "Does Dunedin have its own water utility?",
+    "a": "Yes. Dunedin runs its own water system rather than sitting on county service, so meter-side and main leaks are reported to the city directly."
+   },
+   {
+    "q": "Which Dunedin neighborhoods do you serve?",
+    "a": "Downtown Dunedin, Edgewater, the Causeway area, Jerry Lake, Cedar Creek and Highland Woods, plus the condo buildings along the water."
+   },
+   {
+    "q": "Is my Dunedin home in a flood zone?",
+    "a": "Properties near Edgewater and the Causeway are the most likely to sit in a mapped flood hazard area. Your parcel's zone affects insurance and what the city can require after a major repair."
+   },
+   {
+    "q": "What causes most coastal Dunedin water damage?",
+    "a": "Air handler pans and condensate drain lines, more often than plumbing. Flushing the line at the cleanout each spring prevents the overflow that soaks a closet wall."
+   },
+   {
+    "q": "Can original hardwood in a Dunedin cottage be saved?",
+    "a": "Frequently, if mat drying starts within a day or two. Waiting a week almost always turns a salvage job into a full replacement."
+   },
+   {
+    "q": "Who issues permits for Dunedin repairs?",
+    "a": "The City of Dunedin building department. Historic properties and additions can carry extra review, which is worth confirming before rebuild work is scheduled."
+   },
+   {
+    "q": "How long does drying take in a historic Dunedin home?",
+    "a": "Usually four to six days. Plaster, original wood and additions built to different standards each release moisture at their own rate."
    }
   ],
   "nearby": [
@@ -459,6 +599,34 @@
    {
     "q": "Is bayfront water damage a flood claim?",
     "a": "If water rose from the bay or a creek, that is generally flood coverage. A plumbing failure inside the home is generally homeowners coverage. Documenting the water's origin and height is what keeps the claim on the right track."
+   },
+   {
+    "q": "Who provides water and sewer in Safety Harbor?",
+    "a": "The City of Safety Harbor runs its own water and sewer service, so meter-side leaks and main breaks are reported to the city."
+   },
+   {
+    "q": "Which Safety Harbor areas do you cover?",
+    "a": "Downtown, the Philippe Park area, Bayshore Boulevard, Harbor Oaks, Briar Creek and Huntington Woods, plus the newer subdivisions on the east side."
+   },
+   {
+    "q": "Does Alligator Creek flooding reach homes?",
+    "a": "Properties draining toward Alligator or Bishop Creek can see yard and threshold water when swales and yard drains are blocked. Keeping that drainage clear prevents most of it."
+   },
+   {
+    "q": "What does a warm spot on my tile floor mean?",
+    "a": "Usually a hot water supply line leaking under the slab. A licensed plumber with leak detection equipment can pinpoint it before it soaks the wall bases in adjoining rooms."
+   },
+   {
+    "q": "Do you work on the older cottages near the waterfront?",
+    "a": "Yes. Those homes often have original wood and plaster worth drying rather than removing, so readings drive the decision instead of a default tear-out."
+   },
+   {
+    "q": "How long does drying take in Safety Harbor?",
+    "a": "Three to five days for a typical slab home. Older cottages with wood floors and plaster commonly run longer, because those assemblies release moisture slowly."
+   },
+   {
+    "q": "Who handles permits in Safety Harbor?",
+    "a": "The City of Safety Harbor building department. Drying and mitigation do not need a permit, but structural repair, electrical and plumbing work do."
    }
   ],
   "nearby": [
@@ -538,6 +706,34 @@
    {
     "q": "Do you serve East Lake addresses outside city limits?",
     "a": "Yes. Much of the East Lake area is unincorporated Pinellas County. The work is the same, and permits for the rebuild phase go through Pinellas County Building Services instead of the city."
+   },
+   {
+    "q": "Who is the water utility in Oldsmar?",
+    "a": "The City of Oldsmar provides water and sewer inside city limits, while nearby East Lake addresses are typically on Pinellas County Utilities."
+   },
+   {
+    "q": "Which Oldsmar areas do you serve?",
+    "a": "The East Lake corridor, Mobbly Bayou, Cypress Lakes, Bayside Meadows, Gull-Aire Village and Forest Lakes, including addresses just outside the city line."
+   },
+   {
+    "q": "Does Mobbly Bayou or Brooker Creek flooding affect homes?",
+    "a": "Properties near the bayou, the creek and Old Tampa Bay can take yard and garage water in sustained rain. Rising water from outside is a flood claim, not a homeowners claim."
+   },
+   {
+    "q": "Why are two-story losses worse in Oldsmar?",
+    "a": "Much of the housing stock is two-story, so an upstairs washer or water heater failure runs down through the ceiling into the first floor and needs drying on two levels."
+   },
+   {
+    "q": "Should I put a pan under an upstairs washer?",
+    "a": "Yes. A drain pan with a routed line turns a hose failure into a contained mess instead of a first-floor ceiling repair. The same applies to a second-floor water heater."
+   },
+   {
+    "q": "Does my Oldsmar home have polybutylene?",
+    "a": "Look under a sink for gray flexible pipe with plastic fittings. Homes from the 1980s and early 1990s that were never repiped often still have it, and insurers ask about it."
+   },
+   {
+    "q": "How long does drying take in an Oldsmar two-story?",
+    "a": "Usually four to six days when both floors are affected. The ceiling cavity between levels dries slowest and often sets the schedule."
    }
   ],
   "nearby": [
@@ -617,6 +813,34 @@
    {
     "q": "Do you coordinate with the town for permits?",
     "a": "The rebuild scope is written so your licensed trades can pull permits through the Town of Belleair. Water removal and drying begin immediately and do not wait on permitting."
+   },
+   {
+    "q": "Does Belleair have its own utility?",
+    "a": "Yes. The Town of Belleair runs its own water utility rather than sitting on county service, so meter and main issues are reported to the town."
+   },
+   {
+    "q": "Which parts of Belleair do you serve?",
+    "a": "The bluff, the Belleair Country Club and Pelican Golf Club areas, the Indian Rocks Road corridor, Harbor View and the Belleair Shore vicinity."
+   },
+   {
+    "q": "Does the bluff protect Belleair homes from flooding?",
+    "a": "Bluff elevation helps considerably against surge, but harbor-side and lower parcels still carry flood exposure. Elevation varies sharply across the town, so check your own address."
+   },
+   {
+    "q": "Can original plaster and millwork be saved?",
+    "a": "Often yes, with cavity and mat drying started quickly. We take readings before opening a wall, because historic finishes are expensive and slow to reproduce."
+   },
+   {
+    "q": "How do you protect antiques and rugs during work?",
+    "a": "Contents in the affected area are blocked, relocated or removed in the first hour. Absorbent items take on humidity long before they show a visible water stain."
+   },
+   {
+    "q": "What fails most often in older Belleair homes?",
+    "a": "Cast iron drain lines that have been repaired in sections. A repeat slow drain or a gurgle in an unused fixture is worth a camera inspection before it backs up into a finished room."
+   },
+   {
+    "q": "How long does drying take in a Belleair estate?",
+    "a": "Commonly five days or more. Plaster, hardwood, large room volumes and careful contents handling all extend the schedule compared with a standard slab home."
    }
   ],
   "nearby": [
@@ -695,6 +919,34 @@
    {
     "q": "What is the fifty percent rule I keep hearing about?",
     "a": "In mapped flood hazard areas, repairs costing fifty percent or more of the structure's market value generally trigger a requirement to bring the building into current floodplain compliance. Your local floodplain administrator makes that call, not a contractor."
+   },
+   {
+    "q": "Who provides water on Indian Rocks Beach?",
+    "a": "Island addresses are served through Pinellas County Utilities infrastructure. Island lines and lift stations are more exposed than mainland systems during a storm."
+   },
+   {
+    "q": "Which parts of Indian Rocks Beach do you cover?",
+    "a": "North Beach, central Indian Rocks Beach, the Gulf Boulevard corridor, Curlew Landings, Harbor Drive and Bay Palms."
+   },
+   {
+    "q": "What evacuation zone is Indian Rocks Beach in?",
+    "a": "The barrier island sits in the first zones called for evacuation. That affects when crews can safely reach the island after a storm, which we confirm with you when you call."
+   },
+   {
+    "q": "Is ground-level storage covered by flood insurance?",
+    "a": "Coverage for enclosures below the flood elevation is restricted, and building and contents are separate limits. Keep valuables above the flood elevation and photograph what stays downstairs."
+   },
+   {
+    "q": "Why is salt water handled differently?",
+    "a": "Salt leaves a conductive residue that keeps corroding metal after the water is gone. Hardware and mechanical parts get cleaned, and porous material that absorbed it is removed rather than dried."
+   },
+   {
+    "q": "Can you dry a rental between bookings?",
+    "a": "We schedule around occupancy where the drying timeline allows, but drying cannot be cut short without leaving moisture in the structure. We will tell you plainly which is possible."
+   },
+   {
+    "q": "How long does drying take on the island?",
+    "a": "Typically four to six days. Concrete block, tile over slab and salt exposure all slow the process compared with a mainland frame house."
    }
   ],
   "nearby": [
@@ -773,6 +1025,34 @@
    {
     "q": "My ground floor flooded but the living area is upstairs. What now?",
     "a": "That is the common outcome for elevated homes. We clean and dry the lower level, remove affected materials, and check the floor assembly and stair structure above for moisture that traveled upward."
+   },
+   {
+    "q": "Who provides water on Madeira Beach?",
+    "a": "Island service runs through Pinellas County Utilities infrastructure. Island distribution lines and lift stations are more vulnerable during storms than mainland systems."
+   },
+   {
+    "q": "Which Madeira Beach areas do you serve?",
+    "a": "John's Pass Village, the Gulf Boulevard corridor, Crystal Island, the canal neighborhoods, the Boca Ciega Bay side and Mitchell Beach."
+   },
+   {
+    "q": "Is canal water treated as contaminated?",
+    "a": "Yes. Water from a canal or the bay is brackish and carries contamination, so drywall, insulation, carpet pad and cabinet bases that absorbed it come out rather than being dried in place."
+   },
+   {
+    "q": "What should I photograph before cleanup?",
+    "a": "Measure and photograph how high the water reached inside and outside, with a tape in frame. That one photo does more for a claim than a hundred pictures of wet furniture."
+   },
+   {
+    "q": "Do you work on elevated homes with ground-level enclosures?",
+    "a": "Yes, and that is the common Madeira Beach layout. The enclosure takes the water while the living area stays dry, which changes both the scope and the coverage question."
+   },
+   {
+    "q": "Does my flood policy cover the downstairs enclosure?",
+    "a": "Coverage below the flood elevation is limited, and building and contents are separate limits. Review both before hurricane season rather than after a storm is named."
+   },
+   {
+    "q": "How long does drying take in a Madeira Beach home?",
+    "a": "Usually four to six days. Block construction and tile over slab hold moisture longer, and contaminated water adds a removal phase before drying starts."
    }
   ],
   "nearby": [
@@ -851,6 +1131,34 @@
    {
     "q": "Do you work in Ozona and Crystal Beach cottages?",
     "a": "Yes. Those older waterfront homes need slower drying, direct plaster and framing readings, and careful demolition decisions. We also check under raised floors where access exists."
+   },
+   {
+    "q": "Who provides water in Palm Harbor?",
+    "a": "Palm Harbor is unincorporated, so Pinellas County Utilities provides water and sewer and the county handles permitting rather than a city building department."
+   },
+   {
+    "q": "Which Palm Harbor areas do you serve?",
+    "a": "East Lake, Ozona, Crystal Beach, the Lake Tarpon area, Innisbrook and Highland Lakes, plus the surrounding unincorporated neighborhoods."
+   },
+   {
+    "q": "Does Lake Tarpon affect flooding?",
+    "a": "Properties near Lake Tarpon and Sutherland Bayou can take yard water during sustained rain, and blocked retention and yard drains make it worse. Rising water is a flood claim rather than a homeowners claim."
+   },
+   {
+    "q": "Does my Palm Harbor home have polybutylene?",
+    "a": "Check under a sink for gray flexible pipe with plastic fittings. Many 1980s homes here still have it if they were never repiped, and a failed fitting is a common cause of loss."
+   },
+   {
+    "q": "Should I test my water heater pan drain?",
+    "a": "Yes. Pour a cup of water into the pan and confirm it drains outside. Many pan lines here are blocked, disconnected in the attic, or were never routed at all."
+   },
+   {
+    "q": "Do you work on the older Ozona and Crystal Beach cottages?",
+    "a": "Yes. Those homes often have wood floors and original finishes worth drying rather than removing, so moisture readings drive the decision."
+   },
+   {
+    "q": "How long does drying take in Palm Harbor?",
+    "a": "Three to five days for a typical slab home, and longer when an upstairs bathroom leak has run into a first-floor ceiling and both levels are drying."
    }
   ],
   "nearby": [

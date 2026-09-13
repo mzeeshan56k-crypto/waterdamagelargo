@@ -97,6 +97,26 @@
    {
     "q": "Can you extract water and let me do the drying?",
     "a": "You can decline equipment, but we will note the moisture readings at the time we leave. Without dehumidification, wet framing and drywall behind a dry-looking surface usually turn into a mold call two weeks later."
+   },
+   {
+    "q": "How long does water extraction take?",
+    "a": "Most single-room extractions take one to three hours once crews are on site. A whole-house loss with saturated carpet and pad can run half a day. The drying that follows is the longer phase, usually several days."
+   },
+   {
+    "q": "Do you extract water from a slab home differently?",
+    "a": "Yes. On a slab there is nowhere for water to drain, so it spreads sideways under tile and plank. We extract from the surface, then check the perimeter and wall bases where water collects out of sight."
+   },
+   {
+    "q": "Can you remove water from under laminate or vinyl plank?",
+    "a": "Sometimes. Click-lock plank traps water against the slab, so we lift a few boards to check. If the subfloor is wet, sections come up so the assembly can dry from the edges in."
+   },
+   {
+    "q": "What equipment do you use for standing water?",
+    "a": "Submersible pumps for depths over a couple of inches, truck-mounted extractors for volume, and weighted wands for carpet and pad. The choice depends on depth, access and how far the truck can park from the loss."
+   },
+   {
+    "q": "Should I turn the power off before you arrive?",
+    "a": "If outlets, a panel or anything electrical is wet, shut the breaker off if you can reach it safely. If the panel itself is wet or you would have to stand in water to reach it, leave it and tell us when you call."
    }
   ],
   "related": [
@@ -203,6 +223,26 @@
    {
     "q": "How long before rebuild can start?",
     "a": "Only after the framing and slab hold a dry reading. That is commonly five to ten days on a flood job, longer if block walls and thick slabs are involved. Closing walls early traps moisture and creates a mold problem inside a finished room."
+   },
+   {
+    "q": "What is the difference between flood damage and water damage?",
+    "a": "Flooding is rising water from outside the building, such as storm surge or drainage overflow. Water damage comes from inside, like a pipe or appliance. The distinction decides coverage, because standard homeowners policies exclude the first."
+   },
+   {
+    "q": "Do I need to move out during flood cleanup?",
+    "a": "For a contained ground-floor loss, usually not. If surge or sewage water reached living areas, or the electrical system was submerged, staying elsewhere during the removal phase is the safer call."
+   },
+   {
+    "q": "What happens to furniture that sat in flood water?",
+    "a": "Upholstered pieces and anything with a particle board core that soaked in contaminated water generally cannot be saved. Solid wood and metal can often be cleaned and dried. We inventory what comes out for your claim."
+   },
+   {
+    "q": "How do you sanitize after flood water?",
+    "a": "Once debris and unsalvageable material are out, surfaces are cleaned and treated with an EPA-registered antimicrobial. Sanitizing before removal just wets contaminated material, so the order matters more than the product."
+   },
+   {
+    "q": "Can mold start before flood cleanup finishes?",
+    "a": "In Florida humidity it can begin within about two days on wet porous material. That is why removal and drying run together instead of waiting for an adjuster to finish scoping the loss."
    }
   ],
   "related": [
@@ -310,6 +350,26 @@
    {
     "q": "What is a dry standard?",
     "a": "It is a target moisture reading taken from the same material in an unaffected part of the building. When the wet area matches that reference and holds, the assembly is dry. That comparison is more reliable than any single number."
+   },
+   {
+    "q": "How do you know when the structure is actually dry?",
+    "a": "We take a baseline reading from unaffected material in the same building, then dry the wet areas until they match it. That comparison, not a fixed number off a chart, is the dry standard for your house."
+   },
+   {
+    "q": "What is the difference between an air mover and a dehumidifier?",
+    "a": "Air movers drive evaporation, moving moisture out of materials and into the air. Dehumidifiers pull it back out of the air. Running fans without dehumidification just circulates wet air around the house."
+   },
+   {
+    "q": "Why do you drill holes in the baseboard?",
+    "a": "Wall cavities dry far slower than the surface. Small holes behind the baseline let us inject air into the cavity so the bottom plate and insulation dry without removing the drywall."
+   },
+   {
+    "q": "Can I turn the equipment off at night?",
+    "a": "No. Drying is cumulative, and every shutdown lets materials reabsorb moisture from the air, which adds days to the job. If the noise is a problem, tell us and we will look at placement."
+   },
+   {
+    "q": "Does running the air conditioning help drying?",
+    "a": "It helps a little by lowering humidity, but an AC system is not built to pull the volume of water a wet structure gives off. It supports the dehumidifiers rather than replacing them."
    }
   ],
   "related": [
@@ -416,6 +476,26 @@
    {
     "q": "Do I need to leave my home during remediation?",
     "a": "Usually no. Containment and negative air keep the work area separate. People with asthma, allergies or immune concerns may prefer to stay elsewhere while the removal phase runs."
+   },
+   {
+    "q": "How much does mold remediation cost in Largo?",
+    "a": "A contained bathroom or closet sits at the low end, while multiple rooms, HVAC involvement or attic work costs considerably more. The scope is driven by how much porous material has to come out."
+   },
+   {
+    "q": "What is containment and why does it matter?",
+    "a": "Containment is plastic sheeting plus negative air pressure that keeps spores inside the work area. Without it, the removal spreads what you are trying to remove into clean parts of the house."
+   },
+   {
+    "q": "Will mold come back after remediation?",
+    "a": "Not if the moisture source is corrected. Mold needs water, so remediation without fixing the leak or the humidity is temporary. We correct the source before the removal phase begins."
+   },
+   {
+    "q": "Can I stay in the house if the mold is in one room?",
+    "a": "Usually yes, with containment in place. People with asthma, allergies or immune conditions often prefer to stay elsewhere while material is being removed."
+   },
+   {
+    "q": "Do you need a mold license in Florida?",
+    "a": "Yes. Florida licenses mold assessors and mold remediators separately, and one company generally cannot do both on the same project. We remediate to an independent assessor's written protocol."
    }
   ],
   "related": [
@@ -522,6 +602,26 @@
    {
     "q": "Is there a safe mold level for a Florida home?",
     "a": "No agency has set numeric indoor limits. The practical standard is comparison: indoor conditions should resemble the outdoor baseline in type and count, with no visible growth and no wet materials. That is the target we report against."
+   },
+   {
+    "q": "How much does a mold inspection cost in Largo?",
+    "a": "A visual inspection with moisture mapping is the base cost, and air or surface sampling adds a per-sample lab fee. You get the written report either way, with the readings and where they were taken."
+   },
+   {
+    "q": "What does a moisture map show?",
+    "a": "It records meter readings across walls, floors and ceilings so wet areas are marked rather than guessed. It also shows how far water traveled, which is often two rooms past the visible stain."
+   },
+   {
+    "q": "Can you find mold behind a wall without opening it?",
+    "a": "Thermal imaging and pinless meters find the moisture mold needs, which usually locates the problem. Confirming actual growth behind drywall still takes a small inspection opening."
+   },
+   {
+    "q": "Should I test for mold before buying a Largo home?",
+    "a": "If there is any history of water intrusion, a musty smell or visible staining, testing before closing is worth it. Slab homes here hide moisture at the wall base where a walkthrough will not catch it."
+   },
+   {
+    "q": "What is post-remediation verification?",
+    "a": "An independent assessor re-inspects and samples after remediation to confirm the work met the protocol. It is the document that closes out the job for an insurer or a buyer."
    }
   ],
   "related": [
@@ -628,6 +728,26 @@
    {
     "q": "Will the smell come back?",
     "a": "Not if the source and the contaminated material are gone. Lingering odor almost always means porous material was left in place, a drain line is still compromised, or a wall cavity never dried. We address all three during the job."
+   },
+   {
+    "q": "What is category 3 water?",
+    "a": "It is grossly contaminated water carrying pathogens, which covers sewage backups, toilet overflow past the trap and flood water from outside. It is handled with removal and disinfection, not drying alone."
+   },
+   {
+    "q": "How long does sewage cleanup take?",
+    "a": "A contained bathroom backup is usually one to two days including drying. If sewage traveled into carpet, cabinets or wall cavities, removal and verification push it to several days."
+   },
+   {
+    "q": "Do you clean the HVAC after a sewage backup?",
+    "a": "If contaminated water reached ducts or the air handler, yes, or the system recirculates the problem through the house. We check the return and any floor-level ducts before drying starts."
+   },
+   {
+    "q": "Can carpet be saved after a sewage backup?",
+    "a": "Carpet and pad that took category 3 water come out. The material is porous, it holds pathogens, and cleaning it in place does not make it safe for a living area."
+   },
+   {
+    "q": "Who is responsible for a sewer backup, me or the city?",
+    "a": "It depends where the blockage sits. A clog in your lateral is generally the property owner's, while a main-line failure is the utility's. We document the source so the question can be settled."
    }
   ],
   "related": [
@@ -735,6 +855,26 @@
    {
     "q": "How soon after a hurricane can you get to my property?",
     "a": "Availability is confirmed when you call. After a major storm, crews and materials across Pinellas County are in heavy demand, so getting on the schedule early and having your photos ready helps you move faster."
+   },
+   {
+    "q": "What should I photograph before cleanup starts?",
+    "a": "Wide shots of each affected room, close-ups of the water line on the walls, the source if it is visible, and anything you have to move. Photograph before you remove or discard anything."
+   },
+   {
+    "q": "Does homeowners insurance cover hurricane damage in Florida?",
+    "a": "Wind damage is generally covered, usually under a separate hurricane deductible. Rising water and storm surge are not, and need a flood policy. What the water did is less important than where it came from."
+   },
+   {
+    "q": "Can you board up before the insurance adjuster sees it?",
+    "a": "Yes, and you should. Policies require you to prevent further damage. Board-up and tarping are emergency mitigation, and we document them with photographs for the claim."
+   },
+   {
+    "q": "How long does storm damage rebuild take?",
+    "a": "Drying runs several days. The rebuild depends on materials and permitting, and after a large storm both are slower because the whole county is competing for the same supply and the same inspectors."
+   },
+   {
+    "q": "Do you handle tree impact damage to a roof?",
+    "a": "We handle the water side, the board-up and the interior rebuild. Tree removal and structural framing repair are coordinated with the appropriate trade rather than done by our drying crews."
    }
   ],
   "related": [

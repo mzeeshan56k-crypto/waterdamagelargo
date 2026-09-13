@@ -97,6 +97,26 @@
    {
     "q": "Does wet attic insulation need to be replaced?",
     "a": "If it was saturated or matted, yes. Wet insulation holds water against the ceiling, feeds mold, and loses its thermal value permanently. We remove the affected area and include replacement in the scope."
+   },
+   {
+    "q": "How can I tell if a ceiling stain is still active?",
+    "a": "Touch it with the back of your hand and check again after the next rain. A dry, sharply outlined stain is usually old. A soft, spreading or darkening stain means water is still coming in."
+   },
+   {
+    "q": "Is a sagging ceiling dangerous?",
+    "a": "Yes. Wet drywall holds a surprising amount of weight and can come down without warning. Keep people out from under it and tell us when you call so the area is made safe first."
+   },
+   {
+    "q": "Can attic insulation be dried instead of replaced?",
+    "a": "Fiberglass batts that got lightly damp can sometimes dry in place. Compressed, soaked or blown-in insulation that has clumped has lost its R-value and comes out."
+   },
+   {
+    "q": "Why does the leak show up far from the roof damage?",
+    "a": "Water runs along rafters, trusses and the top of the ceiling before it finds a seam or a light fixture to come through. The stain marks the exit point, not the entry point."
+   },
+   {
+    "q": "Do you repair the roof itself?",
+    "a": "We tarp and board up to stop the intrusion, then handle the interior water damage and the rebuild. Permanent roof replacement is coordinated with a licensed roofer."
    }
   ],
   "related": [
@@ -204,6 +224,26 @@
    {
     "q": "Should I be worried if my house has polybutylene?",
     "a": "It is worth knowing. Polybutylene systems installed in Florida between the late 1970s and mid 1990s have a documented history of fitting failures, and many insurers ask about them. Talk to a licensed plumber about repipe options, especially if you have already had one failure."
+   },
+   {
+    "q": "How much water comes out of a burst supply line?",
+    "a": "A half-inch line can put out several hundred gallons an hour. That is why finding the shutoff matters more than anything else you do in the first few minutes."
+   },
+   {
+    "q": "Why did my pipe burst in Florida with no freeze?",
+    "a": "Most Largo failures are age and water chemistry rather than cold. Failed supply hoses, corroded galvanized pipe, brittle CPVC fittings and polybutylene are the common causes here."
+   },
+   {
+    "q": "What is a supply line and how often should it be replaced?",
+    "a": "It is the flexible hose feeding a toilet, sink or washing machine. Braided stainless lines are typically replaced every five to seven years, and rubber washer hoses sooner than that."
+   },
+   {
+    "q": "Do I need a plumber before you start drying?",
+    "a": "The source has to be stopped first, so yes if the line is still leaking. We can begin extraction as soon as the water is off and work around the plumber's repair."
+   },
+   {
+    "q": "Can water inside a wall dry without opening it?",
+    "a": "Often yes. We inject air into the cavity through small holes and monitor the readings daily. If the cavity will not come down to a dry standard, then a section of drywall comes out."
    }
   ],
   "related": [
@@ -310,6 +350,26 @@
    {
     "q": "How can I prevent the next one?",
     "a": "Replace rubber washer hoses with braided stainless, close laundry valves when you travel, check under sinks quarterly, replace refrigerator ice maker lines on a schedule, and have a pan and drain line at the water heater."
+   },
+   {
+    "q": "How do I know if my dishwasher has been leaking slowly?",
+    "a": "Look for a dark line at the base of the cabinet beside it, a soft or swollen toe kick, and flooring lifting at the edge. A meter reading confirms it without pulling the unit out."
+   },
+   {
+    "q": "What fails on a refrigerator ice maker line?",
+    "a": "A small copper or plastic line runs behind the unit, and a slow drip there soaks the floor and the cabinet run beside it for weeks before anyone notices. It is one of the most common losses we see."
+   },
+   {
+    "q": "Can a water heater failure damage a whole house?",
+    "a": "A tank rupture releases forty gallons or more at once, and in a slab home it spreads sideways from the garage or closet into adjoining rooms. The water rarely stays where the tank is."
+   },
+   {
+    "q": "Should I replace the appliance after a leak?",
+    "a": "If the failure was the appliance itself rather than a supply hose, usually yes. We dry the structure and document the damage. The appliance decision is yours and your plumber's."
+   },
+   {
+    "q": "Does a washing machine overflow need professional drying?",
+    "a": "If it stayed on tile and was wiped up quickly, often not. If it reached carpet, a wall base or a cabinet, the water is inside the assembly and surface wiping will not reach it."
    }
   ],
   "related": [
@@ -416,6 +476,26 @@
    {
     "q": "Do you paint the whole room?",
     "a": "We paint to a natural break, usually corner to corner, so the finish looks even. Spot painting a single patch nearly always shows as a sheen difference, especially on ceilings."
+   },
+   {
+    "q": "Do you repair before or after drying is finished?",
+    "a": "After. Closing a wall or ceiling that has not reached a dry standard traps moisture and grows mold behind new board. Repair starts once the readings confirm the assembly is dry."
+   },
+   {
+    "q": "What is a flood cut?",
+    "a": "A horizontal cut in the drywall, usually set a foot or two above the water line, that removes wet board and opens the cavity for drying. Cutting to a straight line also makes the rebuild cleaner."
+   },
+   {
+    "q": "Can you match a knockdown or orange peel texture?",
+    "a": "Yes, and those are the two common Largo textures. The blend is done wet and feathered well past the patch so the repair does not read as a rectangle on the wall."
+   },
+   {
+    "q": "Will the new paint match my existing walls?",
+    "a": "Paint fades, so an exact match on an older wall is unlikely straight from the can. We paint corner to corner on the affected plane so there is no visible edge."
+   },
+   {
+    "q": "Do you replace insulation behind a wet wall?",
+    "a": "Fiberglass batts that were saturated come out with the drywall. They compress when wet, lose their R-value and hold moisture against the framing."
    }
   ],
   "related": [
@@ -522,6 +602,26 @@
    {
     "q": "Does the floor need refinishing afterward?",
     "a": "Usually. Drying saves the wood, but the finish is typically damaged and slight height variation remains. Sanding and refinishing after the wood stabilizes gives a flat, uniform surface."
+   },
+   {
+    "q": "What is cupping and what causes it?",
+    "a": "Cupping is when board edges sit higher than the centers because the underside absorbed more moisture than the top. It is usually the first visible sign that water got under the floor."
+   },
+   {
+    "q": "What is a floor mat drying system?",
+    "a": "Sealed mats laid on the surface pull moisture up through the boards under vacuum. It dries the assembly from above without lifting the floor, which is what makes salvage possible."
+   },
+   {
+    "q": "Can engineered hardwood be dried?",
+    "a": "Sometimes, though less often than solid wood. The plywood core delaminates once water reaches it, and delaminated plank does not recover no matter how well it is dried."
+   },
+   {
+    "q": "How long does hardwood drying take?",
+    "a": "Longer than carpet or drywall, commonly a week or more with mat systems running. Wood gives up moisture slowly, and rushing it with heat causes cracking and checking."
+   },
+   {
+    "q": "What is crowning and can it be fixed?",
+    "a": "Crowning is the opposite of cupping, with board centers higher than the edges. It usually means the floor was sanded while still wet. The fix is to dry it fully, then re-sand."
    }
   ],
   "related": [
@@ -628,6 +728,26 @@
    {
     "q": "Do you re-stretch the carpet afterward?",
     "a": "Yes. Carpet that was floated and dried needs power stretching to lay flat. Skipping that step leaves ripples that wear quickly and become a trip hazard."
+   },
+   {
+    "q": "What is in-place drying?",
+    "a": "The carpet stays attached, we remove and replace the pad, then float the carpet with air underneath it. It is faster and cheaper than pulling and reinstalling when the water was clean."
+   },
+   {
+    "q": "How do you decide whether to save or replace carpet?",
+    "a": "Clean water caught early is usually saved. Category 3 water, delaminated backing, or carpet that sat wet for days comes out. Age and condition factor into the call as well."
+   },
+   {
+    "q": "Does wet carpet always mean mold?",
+    "a": "No, but the window is short. In Florida humidity, wet carpet and pad can start growing within about two days, so how long it stayed wet matters more than how much water there was."
+   },
+   {
+    "q": "Can you clean the carpet after drying?",
+    "a": "Yes, and it is usually worth doing. Drying removes the water but not the soil the water carried through the fibers. Cleaning is a separate step once the readings come back dry."
+   },
+   {
+    "q": "Will the tack strip need replacing?",
+    "a": "Often yes if it stayed wet. The wood strip swells and the pins rust, and a failed strip means the carpet will not hold its stretch after reinstallation."
    }
   ],
   "related": [
@@ -735,6 +855,26 @@
    {
     "q": "Does insurance cover crawl space water?",
     "a": "A sudden plumbing failure is usually covered. Groundwater intrusion, seepage and long-term humidity typically are not. Documenting the source is what determines how your claim is handled."
+   },
+   {
+    "q": "How do I know if there is water under my house?",
+    "a": "A musty smell at floor level, cold or springy floors, and indoor humidity higher than outside are the usual signs. Confirming it means going under with a light and a meter."
+   },
+   {
+    "q": "Does standing water in a crawl space affect indoor air?",
+    "a": "Yes. Air moves upward through the floor assembly, so crawl space humidity and any mold odor end up in the living space. That is why it is treated as an indoor air problem, not just a plumbing one."
+   },
+   {
+    "q": "What is encapsulation?",
+    "a": "A sealed liner across the ground and up the piers that isolates soil moisture from the air under the house. It is a longer-term fix after the water is out, not a substitute for removing it."
+   },
+   {
+    "q": "Can wet floor framing be saved?",
+    "a": "Usually, if it is caught before rot sets in. We dry the joists and subfloor and take readings to confirm. Framing with active decay or fungal growth is referred for structural repair."
+   },
+   {
+    "q": "Do manufactured homes in Largo have the same problem?",
+    "a": "Often worse. The underbelly wrap holds water against the insulation and floor decking, so it drains slowly and the moisture stays trapped where nobody can see it."
    }
   ],
   "related": [
@@ -842,6 +982,26 @@
    {
     "q": "How quickly can equipment be on site?",
     "a": "Availability is confirmed when you call, and we give you a specific arrival window. For commercial losses we also confirm power capacity, since large equipment loads sometimes need distribution planning in older buildings."
+   },
+   {
+    "q": "Can you work after business hours?",
+    "a": "Yes. Phased work outside operating hours is common for retail and medical spaces. Tell us your hours when you call and the schedule is built around them."
+   },
+   {
+    "q": "How do you handle a water loss in a medical or dental office?",
+    "a": "Containment goes up first to protect clinical areas, and the drying plan is written around infection control and equipment. Documentation is more detailed because of the compliance requirements."
+   },
+   {
+    "q": "Who owns the repair, the landlord or the tenant?",
+    "a": "The lease decides it. Building structure is usually the landlord's responsibility and tenant improvements the tenant's. We document by area so the split is clear for both insurers."
+   },
+   {
+    "q": "Do you provide documentation for a business interruption claim?",
+    "a": "Yes. Daily moisture logs, equipment counts, photographs and affected square footage are all recorded, which is what a business interruption adjuster asks for."
+   },
+   {
+    "q": "How is commercial drying different from residential?",
+    "a": "Scale and construction. Commercial buildings have larger open volumes, drop ceilings, concrete decks and often a sprinkler system, so equipment loads and access planning matter far more than in a house."
    }
   ],
   "related": [

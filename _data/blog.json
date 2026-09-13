@@ -109,6 +109,48 @@
     "t": "p",
     "v": "If you are dealing with an active leak right now, the priority list is short: water off, power off in wet areas, photos taken, then call for extraction and drying. Our full description of extraction, drying and repair services lays out what each step involves, and availability is confirmed when you call."
    }
+  ],
+  "faqs": [
+   {
+    "q": "Why does water spread sideways in a slab home?",
+    "a": "There is no basement or crawl space for it to fall into. The slab stops downward movement, so water travels laterally under flooring adhesive and into wall bottom plates."
+   },
+   {
+    "q": "How far can water travel in 24 hours?",
+    "a": "Commonly two rooms past the source, and further along a continuous flooring run. The visible wet area is almost always smaller than the actual one."
+   },
+   {
+    "q": "Why is the wet spot smaller than the damage?",
+    "a": "Surface water evaporates while water under the flooring and inside the wall base does not. What you can see is the smallest part of the problem."
+   },
+   {
+    "q": "Does tile keep water out of the slab?",
+    "a": "No. Water travels under tile through the thin-set and grout lines, and the tile then acts as a lid that slows drying. It often needs mat systems or targeted removal."
+   },
+   {
+    "q": "How does water get inside a wall?",
+    "a": "It wicks up the drywall from the floor by capillary action, usually a few inches to a foot. The bottom plate, the insulation and the back of the board all hold it."
+   },
+   {
+    "q": "Why do concrete block walls stay wet?",
+    "a": "Block is porous and holds moisture behind paint and stucco, then releases it slowly. That is why block dries more slowly than wood frame and needs longer equipment runs."
+   },
+   {
+    "q": "What happens in the first hour?",
+    "a": "Free water spreads to the limits of the flooring run and starts wicking into porous material. This is the window where extraction prevents most of the eventual damage."
+   },
+   {
+    "q": "What happens by day two?",
+    "a": "Materials are saturated, indoor humidity has climbed, and microbial growth can begin on wet porous surfaces. Salvage decisions get harder from this point."
+   },
+   {
+    "q": "Can I tell how far it went without a meter?",
+    "a": "Not reliably. Drywall can read wet a foot above a floor that looks dry, and flooring can hide a saturated subfloor. Meters and thermal imaging are what map it."
+   },
+   {
+    "q": "Does this apply to condos and villas too?",
+    "a": "Yes, and shared walls make it worse. Water crosses the party wall at the slab, so the neighboring unit needs checking even when nothing is visible there."
+   }
   ]
  },
  {
@@ -229,6 +271,48 @@
     "t": "p",
     "v": "And if you cannot find the source at all but the smell is real, start with inspection rather than demolition. Roughly half the mold calls we take trace to a condensate line, a duct issue or a slow supply drip rather than a dramatic flood. Our overview of restoration and drying services explains how the assessment and the work fit together, and availability is confirmed when you call."
    }
+  ],
+  "faqs": [
+   {
+    "q": "How quickly does mold grow after water damage?",
+    "a": "On wet porous material in Florida humidity, growth can begin within about 24 to 48 hours. Temperature and dew point here shorten the window compared with drier climates."
+   },
+   {
+    "q": "What does mold need to grow?",
+    "a": "Moisture, a food source and time. Drywall paper, wood, insulation and carpet pad are all food. Removing the moisture is the only part of that you can control."
+   },
+   {
+    "q": "What happens on day one?",
+    "a": "Materials absorb water and indoor humidity climbs. Nothing is visible yet, and this is the cheapest point to intervene because nothing has to be removed."
+   },
+   {
+    "q": "What happens by day three?",
+    "a": "Growth is often established on wet porous surfaces, and a musty smell may appear before anything is visible. Some material now comes out rather than being dried."
+   },
+   {
+    "q": "What happens by day seven to ten?",
+    "a": "Visible growth, spreading colonies and staining. The job has usually shifted from drying to remediation, with containment and material removal."
+   },
+   {
+    "q": "Why does Florida humidity make it worse?",
+    "a": "Pinellas County dew points sit in the seventies much of the year. Warm, wet air slows evaporation and keeps materials damp long after the visible water is gone."
+   },
+   {
+    "q": "Will opening windows help dry my house?",
+    "a": "In Florida, usually the opposite. Outside air at a high dew point pushes moisture into cool cavities and makes it worse. Drying needs a closed system with dehumidifiers."
+   },
+   {
+    "q": "Does a musty smell always mean mold?",
+    "a": "It usually means microbial activity somewhere, even when nothing is visible. The smell often comes from inside a wall cavity or under flooring rather than the surface."
+   },
+   {
+    "q": "Can mold grow without visible water?",
+    "a": "Yes. A slow supply line drip, a condensate leak or chronic humidity will grow mold with no standing water ever appearing."
+   },
+   {
+    "q": "Is it too late if it has been a week?",
+    "a": "No, but the work changes. Drying alone will not resolve established growth. It becomes containment, removal of affected porous material, and verification."
+   }
   ]
  },
  {
@@ -344,6 +428,48 @@
    {
     "t": "p",
     "v": "Replacing rubber hoses with braided stainless, closing laundry valves when you travel, having a pan and drain installed at the water heater, and asking a licensed plumber whether your home still has polybutylene will prevent a large share of these losses. Our restoration and drying services page explains what happens when prevention does not get there in time."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "What is the very first thing to do when a pipe bursts?",
+    "a": "Shut the water off. Everything else, including photographs and phone calls, comes after the water stops. Every minute of flow adds gallons to the loss."
+   },
+   {
+    "q": "Where is the main shutoff in a Largo home?",
+    "a": "Usually at the meter box near the street, or on the exterior wall where the supply enters. Find it before you need it and keep a meter key nearby."
+   },
+   {
+    "q": "Should I turn the power off too?",
+    "a": "If outlets, a panel or anything electrical is wet, yes, at the breaker if you can reach it safely. If you would have to stand in water to reach it, leave it."
+   },
+   {
+    "q": "What should I photograph?",
+    "a": "Wide shots of each affected room, close-ups of the water line on the walls, and the source if it is visible. Photograph before you move or remove anything."
+   },
+   {
+    "q": "What should I move first?",
+    "a": "Anything absorbent and anything valuable: rugs, boxes, electronics, documents and furniture with particle board legs. Lift furniture onto blocks if you cannot move it."
+   },
+   {
+    "q": "Should I use towels and a shop vac?",
+    "a": "For a small clean-water spill on a hard surface, yes. A shop vac will not pull water out of carpet pad, a wall cavity or under a cabinet toe kick."
+   },
+   {
+    "q": "Do I call a plumber or a restoration crew first?",
+    "a": "The plumber stops the source and the restoration crew handles the water. If the water is already off, call the restoration crew first, because time drives the damage."
+   },
+   {
+    "q": "How much damage can a burst supply line really do?",
+    "a": "A half-inch line can release several hundred gallons an hour. An overnight failure regularly reaches multiple rooms in a slab home."
+   },
+   {
+    "q": "What if the pipe burst while I was away?",
+    "a": "Expect water well past the room it started in, and expect microbial growth if it sat more than about two days. Do not start pulling material before it is documented."
+   },
+   {
+    "q": "Does homeowners insurance cover a burst pipe?",
+    "a": "A sudden, accidental discharge is generally covered. Long-term seepage from a leak that was ignored usually is not, which is why documenting the timeline matters."
    }
   ]
  }

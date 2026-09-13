@@ -182,6 +182,22 @@
    {
     "q": "Do you serve commercial properties?",
     "a": "Yes. Retail, office, medical, restaurant and multi-tenant buildings across Largo and Pinellas County. Work is phased and containment is set so the business can keep operating, and documentation is delivered per suite for property managers and carriers."
+   },
+   {
+    "q": "How much does water damage restoration cost in Largo?",
+    "a": "Cost tracks the size of the wet area, how long it stayed wet and how much material has to come out. A single room dried early is a fraction of a whole-floor loss found a week later."
+   },
+   {
+    "q": "Do I need to call my insurance company before you start?",
+    "a": "No. Policies require you to prevent further damage, so mitigation can begin immediately. We document the source, the readings and the equipment so your adjuster has the facts."
+   },
+   {
+    "q": "What areas around Largo do you cover?",
+    "a": "Largo and eleven nearby Pinellas County communities, including Clearwater, Seminole, Pinellas Park, St. Petersburg, Dunedin, Safety Harbor, Oldsmar, Belleair, Palm Harbor and the beaches."
+   },
+   {
+    "q": "What should I do before the crew arrives?",
+    "a": "Stop the water at the shutoff if you can reach it safely, kill power to wet outlets, and lift what you can off the floor. Photograph the damage before you move anything."
    }
   ]
  },
@@ -275,6 +291,48 @@
     "t": "p",
     "v": "Calls are how this works. Water losses need a conversation about the source, the volume, the flooring and the building type before anyone dispatches equipment, and that conversation takes two minutes on the phone. Availability is confirmed when you call, and we will tell you what to shut off and what to move before the crew arrives."
    }
+  ],
+  "faqs": [
+   {
+    "q": "Are you licensed and insured in Florida?",
+    "a": "Yes. Work is performed under Florida licensing and carries liability coverage. Mold remediation is done to an independent assessor's protocol, as Florida rules require."
+   },
+   {
+    "q": "Do you use subcontractors?",
+    "a": "Drying and mitigation are done by our own crews. Specialized trades such as roofing, plumbing and structural framing are coordinated with licensed contractors."
+   },
+   {
+    "q": "What does documented drying actually mean?",
+    "a": "Moisture readings taken before equipment is placed, logged daily, and compared against a baseline from unaffected material in your building. You get the record, not a verbal all-clear."
+   },
+   {
+    "q": "Why do you not advertise a response time?",
+    "a": "Because traffic, storm volume and crew availability are real and outside our control. We confirm availability when you call and give an arrival window for your address instead."
+   },
+   {
+    "q": "Do you publish reviews or testimonials?",
+    "a": "No. This site carries no testimonials or review claims. We would rather describe the work and the standards we hold than advertise opinions you cannot verify."
+   },
+   {
+    "q": "How well do you know Pinellas County construction?",
+    "a": "Well enough to plan around it: slab-on-grade floors, concrete block walls, tile set directly on slab, and dew points that sit in the seventies much of the year."
+   },
+   {
+    "q": "Do you work with insurance companies?",
+    "a": "We document the source, the extent and the drying so your adjuster can evaluate the claim on facts. We do not promise coverage outcomes, because the policy decides those."
+   },
+   {
+    "q": "What areas do your crews cover?",
+    "a": "Largo and eleven surrounding Pinellas County communities, from the barrier islands through the mainland cities to the East Lake corridor."
+   },
+   {
+    "q": "Do you handle both mitigation and rebuild?",
+    "a": "Yes. One team carries the job from extraction through drying and into drywall, texture, paint and flooring."
+   },
+   {
+    "q": "What happens if you find mold during drying?",
+    "a": "We stop, contain the area and tell you. Florida separates mold assessment from remediation, so a project needing a written protocol goes to an independent assessor first."
+   }
   ]
  },
  "contact": {
@@ -345,6 +403,48 @@
    {
     "t": "p",
     "v": "For retail, office, medical, restaurant and multi-tenant buildings, mention the square footage affected, the business hours you need protected, whether a sprinkler or rooftop unit is involved, and the after-hours access arrangement. Commercial losses are phased so the business keeps running, and documentation is delivered per suite for managers and carriers."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "How do I reach you?",
+    "a": "By phone at (833) 289-9993. This is an inbound-call operation, with no contact form, email intake, SMS or social channels."
+   },
+   {
+    "q": "Why is there no contact form?",
+    "a": "Water damage decisions need a conversation. A form adds a delay while someone reads it, and the questions we need answered are faster asked live."
+   },
+   {
+    "q": "What information should I have ready when I call?",
+    "a": "The source if you know it, how far the water has traveled, what is on the floor, and whether water is still running. That is enough to scope the visit."
+   },
+   {
+    "q": "What is an arrival window?",
+    "a": "A specific time range for your address, confirmed on the call. It replaces a generic response-time promise, because traffic and crew load are real."
+   },
+   {
+    "q": "Do you take calls for commercial properties?",
+    "a": "Yes, retail, office, medical and multi-unit buildings. Mention your operating hours so the work can be phased around them."
+   },
+   {
+    "q": "Can I call about a small leak?",
+    "a": "Yes. A small leak caught early costs far less than the same leak found later. If drying is not needed, we will tell you that on the phone."
+   },
+   {
+    "q": "What areas do you take calls from?",
+    "a": "Largo and eleven nearby Pinellas County communities, including Clearwater, Seminole, St. Petersburg, Dunedin, Palm Harbor and the beaches."
+   },
+   {
+    "q": "Should I call my insurer or you first?",
+    "a": "Either order works. Policies require you to prevent further damage, so mitigation can start before the adjuster is assigned."
+   },
+   {
+    "q": "What should I do while waiting?",
+    "a": "Stop the water if the shutoff is safe to reach, cut power to wet outlets, lift what you can off the floor, and photograph everything before moving it."
+   },
+   {
+    "q": "Do you answer calls during a storm?",
+    "a": "Call volume rises sharply after a storm and crews are dispatched by severity. We will tell you plainly where you sit rather than promise a window we cannot meet."
    }
   ]
  },

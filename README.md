@@ -76,7 +76,11 @@ no separate location page.
 
 - Unique title + meta description + canonical (real domain) on all 38 pages
 - `LocalBusiness` / `HomeAndConstructionBusiness` schema on every page
-- `FAQPage` schema on every page with an accordion (home, services, locations, FAQ)
+- **10 FAQs on every content page** (36 of 38 pages; the privacy policy and terms
+  carry none by design), each answer 2-3 lines, written for answer-engine and LLM
+  citation as well as rich results
+- `FAQPage` schema on every page with an accordion, one block per page, kept in
+  sync with the visible accordion and with the `faqs` arrays in `_data/`
 - `BlogPosting` schema on articles, `Service` schema on service pages, `BreadcrumbList` on all inner pages
 - Breadcrumbs rendered on every inner page
 - Descriptive keyword-relevant `alt` text on every image; `width`/`height` set to reserve space
@@ -96,6 +100,7 @@ no separate location page.
 ## QA results (last run)
 
 - 38 pages checked; **0** broken internal links, **0** missing images
+- 371 FAQs total; 370 unique questions; visible accordion and FAQPage schema counts match on every page
 - Word counts: min above 1,000 — average ≈ 1,930 words per page
 - Exactly one `<h1>` per page; no duplicate titles
 - No banned availability or estimate claims
