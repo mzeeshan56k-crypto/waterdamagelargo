@@ -198,12 +198,20 @@
    {
     "q": "What should I do before the crew arrives?",
     "a": "Stop the water at the shutoff if you can reach it safely, kill power to wet outlets, and lift what you can off the floor. Photograph the damage before you move anything."
+   },
+   {
+    "q": "What is water mitigation and how is it different from restoration?",
+    "a": "Water mitigation is the emergency work that stops the damage spreading: source control, extraction, removing saturated material and drying. Restoration is the rebuild that follows once the structure holds a dry standard."
+   },
+   {
+    "q": "Do I need water mitigation or water damage restoration in Largo?",
+    "a": "Almost every loss needs both, in that order. Mitigation runs in the first 24 to 48 hours while the building is still wet, and restoration follows once the moisture readings confirm it is dry."
    }
   ]
  },
  "about": {
-  "title": "Water Damage Restoration Largo | About Us, Call Our Crews",
-  "meta": "Water Damage Restoration Largo scopes, dries and documents water losses across Pinellas County. Here is how we work and what we will not promise.",
+  "title": "About Our Largo, FL Water Damage Crews | Call Now",
+  "meta": "Meet the crews behind the dry-out work: how we scope, dry and document water losses across Pinellas County, and the standards we hold ourselves to.",
   "h1": "About Water Damage Restoration Largo",
   "lead": "Water Damage Restoration Largo connects Largo and Pinellas County property owners with local restoration crews for extraction, structural drying, mold remediation and repair. This page explains how the work is scoped, what standards it follows, and what you can expect from the first call to the final walkthrough.",
   "body": [
@@ -336,8 +344,8 @@
   ]
  },
  "contact": {
-  "title": "Water Damage Restoration Largo | Call for an Arrival Window",
-  "meta": "Water Damage Restoration Largo takes inbound calls for extraction, drying and repairs across Pinellas County. Call and we will confirm a window.",
+  "title": "Contact Us | Call for an Arrival Window in Largo",
+  "meta": "Call (833) 289-9993 to reach our crews for extraction, drying and repairs in Largo, FL and Pinellas County. Inbound calls only, no contact forms.",
   "h1": "Contact Water Damage Restoration Largo",
   "lead": "Water losses are handled by phone. Call and we confirm availability and a specific arrival window for your address, and we walk you through shutoffs and safety steps while the crew is on the way.",
   "body": [
@@ -566,8 +574,8 @@
   ]
  },
  "privacy": {
-  "title": "Water Damage Restoration Largo | Privacy Policy",
-  "meta": "Water Damage Restoration Largo privacy policy. What this site collects, how phone call data is handled, and the choices available to you.",
+  "title": "Privacy Policy | Water Damage Restoration Largo",
+  "meta": "How this site handles your information: what is collected, how phone call data is used, and the choices available to you.",
   "h1": "Privacy Policy",
   "lead": "This policy explains what information this website collects, how it is used, and the choices available to you. It applies to waterdamagerestorationlargo.com and to phone calls placed to the number published on this site.",
   "body": [
@@ -678,8 +686,8 @@
   ]
  },
  "terms": {
-  "title": "Water Damage Restoration Largo | Terms of Service",
-  "meta": "Water Damage Restoration Largo terms of service. Site use, informational content, service limitations, contractor independence and liability.",
+  "title": "Terms of Service | Water Damage Restoration Largo",
+  "meta": "Terms governing use of this site: informational content, service limitations, contractor independence and liability.",
   "h1": "Terms of Service",
   "lead": "These terms govern your use of waterdamagerestorationlargo.com. By using this site you agree to them. If you do not agree, please do not use the site.",
   "body": [

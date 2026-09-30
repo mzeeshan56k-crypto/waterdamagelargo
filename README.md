@@ -72,6 +72,25 @@ which carries the absorbed scope content and a `Service` schema block. Largo is
 still a served city everywhere in copy and in `areaServed` schema - it simply has
 no separate location page.
 
+## Keyword targeting and cannibalization
+
+One page owns each commercial term. Only the home page title may lead with
+"Water Damage Restoration Largo" - service pages lead with their own service,
+location pages with their own city, and about/contact lead with their own
+intent. Four pages previously led with the home page's phrase and the terms of
+service page began picking up impressions for `water mitigation largo` and
+`water damage restoration largo`; that is what the current titles prevent.
+
+`privacy-policy/` and `terms-of-service/` are `noindex,follow`, carry no
+`LocalBusiness` schema, and are excluded from `sitemap.xml`. They stay linked
+and crawlable, so they still serve their trust purpose, but they cannot compete
+for commercial queries. Revert by restoring `index,follow` if you ever want
+them indexed.
+
+The home page targets `water damage restoration largo fl`, `water mitigation
+largo` and the secondary variants, with a dedicated water mitigation section
+explaining mitigation versus restoration.
+
 ## Search Console verification
 
 Every page carries the Google Search Console HTML-tag verification meta in the
