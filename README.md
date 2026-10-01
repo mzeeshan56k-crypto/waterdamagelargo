@@ -72,6 +72,21 @@ which carries the absorbed scope content and a `Service` schema block. Largo is
 still a served city everywhere in copy and in `areaServed` schema - it simply has
 no separate location page.
 
+## Home page intent
+
+The home page is commercial-intent. It answers "who do I hire, what will it
+cost, how does insurance work, do they cover me" rather than teaching water
+damage theory. The long "Why Water Damage Behaves Differently in Largo" essay
+was moved off it in favour of a hiring/cost/insurance section, and the blog
+teaser block was reduced to a chips row that keeps the internal links without
+the informational copy. Educational depth lives on the blog and the service
+pages, which is where that intent belongs.
+
+Claims on the home page must stay consistent with the footer disclaimer: this
+site connects owners with independent contractors, does not warrant work, and
+tells owners to verify license and insurance themselves. Do not add copy that
+asserts the site itself is licensed and insured, or that it is the contractor.
+
 ## Keyword targeting and cannibalization
 
 One page owns each commercial term. Only the home page title may lead with
