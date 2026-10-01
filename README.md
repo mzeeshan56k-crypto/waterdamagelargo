@@ -72,6 +72,20 @@ which carries the absorbed scope content and a `Service` schema block. Largo is
 still a served city everywhere in copy and in `areaServed` schema - it simply has
 no separate location page.
 
+## Card links and images
+
+Each card links once, from its heading. The duplicate `.more` button that
+repeated the same href with "<name> details" anchor text was removed site-wide
+(179 of them); Google counts the first link's anchor anyway, so the second was
+redundant. On `fl/index.html` the button carried a better anchor than the
+heading ("Clearwater water damage restoration" vs "Clearwater, FL"), so those
+headings were rewritten to carry that text before the buttons were removed.
+
+Home page service cards carry the same photo as the service page they link to,
+pulled from the `img`/`alt` fields in `_data`. Images are full-bleed to the card
+edge via a negative margin on `.card img`, fixed at 16:10, with intrinsic
+width/height so nothing shifts while they load.
+
 ## Home page intent
 
 The home page is commercial-intent. It answers "who do I hire, what will it
