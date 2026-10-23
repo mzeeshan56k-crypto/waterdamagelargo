@@ -110,11 +110,10 @@ intent. Four pages previously led with the home page's phrase and the terms of
 service page began picking up impressions for `water mitigation largo` and
 `water damage restoration largo`; that is what the current titles prevent.
 
-`privacy-policy/` and `terms-of-service/` are `noindex,follow`, carry no
-`LocalBusiness` schema, and are excluded from `sitemap.xml`. They stay linked
-and crawlable, so they still serve their trust purpose, but they cannot compete
-for commercial queries. Revert by restoring `index,follow` if you ever want
-them indexed.
+`privacy-policy/` and `terms-of-service/` are indexable (`index,follow`) and
+listed in `sitemap.xml`. They are kept from competing on commercial queries by
+their titles, which lead with the document name rather than the money phrase,
+and by carrying no `LocalBusiness` schema. Do not add `noindex` to them.
 
 The home page targets `water damage restoration largo fl`, `water mitigation
 largo` and the secondary variants, with a dedicated water mitigation section
