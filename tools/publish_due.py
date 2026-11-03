@@ -5,6 +5,7 @@ Moves _scheduled/<slug>/ to blog/<slug>/, adds a card to the blog index
 and a <url> to sitemap.xml. Safe to re-run: already published posts are skipped.
 """
 import os,sys,json,re,shutil,datetime,html as H
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE="https://waterdamagerestorationlargo.com"
 e=lambda s:H.escape(str(s),quote=True)
@@ -24,27 +25,20 @@ def run(today=None,dry=False):
         for s,v in due: print("  would publish",v['date'],s)
         return [s for s,_ in due]
 
-    idx_p=os.path.join(ROOT,'blog/index.html'); idx=open(idx_p,encoding='utf-8').read()
     sm_p=os.path.join(ROOT,'sitemap.xml'); sm=open(sm_p,encoding='utf-8').read()
     published=[]
     for slug,v in due:
         shutil.move(os.path.join(ROOT,'_scheduled',slug), os.path.join(ROOT,'blog',slug))
-        d=datetime.date.fromisoformat(v['date'])
-        pretty=f"{d.strftime('%B')} {d.day}, {d.year}"
-        card=(f'<article class="card"><h3><a href="{BASE}/blog/{slug}/">{e(v["h1"])}</a></h3>'
-              f'<p class="postmeta"><span>{pretty}</span><span>Largo, FL</span></p>'
-              f'<p>{e(v["desc"])}</p></article>')
-        anchor='<div class="grid g3">'
-        assert idx.count(anchor)>=1, "blog index grid not found"
-        idx=idx.replace(anchor, anchor+card, 1)          # newest first
         loc=f"{BASE}/blog/{slug}/"
         if loc not in sm:
             sm=sm.replace('</urlset>',
               f'<url><loc>{loc}</loc><lastmod>{v["date"]}</lastmod>'
               f'<changefreq>monthly</changefreq><priority>0.6</priority></url>\n</urlset>',1)
         published.append(slug); print("  published",v['date'],slug)
-    open(idx_p,'w',encoding='utf-8').write(idx)
     open(sm_p,'w',encoding='utf-8').write(sm)
+    import rebuild_blog_index
+    total,groups=rebuild_blog_index.build()
+    print(f"  blog index rebuilt: {total} posts listed {groups}")
     return published
 
 if __name__=='__main__':
