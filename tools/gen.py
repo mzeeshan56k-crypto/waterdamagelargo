@@ -12,6 +12,28 @@ for jf in ('_data/services-a.json','_data/services-b.json'):
     for e in json.load(open(os.path.join(ROOT,jf),encoding='utf-8')):
         SVC_NAMES[e['slug']]=e['name']
 e=lambda s: H.escape(str(s),quote=True)
+IMG_DIMS={}
+IMG_ALT={}
+for _jf in ('_data/services-a.json','_data/services-b.json'):
+    for _e in json.load(open(os.path.join(ROOT,_jf),encoding='utf-8')):
+        IMG_ALT.setdefault(_e['img'],_e['alt'])
+def _measure():
+    import struct
+    for fn in os.listdir(os.path.join(ROOT,'assets')):
+        if not fn.lower().endswith(('.jpg','.jpeg')): continue
+        try:
+            with open(os.path.join(ROOT,'assets',fn),'rb') as f:
+                f.read(2)
+                while True:
+                    b=f.read(1)
+                    while b and b!=b'\xff': b=f.read(1)
+                    m=f.read(1)
+                    while m==b'\xff': m=f.read(1)
+                    if m in (b'\xc0',b'\xc1',b'\xc2',b'\xc3'):
+                        f.read(3); hh,ww=struct.unpack('>HH',f.read(4)); IMG_DIMS[fn]=(ww,hh); break
+                    ln=struct.unpack('>H',f.read(2))[0]; f.read(ln-2)
+        except Exception: pass
+_measure()
 
 def _registry():
     """slug -> description, for posts already written or already live."""
@@ -105,20 +127,53 @@ def render(slug,post,date):
                  for q,a in post['faqs'])
     body=''.join(f'<h2>{e(hh)}</h2>'+_body(bb) for hh,bb in post['sections'])
 
-    main=f'''<main id="main">
-<nav class="crumbs" aria-label="Breadcrumb"><div class="wrap"><ol><li><a href="{BASE}/">Home</a></li><li><a href="{BASE}/blog/">Blog</a></li><li aria-current="page">{e(h1)}</li></ol></div></nav>
+    import datetime as _dt
+    _d=_dt.date.fromisoformat(date)
+    pretty=f"{_d.strftime('%B')} {_d.day}, {_d.year}"
+    img=post.get('img','water-damage-hallway-air-movers-largo-home.jpg')
+    alt=post.get('imgalt') or IMG_ALT.get(img) or h1
+    dims=IMG_DIMS.get(img,(960,640))
 
-<section class="sec-tint rv"><div class="wrap narrow">
-<p class="eyebrow">{e(post.get('eyebrow','Water damage guide'))}</p>
+    secs=[(hh,bb) for hh,bb in post['sections']]
+    mid=max(1,len(secs)//2)
+    body_a=''.join(f'<h2>{e(hh)}</h2>'+_body(bb) for hh,bb in secs[:mid])
+    body_b=''.join(f'<h2>{e(hh)}</h2>'+_body(bb) for hh,bb in secs[mid:])
+
+    call=post.get('call',{})
+    call_h2=call.get('h2',f"When to Call a Water Damage Crew in Largo")
+    call_lead=call.get('lead',"Call if any of these apply. A two minute conversation is usually enough to tell you whether the work needs a crew.")
+    call_signs=call.get('signs',[
+        "Water has reached carpet, a wall base or a cabinet",
+        "The smell is there but you cannot find the source",
+        "The area was wet for more than a day",
+        "You cannot tell how far the water travelled"])
+
+    def strip(text):
+        return ('<div class="callstrip"><p>'+e(text)+'</p>'
+                '<a class="btn btn-call" href="tel:+18332899993">Call (833) 289-9993</a></div>')
+
+    main=f'''<main id="main">
+<section style="padding-bottom:0"><div class="wrap narrow">
 <h1>{e(h1)}</h1>
-<p class="lead">{e(post['intro'][0])}</p>
-<p>{e(post['intro'][1])}</p>
-<div class="callstrip"><p>{e(post.get('cta','Water coming in right now? Call and we will confirm an arrival window for your address.'))}</p><a class="btn btn-call" href="tel:+18332899993">Call (833) 289-9993</a></div>
+<p class="postmeta"><span>Published {pretty}</span><span>Water Damage Restoration Largo</span><span>Largo, FL</span></p>
+<div class="media wide"><img src="../../assets/{img}" width="{dims[0]}" height="{dims[1]}" alt="{e(alt)}" fetchpriority="high"></div>
 </div></section>
 
-<section class="rv"><div class="wrap narrow prose">
-{body}
+<section><div class="wrap narrow prose">
+<p class="lead">{e(post['intro'][0])}</p>
+<p>{e(post['intro'][1])}</p>
+{strip(post.get('cta','Water coming in right now? Call and we will confirm an arrival window for your address.'))}
+{body_a}
+{strip(post.get('cta2','Not sure whether this is a job for a crew? Describe what you are seeing and we will tell you plainly.'))}
+{body_b}
 <p>For the full scope of extraction, drying and repair work across Pinellas County, see <a href="{BASE}/">water damage restoration in Largo, FL</a>.</p>
+</div></section>
+
+<section class="sec-tint rv"><div class="wrap narrow">
+<div class="sec-head"><p class="eyebrow">Get it handled</p><h2>{e(call_h2)}</h2>
+<p class="lead">{e(call_lead)}</p></div>
+<ul class="ticks">{''.join(f'<li>{e(x)}</li>' for x in call_signs)}</ul>
+{strip(post.get('cta3','Availability is confirmed when you call, with an arrival window for your address.'))}
 </div></section>
 
 <section class="rv"><div class="wrap">

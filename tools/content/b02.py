@@ -74,32 +74,48 @@ POSTS={
  "Mold and mildew get used as if they mean the same thing, and in a Florida home the difference decides whether you clean a surface or remove material. Mildew sits on top of a surface. Mold grows into it.",
  "Largo homes give both plenty of opportunity. High dew points, slab construction and air conditioned surfaces that stay cool enough to collect moisture make growth easy. Telling them apart takes about a minute."],
 "sections":[
- ("The Practical Difference",[
+ ("Mold or Mildew: The Practical Difference",[
   ("table",["","Mildew","Mold"],
    [["Where it sits","On the surface","Into the material"],
     ["Appearance","Flat, powdery, grey or white","Fuzzy or slimy, green, black, grey or brown"],
     ["Typical location","Tile grout, shower, window sill","Drywall, wood, insulation, carpet pad"],
     ["Response","Clean the surface","Find the moisture source and remove affected porous material"]]),
   "A simple test: wipe it. If the surface comes clean and stays clean, you were dealing with mildew and a humidity problem. If it reappears in the same place, or the material underneath is soft or stained, you have mold with a moisture source behind it."]),
- ("Why Florida Makes Both Common",[
+ ("Why Both Are So Common in Largo Homes",[
   "Pinellas County dew points sit in the seventies for much of the year. Warm, wet air meeting an air conditioned wall or a cool tile surface produces condensation, and condensation is all mildew needs.",
   "Mold needs more. It needs a material it can feed on, which means drywall paper, wood, insulation or carpet pad, and it needs that material to stay wet."]),
- ("Where Mold Hides in a Largo House",[
+ ("Where Mold Hides in a Largo Slab Home",[
   ("ul",["Behind baseboards where a slab leak wicked up the drywall",
          "Inside wall cavities after a supply line failure",
          "Under tile set directly on slab",
          "In the air handler closet around a rusted condensate pan",
          "Under carpet pad in a room that was wet and dried only on the surface",
          "In attic insulation under a roof leak"])]),
- ("When Cleaning Is Enough",[
+ ("When Cleaning Is Enough and When It Is Not",[
   "On hard, non porous surfaces like tile, glass and sealed countertops, cleaning works. Detergent and a cloth remove surface growth, and keeping the area dry keeps it away.",
   "On drywall, bare wood, insulation and carpet pad it does not. Those materials are porous, growth reaches below the surface, and spraying them wets the material further without reaching the root."]),
- ("Why Bleach Is the Wrong Tool Indoors",[
+ ("Why Bleach Makes Mold Worse on Drywall",[
   "Bleach works on hard non porous surfaces. On porous material it mostly adds water. The bleach stays near the surface, the water soaks in, and the growth often returns stronger.",
   "Removing the moisture source and removing affected porous material is what actually resolves it."]),
- ("What Both Problems Have in Common",[
+ ("What Mold Remediation Involves in Largo",[
+  "Remediation is not spraying. The moisture source is corrected first, the work area is sealed under negative pressure with HEPA filtration, affected porous material is removed and bagged on site, and remaining surfaces are HEPA vacuumed and wiped.",
+  "Scope drives cost far more than area does. A contained bathroom or closet sits at the low end. Multiple rooms, HVAC involvement or attic work costs considerably more because of how much material has to come out.",
+  "Florida licenses mold assessors and mold remediators separately, and one company generally cannot do both on the same project. Jobs needing a written protocol and clearance start with an independent assessor and finish with verification.",
+ ]),
+ ("Fix the Moisture or It Comes Back",[
   "Neither is solved by treating what you can see. Mildew returns if the humidity stays high. Mold returns if the leak is still there.",
   "Correct the moisture first, every time. In Largo that usually means fixing a leak, clearing a condensate line or getting indoor humidity down and holding it there."])],
+"cta":"Smell mold but cannot find it? Call and describe what you are seeing.",
+"cta2":"Not sure if it is mildew or mold? Two minutes on the phone usually settles it.",
+"cta3":"Availability is confirmed when you call, with an arrival window for your address.",
+"call":{"h2":"When to Call a Mold Remediation Crew in Largo",
+ "lead":"Surface mildew is a cleaning job. These are the signs that the problem is inside the material and needs a crew.",
+ "signs":["The same spot returns within days of cleaning it",
+          "There is a musty smell with nothing visible on the surface",
+          "Drywall feels soft, or paint is bubbling in a band near the floor",
+          "Growth covers more than roughly ten square feet",
+          "It followed a leak, a flood or a slab issue",
+          "Someone in the house has asthma, allergies or an immune condition"]},
 "guides_h2":"Related Mold Guides for Pinellas County",
 "linkblurbs":[
  "Where to look when the smell is clear but nothing is visible.",
